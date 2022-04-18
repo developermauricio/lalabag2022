@@ -1,0 +1,716 @@
+{
+  "observerUrl": "./preview/dist/countdown-timer-observer.js",
+  "preferences": {
+    "previewUpdateTimeout": 0,
+    "previewDefaultBgColor": "white",
+    "enableCustomCSS": true
+  },
+  "settings": {
+    "tabs": [
+      {
+        "id": "timer",
+        "name": "Timer",
+        "active": true
+      },
+      {
+        "id": "button",
+        "name": "Button"
+      },
+      {
+        "id": "style",
+        "name": "Style"
+      },
+      {
+        "id": "advanced",
+        "name": "Advanced"
+      }
+    ],
+    "properties": [
+      {
+        "id": "type",
+        "name": "Type",
+        "tab": "timer",
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "value": "scheduled",
+              "name": "Start-to-finish timer"
+            },
+            {
+              "value": "remaining",
+              "name": "Remaining time counter per visitor"
+            },
+            {
+              "value": "number",
+              "name": "Start-to-finish number counter"
+            }
+          ]
+        },
+        "defaultValue": "scheduled",
+        "description": "Select timer type you need to use. Start-to-finish timer counts the time from the start time to end time. Remaining time counter counts down the time interval you indicate and it's unique for each website visitor. Start-to-finish number counter counts the number from the start number to end number."
+      },
+      {
+        "id": "startTime",
+        "name": "Start Time",
+        "tab": "timer",
+        "type": "datepicker",
+        "datepicker": {
+          "currentDate": true
+        },
+        "defaultValue": "",
+        "allowEmpty": true,
+        "description": "Set the start date and time for the timer. The timer will be displayed on your website only after the start time."
+      },
+      {
+        "id": "endTime",
+        "name": "End Time",
+        "tab": "timer",
+        "type": "datepicker",
+        "datepicker": {
+          "currentDate": true,
+          "addDays": 5
+        },
+        "defaultValue": "",
+        "description": "Set the finish date and time."
+      },
+      {
+        "id": "startNumber",
+        "name": "Count from",
+        "tab": "timer",
+        "type": "number",
+        "defaultValue": 1,
+        "description": "Starting number for the timer. If this value is more than the end number, the numbers will be counted down. If this value is less than the end number, the numbers will be counted up."
+      },
+      {
+        "id": "endNumber",
+        "name": "Count to",
+        "tab": "timer",
+        "type": "number",
+        "defaultValue": 100,
+        "description": "End number for the timer. If this value is more than the start number, the numbers will be counted up. If this value is less than the start number, the numbers will be counted down."
+      },
+      {
+        "id": "numberFrequency",
+        "name": "Countdown Frequency",
+        "tab": "timer",
+        "type": "select-inline",
+        "selectInline": {
+          "options": [
+            {
+              "value": "auto",
+              "name": "Auto"
+            },
+            {
+              "value": "custom",
+              "name": "Custom"
+            }
+          ]
+        },
+        "defaultValue": "auto",
+        "description": "Set the frequency with which the numbers change in your counter. If you set to auto, the widget will use our smart algorithm that emulates real human behavior and encourages people to act."
+      },
+      {
+        "id": "numberFrequencyValue",
+        "name": "Custom Countdown Frequency (sec)",
+        "tab": "timer",
+        "type": "number",
+        "defaultValue": 10,
+        "allowEmpty": true,
+        "description": "Set the countdown frequency rate in seconds."
+      },
+      {
+        "id": "timeValue",
+        "name": "Remaining time period",
+        "tab": "timer",
+        "type": "number",
+        "defaultValue": 24,
+        "description": "Set the remaining time period in this field, and choose the relevant time unit in the next field. For example, 24 and hours."
+      },
+      {
+        "id": "timeUnit",
+        "name": "Set the time in",
+        "tab": "timer",
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "value": "days",
+              "name": "Days"
+            },
+            {
+              "value": "hours",
+              "name": "Hours"
+            },
+            {
+              "value": "minutes",
+              "name": "Minutes"
+            },
+            {
+              "value": "seconds",
+              "name": "Seconds"
+            }
+          ]
+        },
+        "defaultValue": "hours",
+        "description": "Set the time unit to be applied to the value in the field above."
+      },
+      {
+        "id": "remainingRestartSubgroup",
+        "name": "Counter Restart Settings",
+        "tab": "timer",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "remainingRestartEnabled",
+              "name": "Enable Counter Restart",
+              "description": "Enabling this option will make the counter restart after finish for a visitor. The counter will be restarted after the time period you set in fields below.",
+              "type": "toggle",
+              "defaultValue": true
+            },
+            {
+              "id": "remainingRestartValue",
+              "name": "Time period before restart",
+              "type": "number",
+              "defaultValue": 1,
+              "description": "Set the time period after which the counter will be restarted. Choose the relevant time unit in the next field. For example, 24 and hours."
+            },
+            {
+              "id": "remainingRestartUnit",
+              "name": "Set the time in",
+              "type": "select",
+              "select": {
+                "options": [
+                  {
+                    "value": "days",
+                    "name": "Days"
+                  },
+                  {
+                    "value": "hours",
+                    "name": "Hours"
+                  },
+                  {
+                    "value": "minutes",
+                    "name": "Minutes"
+                  },
+                  {
+                    "value": "seconds",
+                    "name": "Seconds"
+                  }
+                ]
+              },
+              "defaultValue": "days",
+              "description": "Set the time unit to be applied to the value in the field above."
+            }
+          ]
+        }
+      },
+      {
+        "id": "position",
+        "name": "Position",
+        "tab": "timer",
+        "type": "radio",
+        "radio": {
+          "options": [
+            {
+              "value": "custom",
+              "name": "Install to required position"
+            },
+            {
+              "value": "top-bar-static",
+              "name": "Static top banner"
+            },
+            {
+              "value": "top-bar-floating",
+              "name": "Floating top banner"
+            },
+            {
+              "value": "bottom-bar-floating",
+              "name": "Floating bottom banner"
+            }
+          ]
+        },
+        "defaultValue": "custom",
+        "description": "Position your timer. Choosing install to required position will make the timer display exactly where you've added your widget. Static top bar - the timer is displayed as bar only on top of the page. Floating top and bottom bars display the timer at top/bottom of the your browser window and they are visible while scrolling the page."
+      },
+      {
+        "id": "messageBeforeTimer",
+        "name": "Message Before Timer",
+        "tab": "timer",
+        "type": "textarea",
+        "textarea": {
+          "enableRichEdit": true,
+          "enableRichEditHtml": true,
+          "fixedMinHeight": true
+        },
+        "defaultValue": "Limited-time offer! Sale ends in",
+        "allowEmpty": true,
+        "description": "Set any text you want to display before the timer. Describe your offer or encourage your visitors to take action."
+      },
+      {
+        "type": "divider",
+        "tab": "timer"
+      },
+      {
+        "id": "timerSubgroup",
+        "name": "Counters & Labels",
+        "tab": "timer",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "elements",
+              "name": "Display the count in",
+              "type": "checklist",
+              "checklist": {
+                "options": [
+                  {
+                    "value": "days",
+                    "name": "Days"
+                  },
+                  {
+                    "value": "hours",
+                    "name": "Hours"
+                  },
+                  {
+                    "value": "minutes",
+                    "name": "Minutes"
+                  },
+                  {
+                    "value": "seconds",
+                    "name": "Seconds"
+                  }
+                ]
+              },
+              "defaultValue": [
+                "days",
+                "hours",
+                "minutes",
+                "seconds"
+              ],
+              "description": "Choose how to display your count."
+            },
+            {
+              "id": "daysLabel",
+              "name": "Days label",
+              "type": "text",
+              "defaultValue": "Days",
+              "allowEmpty": true,
+              "description": "Set your own days label or leave it blank."
+            },
+            {
+              "id": "hoursLabel",
+              "name": "Hours label",
+              "type": "text",
+              "defaultValue": "Hours",
+              "allowEmpty": true,
+              "description": "Set your own hours label or leave it blank."
+            },
+            {
+              "id": "minutesLabel",
+              "name": "Minutes label",
+              "type": "text",
+              "defaultValue": "Minutes",
+              "allowEmpty": true,
+              "description": "Set your own minutes label or leave it blank."
+            },
+            {
+              "id": "secondsLabel",
+              "name": "Seconds label",
+              "type": "text",
+              "defaultValue": "Seconds",
+              "allowEmpty": true,
+              "description": "Set your own seconds label or leave it blank."
+            }
+          ]
+        }
+      },
+      {
+        "id": "timerFinishActionSubgroup",
+        "name": "Action After Timer Finishes",
+        "tab": "timer",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "timerStopAction",
+              "name": "Select action",
+              "type": "select",
+              "select": {
+                "options": [
+                  {
+                    "value": "hide",
+                    "name": "Hide timer"
+                  },
+                  {
+                    "value": "message",
+                    "name": "Show message"
+                  },
+                  {
+                    "value": "redirect",
+                    "name": "Redirect to URL"
+                  }
+                ]
+              },
+              "defaultValue": "hide",
+              "description": "Select an action to perform upon timer finish."
+            },
+            {
+              "id": "timerStopMessage",
+              "name": "Message After Timer Finish",
+              "type": "textarea",
+              "textarea": {
+                "enableRichEdit": true,
+                "enableRichEditHtml": true,
+                "fixedMinHeight": true
+              },
+              "defaultValue": "",
+              "allowEmpty": true,
+              "description": "Set the message to display after the count is over. For example, direct the visitors who had missed your offer to your sales page."
+            },
+            {
+              "id": "timerStopButtonVisible",
+              "name": "Show Button After Timer Finish",
+              "tab": "button",
+              "type": "toggle",
+              "defaultValue": true,
+              "description": "Show/Hide button below the timer after it finishes. Use this button to encourage visitors to take action."
+            },
+            {
+              "id": "timerStopButtonLink",
+              "name": "Button Link After Timer Finish",
+              "tab": "button",
+              "type": "text",
+              "defaultValue": "",
+              "allowEmpty": true,
+              "description": "Set the URL to direct your visitors to after the timer finishes."
+            },
+            {
+              "id": "timerStopButtonText",
+              "name": "Button Text After Timer Finish",
+              "tab": "button",
+              "type": "text",
+              "allowEmpty": true,
+              "defaultValue": "",
+              "description": "Set button text after the timer finishes."
+            },
+            {
+              "id": "timerStopRedirect",
+              "name": "Redirect to URL after the timer finish",
+              "type": "text",
+              "defaultValue": "",
+              "allowEmpty": true,
+              "description": "Set the URL to redirect after the count is over. For example, redirect the visitors who had missed your offer to your sales page."
+            }
+          ]
+        }
+      },
+      {
+        "id": "alignSubgroup",
+        "name": "Timer Align",
+        "tab": "timer",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "align",
+              "name": "Align",
+              "tab": "position",
+              "type": "select-inline",
+              "selectInline": {
+                "options": [
+                  {
+                    "value": "left",
+                    "name": "left"
+                  },
+                  {
+                    "value": "center",
+                    "name": "center"
+                  },
+                  {
+                    "value": "right",
+                    "name": "right"
+                  }
+                ]
+              },
+              "defaultValue": "center",
+              "description": "Align your widget to the left or right side of the container, or place it in the center of it."
+            }
+          ]
+        }
+      },
+      {
+        "id": "buttonVisible",
+        "name": "Show Button",
+        "tab": "button",
+        "type": "toggle",
+        "defaultValue": true,
+        "description": "Show/Hide button below the timer. Use this button to encourage visitors to take action."
+      },
+      {
+        "id": "buttonLink",
+        "name": "Button Link",
+        "tab": "button",
+        "type": "text",
+        "defaultValue": "https://elfsight.com",
+        "allowEmpty": true,
+        "description": "Set the URL to direct your visitors to. This button will be displayed only if you set the link."
+      },
+      {
+        "id": "buttonText",
+        "name": "Button Text",
+        "tab": "button",
+        "type": "text",
+        "defaultValue": "Shop now",
+        "description": "Set button text to encourage your visitors to take action."
+      },
+      {
+        "id": "buttonLinkTargetBlank",
+        "name": "Open the link in a new browser tab",
+        "tab": "button",
+        "type": "toggle",
+        "defaultValue": true,
+        "description": "Set this option to ON to open the link in a new tab. Set it to OFF to open in the same window."
+      },
+      {
+        "id": "areaClickable",
+        "name": "Make the whole timer clickable",
+        "tab": "button",
+        "type": "toggle",
+        "defaultValue": true,
+        "description": "Set this option to ON to make the entire timer area clickable. Set it to OFF to have only one clickable button in the timer area"
+      },
+      {
+        "id": "style",
+        "name": "Style",
+        "tab": "style",
+        "type": "select-visual",
+        "select": {
+          "options": [
+            {
+              "value": "clean",
+              "img": "https://elfsight.com/assets/countdown-timer/clean.png"
+            },
+            {
+              "value": "separated-blocks",
+              "img": "https://elfsight.com/assets/countdown-timer/seppareted-blocks.png"
+            },
+            {
+              "value": "combined-blocks",
+              "img": "https://elfsight.com/assets/countdown-timer/blocks.png"
+            },
+            {
+              "value": "gradient-blocks",
+              "img": "https://elfsight.com/assets/countdown-timer/gradient-blocks.png"
+            },
+            {
+              "value": "outline-blocks",
+              "img": "https://elfsight.com/assets/countdown-timer/bordered.png"
+            }
+          ]
+        },
+        "defaultValue": "separated-blocks",
+        "description": "Choose the display style of your timer."
+      },
+      {
+        "id": "theme",
+        "name": "Holiday theme",
+        "tab": "style",
+        "type": "select-visual",
+        "select": {
+          "options": [
+            {
+              "value": "default",
+              "name": "None",
+              "img": "https://elfsight.com/assets/countdown-timer/none.png"
+            },
+            {
+              "value": "christmas",
+              "name": "Christmas",
+              "img": "https://elfsight.com/assets/countdown-timer/christmas.png"
+            },
+            {
+              "value": "new-year",
+              "name": "New Year",
+              "img": "https://elfsight.com/assets/countdown-timer/newyear.png"
+            },
+            {
+              "value": "valentine",
+              "name": "Valentine's Day",
+              "img": "https://elfsight.com/assets/countdown-timer/valentine.png"
+            },
+            {
+              "value": "thanksgiving",
+              "name": "Thanksgiving",
+              "img": "https://elfsight.com/assets/countdown-timer/thanksgiving.png"
+            },
+            {
+              "value": "halloween",
+              "name": "Halloween",
+              "img": "https://elfsight.com/assets/countdown-timer/halloween.png"
+            },
+            {
+              "value": "cyber-monday",
+              "name": "Cyber Monday",
+              "img": "https://elfsight.com/assets/countdown-timer/monday.png"
+            },
+            {
+              "value": "black-friday",
+              "name": "Black Friday",
+              "img": "https://elfsight.com/assets/countdown-timer/blackfriday.png"
+            }
+          ]
+        },
+        "defaultValue": "default",
+        "description": "Optional feature to style your widget in the spirit of the season."
+      },
+      {
+        "tab": "style",
+        "type": "divider"
+      },
+      {
+        "id": "colorsSubgroup",
+        "name": "Colors",
+        "tab": "style",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "timerColor",
+              "name": "Timer color",
+              "type": "color",
+              "defaultValue": "rgb(27, 88, 255)",
+              "description": "Set your timer color."
+            },
+            {
+              "id": "labelsColor",
+              "name": "Labels Color",
+              "type": "color",
+              "defaultValue": "rgb(0, 0, 0)",
+              "description": "Set timer labels color."
+            },
+            {
+              "id": "messageColor",
+              "name": "Message color",
+              "type": "color",
+              "defaultValue": "rgb(0, 0, 0)",
+              "description": "Set the message color."
+            },
+            {
+              "id": "buttonColor",
+              "name": "Button color",
+              "type": "color",
+              "defaultValue": "rgb(0, 0, 0)",
+              "description": "Set the button color."
+            },
+            {
+              "id": "backgroundColor",
+              "name": "Background Color",
+              "type": "color",
+              "defaultValue": "",
+              "description": "Set the background color."
+            }
+          ]
+        }
+      },
+      {
+        "id": "sizesSubgroup",
+        "name": "Sizes & Fonts",
+        "tab": "style",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "messageFontSize",
+              "name": "Message font size (px)",
+              "type": "number",
+              "defaultValue": 20,
+              "description": "Set the font size for the message text."
+            },
+            {
+              "id": "timerSize",
+              "name": "Timer Size",
+              "tab": "layout",
+              "type": "slider",
+              "slider": {
+                "maxLimit": 60,
+                "minLimit": 16,
+                "floor": 16,
+                "ceil": 60,
+                "step": 1,
+                "hidePointerLabels": true,
+                "hideLimitLabels": true,
+                "labels": {
+                  "right": "Small",
+                  "left": "Large"
+                }
+              },
+              "defaultValue": 32,
+              "description": "Set timer size."
+            },
+            {
+              "id": "buttonSize",
+              "name": "Button Size",
+              "tab": "style",
+              "type": "slider",
+              "slider": {
+                "maxLimit": 22,
+                "minLimit": 10,
+                "floor": 10,
+                "ceil": 22,
+                "step": 1,
+                "hidePointerLabels": true,
+                "hideLimitLabels": true,
+                "labels": {
+                  "right": "Small",
+                  "left": "Large"
+                }
+              },
+              "defaultValue": 16,
+              "description": "Set button size."
+            }
+          ]
+        }
+      },
+      {
+        "id": "animationSubgroup",
+        "name": "Animation",
+        "tab": "style",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "animation",
+              "name": "Animation",
+              "tab": "style",
+              "type": "select",
+              "select": {
+                "options": [
+                  {
+                    "value": "none",
+                    "name": "none"
+                  },
+                  {
+                    "value": "flip",
+                    "name": "flip"
+                  },
+                  {
+                    "value": "slide",
+                    "name": "slide"
+                  },
+                  {
+                    "value": "fade",
+                    "name": "fade"
+                  }
+                ]
+              },
+              "defaultValue": "none",
+              "description": "Choose animation type to change the numbers."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+<input type="submit" name="<?php echo esc_attr($input_name); ?>" value="<?php echo esc_attr($text); ?>" <?php elaine_edge_inline_style($button_styles); ?> <?php elaine_edge_class_attribute($button_classes); ?> <?php echo elaine_edge_get_inline_attrs($button_data); ?> <?php echo elaine_edge_get_inline_attrs($button_custom_attrs); ?> />

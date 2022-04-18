@@ -1,0 +1,3 @@
+03-19-2022 @ 11:12:34 - find a subscription at create_order : 8667 product_id : 7421
+03-19-2022 @ 11:12:34 - find a subscription at woocommerce_checkout_order_processed : 8667 product_id : 7421
+03-19-2022 @ 11:12:35 - Created a new subscription 8668 for order: 8667

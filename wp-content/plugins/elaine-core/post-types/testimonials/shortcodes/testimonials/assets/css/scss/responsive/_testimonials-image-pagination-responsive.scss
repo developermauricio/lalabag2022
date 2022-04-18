@@ -1,0 +1,94 @@
+.edgtf-testimonials-holder {
+    @include ipad-landscape {
+        .edgtf-testimonials {
+            padding: 0 40px;
+            .edgtf-testimonial-content {
+                .edgtf-testimonial-text {
+                    margin-top: 0px;
+                    padding: 0;
+                    font-size: 15px;
+                    line-height: 27px;
+                }
+    
+                .edgtf-tesstimonial-icon{
+                    font-size: 300px;
+                    top: 75px;
+                    left: 40%;
+                }
+            }
+            .owl-nav {
+                display: none;
+                .owl-prev, .owl-next {
+                    top: 100px;
+                }
+                .owl-prev{
+                    left: -10px;
+                }
+    
+                .owl-next{
+                    right: -10px;
+                }
+        }
+            .owl-dots{
+                //display: none;
+            }
+        }
+    }
+    @include ipad-portrait {
+        .edgtf-testimonials {
+            padding: 0 40px;
+            .edgtf-testimonial-content {
+                .edgtf-tesstimonial-icon{
+                    left: 37%;
+                }
+            }
+            .owl-nav {
+                .owl-prev, .owl-next {
+                    top: 100px;
+                }
+    
+                .owl-prev{
+                    left: -10px;
+                }
+    
+                .owl-next{
+                    right: -10px;
+                }
+            }
+        }
+    }
+    
+    @include phone-landscape {
+
+        .edgtf-testimonials {
+            padding: 0 50px;
+            .edgtf-testimonial-content {
+                .edgtf-testimonial-text {
+                    margin: 0px;
+                    font-size: 15px;
+                    line-height: 27px;
+                    padding: 0 15px;
+                }
+                
+                .edgtf-tesstimonial-icon{
+                    font-size: 120px;
+                    top: 30px;
+                    left: 33%;
+                }
+            }
+            .owl-nav {
+                .owl-prev, .owl-next {
+                    top: 150px;
+                }
+                
+                .owl-prev{
+                    left: 0;
+                }
+                
+                .owl-next{
+                    right: 0;
+                }
+            }
+        }
+    }
+}

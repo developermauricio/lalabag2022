@@ -1,0 +1,1769 @@
+{
+  "observerUrl": "./preview/dist/pricing-table-observer.js",
+  "preferences": {
+    "previewUpdateTimeout": 0,
+    "enableCustomCSS": true
+  },
+  "settings": {
+    "tabs": [
+      {
+        "id": "layout",
+        "name": "Layout",
+        "active": true
+      },
+      {
+        "id": "content",
+        "name": "Content"
+      },
+      {
+        "id": "elements",
+        "name": "Appearance"
+      }
+    ],
+    "properties": [
+      {
+        "id": "layout",
+        "name": "Layout",
+        "tab": "layout",
+        "type": "select-visual",
+        "select": {
+          "options": [
+            {
+              "value": "columns",
+              "name": "Columns",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAA7CAYAAAD2Hu26AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABAVJREFUeNrsnN1O4kAUx6elfMMmyoebAHZ1w76EN27iS+zu86kvYbLe+BReuGC8ABUSQVEKsnOG7wrtTDud7jbnJBPoMO2v5w+d+U+bQfvx89c+IeSCljoJNm5o+X5+dtpYrZzxL2k5UMA/pvymjW/Sl98K+Ne0nOiKxCazhK5ogqvJEkViz/mXG/hXivig8YWuSOx5VGjRVrY1Rcmuim7nVxTy6zrBUBooOAoe7TB4Gr29vZHxeOTYJhYzSDKZDOQko8R3Ffz+vk0eHh64Tmx3t0D29vakJttut8jj4yNX20KhQMplufxWq0U6HT5+sVgkpVLZX5fS6XS4T67b7Uj/dYnwRdoGkRMP31XweDzODRRpy3/MRCBtg8iJp61rl1KtVmm3ck+Gw6ErzO1y8hJzvmUNXcUulUoB8GusW7Usy7FdIsHHdxU8kUiSSqUa2qgOAxGIHi6/hrYQfTgGCo6CY6DgKHjEw9h276DZnD6Y2d+HBzIa2x6NRnwHNQy2XzKZ8nzvYsk32as43/R8b+Ujf0K3m1L4GwXv93uLg/d6PaJpGjcMAtrCfl4Fh32X/Cf2hXvjJz3yn9byB8FF+aDhJv7GLiWXy7NvCUo+n19sc182s/28Buy75H9abKvjf1rL3wsfNOPuUuCbqde/rdXB9ng85gLGYjHfs7uo8g2RE/GbiN+IAh9dCroUdCnoUtCloEtBl4IuBV0KBroUdCnoUtCloEtBl4IuBV3KPxsoOAqOgmOg4BGbabqZ+slkwt7DhEjEn8qI/53P3Rogt7e35Pm5v1afyWTZNB7gQcaU36T857X6bDZLajU1fJjev7zY+TnKr3HzubsUANnFntf3+/3Af1kgtF1sp3rZATnaxZ7yN9f7FlzXHWZPRvATEqdJh4oJkVOOTtp4FjydTpNyucxWOui6zsp01UOJfpYJPGHgwwqLj/wy+yx4foblaueDJiJ8oR6/UCiyElbAKjEo4fFLrKAtjIothJEZBov3d767ZNCX5XI5aY4hivytgsOtyEbjD3v6IRKwCMs0Td/+GPwuPHUR5cOtVXjaIoPfaDTIcCjON80vWwfyrV0KLJUTTRYCThCW+fkNOIYXPuwjiy8q9pLfFu/DB4OB55N9fR34TtjPMcLmO2mnb+8avK/qlbEi2c8xwuY7aac7WUDwmqIBA4YM6wb2ywsf9vFr3eYW1MvgC3wn67x1ZEmlUuTg4JB0u93ZsueJm9T0V2GQnZ1dX1eHP36c8nck8dPk8PAr+3MDyxpJ4xtul4bsv+MQvTTD53+Wekyc+CgOFDwEwa8V8u5snSG8v1HIv9nAv1PIvwbBTxSJDskenZ+dLipm748ViT7/Z047/0gRn/0z518BBgBh/Ix39kT/DAAAAABJRU5ErkJggg=="
+            },
+            {
+              "value": "grid",
+              "name": "Grid",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA7CAYAAADlya1OAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3FJREFUeNrsm+1yojAUhgPiN3ZGBdyZqmzd2TvpTbS91d6Jf1b95RfOFKwVtC4nrtvRFUhCytb2vDNMlSY85IXknGSMcnf/0CWEPIbHT4JKo3543KpopjSBh48qminXVBU9kCs0FA392NJYCq3Xa7LdbmLL5HIaKRaLUm7qknmJhk6nEzKbzZhurNFoklarlapxk8mYzOdzprLNZpNYVjreeDwmjsPGMwyDmKaVrss7jsN8c4uFk/pt4eHxlJVxzyy8REPz+TwzkKdslAqFAgevkJonu32JXb7dbofdfkp830+EJXUHFl1f73lB4CeaaZpmal673aHDWhAEiQ+ahaclvzFF2sisBAM/PMRseR1MmzAPRUNRaCgaioaiRNImmNsOhwP6uduFBX2Fft9sNmwX1bSwns081z7m2fRvtrxd+H0ohXfWUM9z/17cdV1qKCsMBGVd9ykEsiXewHjjPQnyXGZDgXHcvh03Dzw6xzvb5XW9Rp8CHLVajR7wmfm1p/WumMsfrn+oJ8arcfCuUrcPPDon5e7+Ycd6oe12y1Qul8tJGY8ukafxAGXd+GfmYZTHKI9RHqM8RnmM8hjlMcqjMMpjlMcoj1EeozxGeYzyX1poKBqKhqKhKMkzpaSkdrfbZ1qKonDlbyK6NB5zaYCMRiOyXHpH5yuVKp2eAlym9rxhyFsena9Wq6TTeR8eTD+fn095esjrMPOYuzyATs08nPc8T/qbAkaemhl3Pq2gDadm7nnnz6c2VFVjZgea/AQ8Lsl+j4Q/rg1xbRc2tFwuE8uy6C+VVVWlx/5Xy2b4v4r0BgIPfhH9L8+i/5PPq9C2nPKgzTw8rrk8CtOmj5U2QeSDwfr1lW0VBsYaXdeFI/Bn4EUaCktZg8EvurrNI9jkYNs2d/4G+R+sovPyYJEXVs9FeIPBgPg+P8+2v0cGxsguD1tNeBsHghuEbTG8gjoiPKgjyuM184034R9DV6uV8Djy8rLKpM7/4sV5o0Z3XfFdaiI76tLswsuaF+dNpKHNpkFzMV7BgA2bTHllGKYQD+pAXX6eIRTMgAfecAelUqlEbm56ZLFY/Nm2l5SuKuFT10i93hB6u8V4+ZBXF+SVSa/3g26eDYKNNJ6W9Gqn3a7N25Wy533DxB5nSl/M0D7aIE19MPQWTZVjJnj5W4ABACDeYsNhWeXoAAAAAElFTkSuQmCC"
+            },
+            {
+              "value": "table",
+              "name": "Table",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA7CAYAAACjfw7kAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2NJREFUeNrsnFtum0AYhceAL8SmkuNbJd+aRH1NN5G3rqDtYxeQLqbL6BK6iOY5T7affJeKHd9N+Wkjqy62YQbwkJ4jjWQRhm/gEDg/2JP48PFTplqtflstl+9ZyNpaFhsMBgwKRI92u1Ns875GYR4UuN7a7btim/cZxyK+Jio4BvEWDISB0DmlyTioxWLBNpv10XVUVWPpdPq/50lnYK/XY8Oht1Lj8rLAKpWKEK/b7bLRaOhp3UKhyMrlcmS8YrHISqVyvC6hXneONB6PhHl+tuFnbMHwTq8rnYGpVMrzuslkUpjnZxt+xhYEz8u60l1Cq9Ua6/f7bLVanti5lH15KQnzarX6GXg9m7c6ebJ44UlnIN24a7XaC+fVUUZAMBAGQjAQgoEwEIqxXMuI2XzOHh5+OM/seKPy7e07dqHrwgOkMbTbLedzo9EM7HmkPLy5zWtz81z/A4fDIbd5zweBthGETNNk6/Xaaab5M/Qzmhg7nhkBzxTiuRpYKBSEzjzqS9sIQoZhME3TnGYYr0I/oMTY8YwIeIYQL3F//8U69Mf1ZsN3XVZV1+X4UlNE98BTRkBIoRBSKFIoUihSKFIoUiiEFIoUCiGFIoUihSKFIoUihSKFIoVCSKEQDISBEAyEYCAkkkJlEBW4lvW70kkkEk69BF4MDKSd6nQ6bDqd/LU8m82yer3h7GzwvLbNm+7xcjavHgqPHqE9PYnxpL2E0oHcN2+3fBoSb+qyfBIKbzKZ/GPeM89teewMVI88RFBDeMAQNU/TDm9TUdT4G6jrujOhAP3MWFEUp9Fn+tG/HsBbDjcebXufR2MIh3fh/AJXlCd1iKFZIahFJZoVglp0vJLTUEagjJAnedLNfbv19haE7hW5XI47Ib4EnjQGUj1Eb8L9vkimd4/0Jttv/XQOXqvVYsulf16z+eZgkJLmEjoY9Lm+BUB9aJoQv6I+vDwaKw/Pr3m7/evJfw+czWbcfefzWSR9RMYaFk8aA2kiHf6+yUj6nIt3bIYoaQyk+E61kO8YbffhieLUJ1pekSv8EO9YKSVNiMlkMuzq6pqNx+M/01BZJ3oknLM6n89zzWEWPU9n19c3zmR3q9U6MJ5UZQQNVHT6SPl5rwPdJgr5mAsGwkDojHpUYGJ8zbPb3S8BBgCumjmy6FizpAAAAABJRU5ErkJggg=="
+            }
+          ]
+        },
+        "defaultValue": "columns",
+        "description": "Select one of the three predefined layouts. Columns features separate columns. Grid groups the columns together in a single block. Table displays a table structure complete with a table head."
+      },
+      {
+        "id": "skin",
+        "name": "Skin",
+        "tab": "layout",
+        "type": "select-visual",
+        "select": {
+          "options": [
+            {
+              "value": "skin1",
+              "name": "Skin 1",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAA/CAYAAAD3wHgxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArJJREFUeNrsmUtv00AQgMePJI3yANQ0bUVShCC9Iorgxon+AaRwBQVxq+BOJU5I/QGgXumlx4pf0P4AQBw4wKUg1CYorRLEI3ZUJ34w40KUGGrvOnYqoR1pJHu9u9/O7MzsKpF27t67fUORt7IAMowhDupaowFb7fZI+6P5eajNzg7eNQD7tWVXlfWlpffjQkkk1Jv5PHw1TfjQ7Q7aX2kapCQJrmaz7nsSu87I0h05CugwfLVUgmqhMNL+rNmEjcPDwTsxI4PywiMHs8JViEn+wEmGA47gsVnMYjmzxR+PjuA7RqyfnFVVuDw1xWQ5E/g5rvDFUGD4yX3M2YeYu0FwJldvtlrM7j2pr9ftTBaXk0n4hK5m7csScJJTqzlBk31G6PrBAdQNwx+aSsHK3Bxc9Ozzv8orEzgOkeGURIAnJuoDo3c64K7Y40m5+qQPJbwnPU6o7srW+qZ7Ou3v74EZcEINJsaTamHhAqSwmnFZfA1vRecQfgb1Oj53Oh1mKAn1pTHcrn5r2/DNceAH6ht8zuVyrhXMrsS+NIbb1Q0ErvT67olCxZxcVqksgmVZTGBFUcLt8fBJwjOhiGoR1SKqRVSLqBZRLcACHL5yBRUHxzmOdwkLDE9+hwITrF6vg65rI+2ZTBbK5bK7iFhcrev6X9Djds39Ftse+xUP3sLCBU6n01AsFiGRSICMBwcpPVMbfYs1uKanC67+v+lEHa6gSzOMAatjlr3DY9QcB5xH2BPcw/McaULyBdPuab8PP52Qrq4qKjeUhMbQ2NB7fEmWQu9h0FhfcNsJ/6Nf0Fhf8EvTAiME1Pg9NnRw7eGqV/HedUuRYQb3LSj3bNQWjtmxbGgGWByYTjTBpmlFnsfiBjLRkrmLWvG09yJcFMWc9/+CXQIvo2574MkYjSVDl38JMABKEkTHg3SJzwAAAABJRU5ErkJggg=="
+            },
+            {
+              "value": "skin2",
+              "name": "Skin 2",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAABBCAYAAACw0qYLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArNJREFUeNrsmr9v00AUx5/tc5wlyGoVZWhIF4q6wD/BxNAJFsbCf1BgQoxMUP4DChIDUyUkBib+BiRYGGBomKKoaVRXKIl9Nvc1NrEtxTn/RICfdMn5fOf3Ob/3vVi+KN7+Pgm7K8qhKCbVY1NR7otyxMQHCF5QvWaGPgHwHJVntkNfXLfQVW8xjW5qWqztPed07PBY266q0gMdrumQhbcdzn8UnNZr4cgR33sRCACh7U0E4uNyoqZa9r2Fo3c8PmMA3WFLKC9yTq0iwDIQlQJkgWBVpnoY92hO7CWSVK1ab6vuRG0AqyByhWA2m5Ft26l9dF2ndrstFY5MAKPRiCaTU6m+Gxub1Ov1pCCkQ3B2NqEy+ibDIQ3QarWorL7RVVE6BP1+n8bjMTmOk9qPMUbdblcalsnPyqCtrX7pCqlFhg1AA1CKCqLGV6zrSdM0rRjAfD6j4XDo1weDgf+N43VrQXRNwDjDaOcDsKyL385Qh8k6D/tiXBpAag50Oh1/Fiioh8fS8Q3G5Q6BYRi0s3M11pY8blRQsQrmIutPAhVsByo4yaiCbT+UOVVgRVRg5VSBlQrQqKD5MWpU8HeqoLaVsMiFGxk2AP/2AwnMVBTSgzremUw9rx4ACPChzui6Gr95n1yXntoO8apDAMdJ52ntpQNY5OU6VxrAV9fz335PRMzxchsFdbThXC1JeIxX8Jz/RzJE5l8TCXZJkbvouYjEZ6EKXgYAnD7SdbqsKJlm9l3kxRPb9mEKheC2xjI7h2EMxhbOgSuqkju+MmPXApzmXGJlx64FeCv0vcjhfBGMLZyE38QsHi9suqGptCmZC5j5B+76iViKDHGhVw6vZB1oHkj+CICSyAHsZJvYzy26dyxru8vnhikADkQ5CjaT67YDoLykX/8fmNboGL7uwfdPAQYAJC4z3Iu7BC4AAAAASUVORK5CYII="
+            },
+            {
+              "value": "skin3",
+              "name": "Skin 3",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAA/CAYAAAD3wHgxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAApZJREFUeNrsmc9vEkEUx78Lyy5N+bEqWjDVYKHh5IGjJiZqevSm/wCaHoyxf4AnT1681WhP6sXEi/4HRj1pjGe9FOrBJlDBCKVtWth2fQ+FAGZ3Z7dsenC+ySPLY2Y/8+PNm8mgWKXSWQBvyXI4hCyyB+vreNVojPiXMhmUZmaGXRWyq+H7xeJnesjjkFLILiUS+Gma+LqzM/B/2tqCrigoxmJ913GyayH6mMeExPB7s7O4kUqN+JerVTzf2Bh2zYcwYYnCJw4WhasISH04azjgGB5Yj0V6HijYCR442A4uPMfl3V00aY06yVBV5KNRoTkXAj+iOXk2ug5tdZOy1F3KVm5woaF+Ua8LD6tb2T5cCHxG04TBImUV0Tl+mM3ica2G73t7zlBdx510WizgaHeycAQK4YgkwRIcmGzXcYVy8+1KBQeWhZV8vtdC/l7vdoVefDISwUouh5xN7rYFv2+1BpB3zSbCdGAThbK4LL/DDmw71JeTyV6rT9COc8UwBt9FxWW5ju/MZf3NrX219/eFwPFw2N8cDyd0Ly+UUS2jWka1jGoZ1TKqJViC/WcuJ/2g5GBaf1ahSonllIf17QvMsKW1NXxst0f8F+JxLM/N9RoRyFAzcBzq5J8Y2HBIHobHxOIJfH56unexktY0xAjExs/s4988XUH9dzcCrlHdpUj+sLmJluCulKThv5hIIOIS4Y7gX6aJW+UyvtFpxIvO0eb/lE4tx1TV31A/qdU8Q1lch+v6nuMv29u+59CtriP4tIcbPa91HcGL6TSiIe+Bz3UWXW74HIOrMDWFl4UCXjcaqHY6cItrzl0Z6un1VApZXZcJRJ5AsIp//+brTLBRB2Tja2uVwQtkb8bgWoCd5Y4u/BZgAEGEIRXTn4RLAAAAAElFTkSuQmCC"
+            },
+            {
+              "value": "skin4",
+              "name": "Skin 4",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAA/CAYAAAD3wHgxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAp9JREFUeNrsmbtvE0EQh3/38NkhcWzkh2ziAuwgN0mLBBVIrpEQINGksBAFBfwxFKQAREkKaKgjJRVIVDQpUOJQEvnsEMdEiu/JjgWWfcJ3e5dzKLIjrezd29lvd3Z2brQnvVpbu/fFdt7/AmScQSRWmqqKhjI5zIZl46Ntj+oLgHNDkR8opZXVnbNC/8pXx0FGklCVpVHbiizDZL/fXHdYN9gcddd9KMcFJaGh31oWNm1nov2RquCuoozqxIwNGhYeO5gXPhMwD3xm4CC4yjvIYDCAbVu+fRRFRTKZ/CccmDxqXOB2u41ut8M1wVwuj2KxGAjnMvXhYZfbvNP6es3OtWJN04am5u0btOeE5QIvLVWg6zpM0/Dtl0hoKBQKXA7HBSaHqVQqsXr7TI+TnwjwuYn6Oqn9H/AlscfnZeppD1qnp3jaasFhudL68vJwhlTXTZNr4EIigfVaDbVUKhx4u9cbQbaOjqCwJI4XSkJ9aYxp4Kmmvp3JDGedYynrnWx2VOcV6ks6U9Nht9l0g+KqNFbvj+XIfpIeS+xCmXo8UQ8zoPBq4dXCq4VXC68WXi3AAhw9cvleTbDgYP25qVNZYCmGON+RwAR7vr+Pz/3+RPvNdBovqtXhJGZiagJ6oX7tsYGzPsEjGzKwhAKvzs/jWbmMkqZhgYGo0H9qo2dhJDBWX7zjZDJP/nR8jB7nWynDzH9rcRGJAA/3Bf+0LDze28N3lo2EkWvs5f+GZS2XVTWaqV8eHISGkpAO6Ube452Tk8h7GKTrC76iRb+YCdL1BT8plZCK8NmCdEg3snPV5+bwrl7Hh04HPwwDQX5NsavMVno/n8dVz4W5CCAXMwPZZeW6p92IcVL0EcJ7tnYJ3GBl0wOf5c0qLbTxW4ABAPnsP9VkgnQeAAAAAElFTkSuQmCC"
+            },
+            {
+              "value": "skin5",
+              "name": "Skin 5",
+              "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAA/CAYAAAGAx0inAAAAAXNSR0IArs4c6QAABEdJREFUWAntWU1sTUEUnnv72ipNRF6QNmVHsWBtYY8FK6F9JRIi8Z/YWIiNNRZELLAgQhMrFrYktixYqJ9YqQpNY1Mp9fqu8827Z+6Z+2Ze7/T5TXuS15l7/r4z58ydn9uoUtm3rZbMPFREAz8SFfMDGHfbIxWjI6kVxp2pRLvSPq58qz+AEw0MVvQTNCqL49ESQw52RerqVK3Pgj28aO6BXRaw2mmZgDkwEwfDc3uLrD5ESpm4IBgZeanlq1avVvuWdOu+pbB+/QbNlH+MwuvXr1StVjMyVjYK/f3rjFB2rFRIAfeNBx4WC5BMkFFgBitw68wDvMHAiQ8BFJxCuIWCwX379o2qVqsarmHca9as5ThM63ULjaZCjYlKxXHckG8t5AAMWNpp6vYXCZGyTbXsRdAB7akmasePehSnv6MVib/XVq9hGqR60F7vacsZkrlq6qwne8i3t9MyPmtT6kKHqFpe0fU8lE6xG+QEg9Nh5RX5xZH8UqmkuPIHUidOY1+5pDP0m1Yor5x/tpB59kBJvrHSSEZlGUuBNPD1533YMjGYQUwTNLeP08KfJyvbUuh6EaQcfcsYO9KyDDCvq5+lU8v4qCM0p4eUGcdR2/ZmCj5ZFEWj0WBl6H2SJH0+JfB30hKym5YSEIcN0Hg2Qxjcp2XlGu3/IFQBqwzOBoWn5yPKzkVaPUA3ycFSCqSwMYye0vJzrhM9pa5SZYKMYfQqjtTpznoEVqkglDsQnpnk6/qeIE+6jho9vb2sb1qsX3kaJ/AGbjedFCRK3kg+B4/53zA2Y+YzDsbrWvQRLvZledQxxpL5RxJmkBfCbjy3ypnF/f90erYUtpkknAS0uFTgHsHEyy0/c+tEvt7BYqWwyfnIifycFrnBLp9JxreM5baaqWQ9nCmHS1kozrAzdbu3pX6sN0zLmE+rRio6XwjwRLpeM9sKGyENWxxWc7cWslvFz42xz/rFfgm22EL7s99Fo2QrJXUv3c+zmij1mFJxjVKSpEx9MOCLdKOL1jibZ5Q6Mp0o2pQNjdDcO0+Td4oCCLphGA8BnY0UwCnKQId4zT5RhVsqchH8FzTk/XQKOEtTczJN9Uq6theaiJNfJ9XHsTFz2fUB4vSAUwUOB3l6R0M8RAH00MjPfC94ECoCCiDcwqHbjD7SqI9RAIVGzHe4Zg5DZb+9xr6A5h+ws8bj45/VxMSEzlK5XFbLl69QzKPLhC97Fp9WJ8W2liB9+Gupdo4YI8RPkosn5aF9JzCnFc44XcxbSHVoill/IdU6E64Z7OJx2ubS/rX3eP4BO2e1r2b4ynxwmhaV3HKNGwduILhIFKWgVLtAAYRAIAuhoBG7PhaGgEldL3AbjWLXTKJw65nt26F0iD4uPE/IMz7p48u9i7zAl+gkGArIALDDPxi20NdB33dLb40RcavUzIfXfej1LzRI74hDHYXqz/mqGQok9XFb/Al3h2InBRx3NgAAAABJRU5ErkJggg=="
+            }
+          ]
+        },
+        "defaultValue": "skin1",
+        "description": "Skin defines the column elements to be colored in main color for each column. It's the fastest way to color the columns. Also there are color options available for each element to create a unique coloring."
+      },
+      {
+        "id": "mainColor",
+        "name": "Main skin color",
+        "tab": "layout",
+        "type": "color",
+        "defaultValue": "rgb(0, 131, 255)",
+        "description": "Set main skin color to color elements according to the selected skin."
+      },
+      {
+        "id": "styleColumnBorderRadius",
+        "name": "Round off column corners",
+        "tab": "layout",
+        "type": "toggle",
+        "defaultValue": true,
+        "description": "Turn on this option to make column edges rounded."
+      },
+      {
+        "id": "styleColumnBorderWidth",
+        "name": "Columns border",
+        "tab": "layout",
+        "type": "toggle",
+        "defaultValue": true,
+        "description": "Turn on this option to display column border."
+      },
+      {
+        "id": "head",
+        "name": "Head Column",
+        "tab": "content",
+        "type": "subgroup",
+        "visible": false,
+        "subgroup": {
+          "properties": [
+            {
+              "id": "headTitle",
+              "name": "Title",
+              "type": "text",
+              "defaultValue": "Plan name",
+              "allowEmpty": true,
+              "description": "Set the head column's title. The title will be displayed on the level with the titles of the rest of the columns."
+            },
+            {
+              "id": "headFeatures",
+              "name": "Features",
+              "type": "complex",
+              "complex": {
+                "properties": [
+                  {
+                    "id": "text",
+                    "name": "Text",
+                    "type": "textarea",
+                    "textarea": {
+                      "enableRichEdit": true,
+                      "enableRichEditHtml": true
+                    },
+                    "defaultValue": "",
+                    "description": "Enter the feature name."
+                  },
+                  {
+                    "id": "hint",
+                    "name": "Hint",
+                    "type": "textarea",
+                    "textarea": {
+                      "enableRichEdit": true,
+                      "enableRichEditHtml": true
+                    },
+                    "defaultValue": "",
+                    "description": "Add a hint to provide your customers with additional information or provide a more detailed description of the feature. Hover on the question mark next to the feature name to display the hint."
+                  }
+                ]
+              },
+              "defaultValue": [
+                {
+                  "text": "Feature 1"
+                },
+                {
+                  "text": "Feature 2"
+                }
+              ],
+              "description": "Set the names for the features to be displayed in the comparison table. Each feature name is displayed on the level with the corresponding feature in the table."
+            },
+            {
+              "id": "headTextColor",
+              "name": "Text Color",
+              "type": "color",
+              "defaultValue": "rgb(23, 25, 26)",
+              "allowEmpty": true,
+              "description": "Set the head column's text color."
+            },
+            {
+              "id": "headBackgroundColor",
+              "name": "Background Color",
+              "type": "color",
+              "defaultValue": "rgb(247, 247, 247)",
+              "allowEmpty": true,
+              "description": "Set the head column's background color."
+            }
+          ]
+        }
+      },
+      {
+        "id": "toggleGroup",
+        "name": "Toggle",
+        "tab": "content",
+        "type": "subgroup",
+        "subgroup": {
+          "properties": [
+            {
+              "id": "toggleVisible",
+              "name": "Enable",
+              "caption": "Toggle is used to switch between different billing periods or offer options. For instance, monthly/yearly payments, retail/wholesale price, quantity options, etc. You need to set the prices and button settings for each option in each column.",
+              "type": "toggle",
+              "defaultValue": false,
+              "description": ""
+            },
+            {
+              "id": "toggleItems",
+              "name": "Toggle Options",
+              "global": true,
+              "type": "complex",
+              "complex": {
+                "reorderAction": false,
+                "idProperty": "value",
+                "properties": [
+                  {
+                    "id": "name",
+                    "name": "Caption",
+                    "type": "text",
+                    "allowEmpty": true,
+                    "description": ""
+                  },
+                  {
+                    "id": "hint",
+                    "name": "Hint",
+                    "type": "text",
+                    "allowEmpty": true
+                  },
+                  {
+                    "id": "value",
+                    "name": "Value",
+                    "type": "text",
+                    "visible": false
+                  }
+                ]
+              },
+              "defaultValue": []
+            },
+            {
+              "id": "toggleDefaultItem",
+              "name": "Default Option",
+              "type": "select",
+              "allowEmpty": false,
+              "select": {
+                "optionsSource": "toggleItems",
+                "enableNewSourceAdd": false
+              },
+              "defaultValue": "",
+              "description": ""
+            },
+            {
+              "id": "toggleColor",
+              "name": "Toogle color",
+              "type": "color",
+              "defaultValue": "",
+              "description": ""
+            }
+          ]
+        }
+      },
+      {
+        "id": "columns",
+        "name": "Content",
+        "tab": "content",
+        "type": "complex",
+        "complex": {
+          "properties": [
+            {
+              "id": "isFeatured",
+              "name": "Featured column",
+              "type": "toggle",
+              "defaultValue": false,
+              "description": "Use this option to highlight a column against the other ones. Hint: use it to highlight your most profitable plan."
+            },
+            {
+              "id": "titleGroup",
+              "name": "Title",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "title",
+                    "name": "Title",
+                    "type": "text",
+                    "defaultValue": "Title",
+                    "allowEmpty": true,
+                    "description": "Set the columns title. As a rule, it's the name of your plan."
+                  },
+                  {
+                    "id": "titleCaption",
+                    "name": "Caption",
+                    "type": "text",
+                    "defaultValue": "",
+                    "allowEmpty": true,
+                    "description": "Set a short additional description as the title's caption. For example, you can say here who will profit the most from this plan."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "featuresGroup",
+              "name": "Features",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "features",
+                    "name": "Features",
+                    "type": "complex",
+                    "complex": {
+                      "properties": [
+                        {
+                          "id": "text",
+                          "name": "Text",
+                          "type": "textarea",
+                          "defaultValue": "",
+                          "textarea": {
+                            "enableRichEdit": true,
+                            "enableRichEditHtml": true
+                          },
+                          "description": "Enter the feature description."
+                        },
+                        {
+                          "id": "icon",
+                          "name": "Icon",
+                          "type": "select",
+                          "select": {
+                            "options": [
+                              {
+                                "value": "none",
+                                "name": "None"
+                              },
+                              {
+                                "value": "bulb",
+                                "name": "Bulb"
+                              },
+                              {
+                                "value": "check",
+                                "name": "Check"
+                              },
+                              {
+                                "value": "checkMarkCircle",
+                                "name": "Check Mark in the Circle"
+                              },
+                              {
+                                "value": "cross",
+                                "name": "Cross"
+                              },
+                              {
+                                "value": "crossCircle",
+                                "name": "Cross in the Circle"
+                              },
+                              {
+                                "value": "dash",
+                                "name": "Dash"
+                              },
+                              {
+                                "value": "dashCircle",
+                                "name": "Dash in the Circle"
+                              },
+                              {
+                                "value": "dot",
+                                "name": "Dot"
+                              },
+                              {
+                                "value": "info",
+                                "name": "Info"
+                              },
+                              {
+                                "value": "like",
+                                "name": "Like"
+                              },
+                              {
+                                "value": "love",
+                                "name": "Love"
+                              },
+                              {
+                                "value": "plus",
+                                "name": "Plus"
+                              },
+                              {
+                                "value": "plusCircle",
+                                "name": "Plus in the Circle"
+                              },
+                              {
+                                "value": "star",
+                                "name": "Star"
+                              },
+                              {
+                                "value": "stop",
+                                "name": "Stop"
+                              }
+                            ]
+                          },
+                          "defaultValue": "none",
+                          "description": "Select feature icon from the list"
+                        },
+                        {
+                          "id": "hint",
+                          "name": "Hint",
+                          "type": "textarea",
+                          "textarea": {
+                            "enableRichEdit": true,
+                            "enableRichEditHtml": true
+                          },
+                          "defaultValue": "",
+                          "description": "Add a hint to provide your customers with additional information or provide a more detailed description of the feature. Hover on the question mark next to the feature text to display the hint."
+                        }
+                      ]
+                    },
+                    "description": "The list of features. You can list any feature or item, characteristic of the offer."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "priceGroup",
+              "name": "Price",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "pricePrefix",
+                    "name": "Price prefix",
+                    "type": "select",
+                    "select": {
+                      "options": [
+                        {
+                          "value": "From",
+                          "name": "From"
+                        },
+                        {
+                          "value": "Up to",
+                          "name": "Up to"
+                        },
+                        {
+                          "value": "Avg",
+                          "name": "Average"
+                        }
+                      ],
+                      "enableInput": true
+                    },
+                    "defaultValue": "",
+                    "allowEmpty": true,
+                    "description": "Set small price prefix."
+                  },
+                  {
+                    "id": "priceCurrency",
+                    "name": "Currency",
+                    "type": "select",
+                    "select": {
+                      "options": [
+                        {
+                          "value": "USD",
+                          "name": "United States Dollars (USD)"
+                        },
+                        {
+                          "value": "EUR",
+                          "name": "Euro (EUR)"
+                        },
+                        {
+                          "value": "GBP",
+                          "name": "United Kingdom Pounds (GBP)"
+                        },
+                        {
+                          "value": "CAD",
+                          "name": "Canadian Dollars (CAD)"
+                        },
+                        {
+                          "value": "AFN",
+                          "name": "Afghan Afghani (AFN)"
+                        },
+                        {
+                          "value": "ALL",
+                          "name": "Albanian Lek (ALL)"
+                        },
+                        {
+                          "value": "DZD",
+                          "name": "Algerian Dinar (DZD)"
+                        },
+                        {
+                          "value": "AOA",
+                          "name": "Angolan Kwanza (AOA)"
+                        },
+                        {
+                          "value": "ARS",
+                          "name": "Argentine Pesos (ARS)"
+                        },
+                        {
+                          "value": "AMD",
+                          "name": "Armenian Dram (AMD)"
+                        },
+                        {
+                          "value": "AWG",
+                          "name": "Aruban Florin (AWG)"
+                        },
+                        {
+                          "value": "AUD",
+                          "name": "Australian Dollars (AUD)"
+                        },
+                        {
+                          "value": "BBD",
+                          "name": "Barbadian Dollar (BBD)"
+                        },
+                        {
+                          "value": "AZN",
+                          "name": "Azerbaijani Manat (AZN)"
+                        },
+                        {
+                          "value": "BDT",
+                          "name": "Bangladesh Taka (BDT)"
+                        },
+                        {
+                          "value": "BSD",
+                          "name": "Bahamian Dollar (BSD)"
+                        },
+                        {
+                          "value": "BHD",
+                          "name": "Bahraini Dinar (BHD)"
+                        },
+                        {
+                          "value": "BIF",
+                          "name": "Burundian Franc (BIF)"
+                        },
+                        {
+                          "value": "BYR",
+                          "name": "Belarusian Ruble (BYR)"
+                        },
+                        {
+                          "value": "BZD",
+                          "name": "Belize Dollar (BZD)"
+                        },
+                        {
+                          "value": "BTN",
+                          "name": "Bhutanese Ngultrum (BTN)"
+                        },
+                        {
+                          "value": "BAM",
+                          "name": "Bosnia and Herzegovina Convertible Mark (BAM)"
+                        },
+                        {
+                          "value": "BRL",
+                          "name": "Brazilian Real (BRL)"
+                        },
+                        {
+                          "value": "BOB",
+                          "name": "Bolivian Boliviano (BOB)"
+                        },
+                        {
+                          "value": "BWP",
+                          "name": "Botswana Pula (BWP)"
+                        },
+                        {
+                          "value": "BND",
+                          "name": "Brunei Dollar (BND)"
+                        },
+                        {
+                          "value": "BGN",
+                          "name": "Bulgarian Lev (BGN)"
+                        },
+                        {
+                          "value": "MMK",
+                          "name": "Burmese Kyat (MMK)"
+                        },
+                        {
+                          "value": "KHR",
+                          "name": "Cambodian Riel (KHR)"
+                        },
+                        {
+                          "value": "CVE",
+                          "name": "Cape Verdean escudo (CVE)"
+                        },
+                        {
+                          "value": "KYD",
+                          "name": "Cayman Dollars (KYD)"
+                        },
+                        {
+                          "value": "XAF",
+                          "name": "Central African CFA Franc (XAF)"
+                        },
+                        {
+                          "value": "CLP",
+                          "name": "Chilean Peso (CLP)"
+                        },
+                        {
+                          "value": "CNY",
+                          "name": "Chinese Yuan Renminbi (CNY)"
+                        },
+                        {
+                          "value": "COP",
+                          "name": "Colombian Peso (COP)"
+                        },
+                        {
+                          "value": "KMF",
+                          "name": "Comorian Franc (KMF)"
+                        },
+                        {
+                          "value": "CDF",
+                          "name": "Congolese franc (CDF)"
+                        },
+                        {
+                          "value": "CRC",
+                          "name": "Costa Rican Colones (CRC)"
+                        },
+                        {
+                          "value": "HRK",
+                          "name": "Croatian Kuna (HRK)"
+                        },
+                        {
+                          "value": "CZK",
+                          "name": "Czech Koruny (CZK)"
+                        },
+                        {
+                          "value": "DKK",
+                          "name": "Danish Kroner (DKK)"
+                        },
+                        {
+                          "value": "DOP",
+                          "name": "Dominican Peso (DOP)"
+                        },
+                        {
+                          "value": "XCD",
+                          "name": "East Caribbean Dollar (XCD)"
+                        },
+                        {
+                          "value": "EGP",
+                          "name": "Egyptian Pound (EGP)"
+                        },
+                        {
+                          "value": "ETB",
+                          "name": "Ethiopian Birr (ETB)"
+                        },
+                        {
+                          "value": "XPF",
+                          "name": "CFP Franc (XPF)"
+                        },
+                        {
+                          "value": "FJD",
+                          "name": "Fijian Dollars (FJD)"
+                        },
+                        {
+                          "value": "GMD",
+                          "name": "Gambian Dalasi (GMD)"
+                        },
+                        {
+                          "value": "GHS",
+                          "name": "Ghanaian Cedi (GHS)"
+                        },
+                        {
+                          "value": "GTQ",
+                          "name": "Guatemalan Quetzal (GTQ)"
+                        },
+                        {
+                          "value": "GYD",
+                          "name": "Guyanese Dollar (GYD)"
+                        },
+                        {
+                          "value": "GEL",
+                          "name": "Georgian Lari (GEL)"
+                        },
+                        {
+                          "value": "HTG",
+                          "name": "Haitian Gourde (HTG)"
+                        },
+                        {
+                          "value": "HNL",
+                          "name": "Honduran Lempira (HNL)"
+                        },
+                        {
+                          "value": "HKD",
+                          "name": "Hong Kong Dollars (HKD)"
+                        },
+                        {
+                          "value": "HUF",
+                          "name": "Hungarian Forint (HUF)"
+                        },
+                        {
+                          "value": "ISK",
+                          "name": "Icelandic Kronur (ISK)"
+                        },
+                        {
+                          "value": "INR",
+                          "name": "Indian Rupees (INR)"
+                        },
+                        {
+                          "value": "IDR",
+                          "name": "Indonesian Rupiah (IDR)"
+                        },
+                        {
+                          "value": "NIS",
+                          "name": "Israeli New Shekel (NIS)"
+                        },
+                        {
+                          "value": "IQD",
+                          "name": "Iraqi Dinar (IQD)"
+                        },
+                        {
+                          "value": "JMD",
+                          "name": "Jamaican Dollars (JMD)"
+                        },
+                        {
+                          "value": "JPY",
+                          "name": "Japanese Yen (JPY)"
+                        },
+                        {
+                          "value": "JEP",
+                          "name": "Jersey Pound (JEP)"
+                        },
+                        {
+                          "value": "JOD",
+                          "name": "Jordanian Dinar (JOD)"
+                        },
+                        {
+                          "value": "KZT",
+                          "name": "Kazakhstani Tenge (KZT)"
+                        },
+                        {
+                          "value": "KES",
+                          "name": "Kenyan Shilling (KES)"
+                        },
+                        {
+                          "value": "KWD",
+                          "name": "Kuwaiti Dinar (KWD)"
+                        },
+                        {
+                          "value": "KGS",
+                          "name": "Kyrgyzstani Som (KGS)"
+                        },
+                        {
+                          "value": "LAK",
+                          "name": "Laotian Kip (LAK)"
+                        },
+                        {
+                          "value": "LVL",
+                          "name": "Latvian Lati (LVL)"
+                        },
+                        {
+                          "value": "LBP",
+                          "name": "Lebanese Pounds (LBP)"
+                        },
+                        {
+                          "value": "LSL",
+                          "name": "Lesotho Loti (LSL)"
+                        },
+                        {
+                          "value": "LRD",
+                          "name": "Liberian Dollar (LRD)"
+                        },
+                        {
+                          "value": "MGA",
+                          "name": "Malagasy Ariary (MGA)"
+                        },
+                        {
+                          "value": "MKD",
+                          "name": "Macedonia Denar (MKD)"
+                        },
+                        {
+                          "value": "MOP",
+                          "name": "Macanese Pataca (MOP)"
+                        },
+                        {
+                          "value": "MWK",
+                          "name": "Malawian Kwacha (MWK)"
+                        },
+                        {
+                          "value": "MVR",
+                          "name": "Maldivian Rufiyaa (MVR)"
+                        },
+                        {
+                          "value": "MXN",
+                          "name": "Mexican Pesos (MXN)"
+                        },
+                        {
+                          "value": "MYR",
+                          "name": "Malaysian Ringgits (MYR)"
+                        },
+                        {
+                          "value": "MUR",
+                          "name": "Mauritian Rupee (MUR)"
+                        },
+                        {
+                          "value": "MDL",
+                          "name": "Moldovan Leu (MDL)"
+                        },
+                        {
+                          "value": "MAD",
+                          "name": "Moroccan Dirham (MAD)"
+                        },
+                        {
+                          "value": "MNT",
+                          "name": "Mongolian Tugrik (MNT)"
+                        },
+                        {
+                          "value": "MZN",
+                          "name": "Mozambican Metical (MZN)"
+                        },
+                        {
+                          "value": "NAD",
+                          "name": "Namibian Dollar (NAD)"
+                        },
+                        {
+                          "value": "NPR",
+                          "name": "Nepalese Rupee (NPR)"
+                        },
+                        {
+                          "value": "ANG",
+                          "name": "Netherlands Antillean Guilder (ANG)"
+                        },
+                        {
+                          "value": "NZD",
+                          "name": "New Zealand Dollars (NZD)"
+                        },
+                        {
+                          "value": "NIO",
+                          "name": "Nicaraguan Córdoba (NIO)"
+                        },
+                        {
+                          "value": "NGN",
+                          "name": "Nigerian Naira (NGN)"
+                        },
+                        {
+                          "value": "NOK",
+                          "name": "Norwegian Kroner (NOK)"
+                        },
+                        {
+                          "value": "OMR",
+                          "name": "Omani Rial (OMR)"
+                        },
+                        {
+                          "value": "PKR",
+                          "name": "Pakistani Rupee (PKR)"
+                        },
+                        {
+                          "value": "PGK",
+                          "name": "Papua New Guinean Kina (PGK)"
+                        },
+                        {
+                          "value": "PYG",
+                          "name": "Paraguayan Guarani (PYG)"
+                        },
+                        {
+                          "value": "PEN",
+                          "name": "Peruvian Nuevo Sol (PEN)"
+                        },
+                        {
+                          "value": "PHP",
+                          "name": "Philippine Peso (PHP)"
+                        },
+                        {
+                          "value": "PLN",
+                          "name": "Polish Zlotych (PLN)"
+                        },
+                        {
+                          "value": "QAR",
+                          "name": "Qatari Rial (QAR)"
+                        },
+                        {
+                          "value": "RON",
+                          "name": "Romanian Lei (RON)"
+                        },
+                        {
+                          "value": "RUB",
+                          "name": "Russian Rubles (RUB)"
+                        },
+                        {
+                          "value": "RWF",
+                          "name": "Rwandan Franc (RWF)"
+                        },
+                        {
+                          "value": "WST",
+                          "name": "Samoan Tala (WST)"
+                        },
+                        {
+                          "value": "SAR",
+                          "name": "Saudi Riyal (SAR)"
+                        },
+                        {
+                          "value": "STD",
+                          "name": "Sao Tome And Principe Dobra (STD)"
+                        },
+                        {
+                          "value": "RSD",
+                          "name": "Serbian dinar (RSD)"
+                        },
+                        {
+                          "value": "SCR",
+                          "name": "Seychellois Rupee (SCR)"
+                        },
+                        {
+                          "value": "SGD",
+                          "name": "Singapore Dollars (SGD)"
+                        },
+                        {
+                          "value": "SDG",
+                          "name": "Sudanese Pound (SDG)"
+                        },
+                        {
+                          "value": "SYP",
+                          "name": "Syrian Pound (SYP)"
+                        },
+                        {
+                          "value": "ZAR",
+                          "name": "South African Rand (ZAR)"
+                        },
+                        {
+                          "value": "KRW",
+                          "name": "South Korean Won (KRW)"
+                        },
+                        {
+                          "value": "SSP",
+                          "name": "South Sudanese Pound (SSP)"
+                        },
+                        {
+                          "value": "SBD",
+                          "name": "Solomon Islands Dollar (SBD)"
+                        },
+                        {
+                          "value": "LKR",
+                          "name": "Sri Lankan Rupees (LKR)"
+                        },
+                        {
+                          "value": "SRD",
+                          "name": "Surinamese Dollar (SRD)"
+                        },
+                        {
+                          "value": "SZL",
+                          "name": "Swazi Lilangeni (SZL)"
+                        },
+                        {
+                          "value": "SEK",
+                          "name": "Swedish Kronor (SEK)"
+                        },
+                        {
+                          "value": "CHF",
+                          "name": "Swiss Francs (CHF)"
+                        },
+                        {
+                          "value": "TWD",
+                          "name": "Taiwan Dollars (TWD)"
+                        },
+                        {
+                          "value": "THB",
+                          "name": "Thai baht (THB)"
+                        },
+                        {
+                          "value": "TZS",
+                          "name": "Tanzanian Shilling (TZS)"
+                        },
+                        {
+                          "value": "TTD",
+                          "name": "Trinidad and Tobago Dollars (TTD)"
+                        },
+                        {
+                          "value": "TND",
+                          "name": "Tunisian Dinar (TND)"
+                        },
+                        {
+                          "value": "TRY",
+                          "name": "Turkish Lira (TRY)"
+                        },
+                        {
+                          "value": "TMT",
+                          "name": "Turkmenistani Manat (TMT)"
+                        },
+                        {
+                          "value": "UGX",
+                          "name": "Ugandan Shilling (UGX)"
+                        },
+                        {
+                          "value": "UAH",
+                          "name": "Ukrainian Hryvnia (UAH)"
+                        },
+                        {
+                          "value": "AED",
+                          "name": "United Arab Emirates Dirham (AED)"
+                        },
+                        {
+                          "value": "UYU",
+                          "name": "Uruguayan Pesos (UYU)"
+                        },
+                        {
+                          "value": "UZS",
+                          "name": "Uzbekistan som (UZS)"
+                        },
+                        {
+                          "value": "VUV",
+                          "name": "Vanuatu Vatu (VUV)"
+                        },
+                        {
+                          "value": "VEF",
+                          "name": "Venezuelan Bolivares (VEF)"
+                        },
+                        {
+                          "value": "VND",
+                          "name": "Vietnamese đồng (VND)"
+                        },
+                        {
+                          "value": "XOF",
+                          "name": "West African CFA franc (XOF)"
+                        },
+                        {
+                          "value": "YER",
+                          "name": "Yemeni Rial (YER)"
+                        },
+                        {
+                          "value": "ZMW",
+                          "name": "Zambian Kwacha (ZMW)"
+                        }
+                      ],
+                      "enableInput": true
+                    },
+                    "defaultValue": "USD",
+                    "allowEmpty": false,
+                    "description": "Choose the currency."
+                  },
+                  {
+                    "id": "price",
+                    "name": "Price",
+                    "type": "text",
+                    "defaultValue": "0",
+                    "allowEmpty": true,
+                    "description": "Set the price."
+                  },
+                  {
+                    "id": "pricePostfix",
+                    "name": "Price postfix",
+                    "type": "select",
+                    "select": {
+                      "options": [
+                        {
+                          "value": "hour",
+                          "name": "Per hour"
+                        },
+                        {
+                          "value": "day",
+                          "name": "Per day"
+                        },
+                        {
+                          "value": "week",
+                          "name": "Per week"
+                        },
+                        {
+                          "value": "month",
+                          "name": "Per month"
+                        },
+                        {
+                          "value": "year",
+                          "name": "Per year"
+                        },
+                        {
+                          "value": "night",
+                          "name": "Per night"
+                        }
+                      ],
+                      "enableInput": true
+                    },
+                    "defaultValue": "month",
+                    "allowEmpty": true,
+                    "description": "Set small price postfix."
+                  },
+                  {
+                    "id": "priceOptions",
+                    "name": "Price Options",
+                    "global": true,
+                    "visible": false,
+                    "type": "complex",
+                    "complex": {
+                      "nameProperty": "toggleOptionName",
+                      "duplicateAction": false,
+                      "reorderAction": false,
+                      "removeAction": false,
+                      "addAction": false,
+                      "properties": [
+                        {
+                          "id": "toggleOptionId",
+                          "type": "hidden",
+                          "defaultValue": ""
+                        },
+                        {
+                          "id": "toggleOptionName",
+                          "type": "hidden",
+                          "defaultValue": ""
+                        },
+                        {
+                          "id": "pricePrefix",
+                          "name": "Price Prefix",
+                          "type": "select",
+                          "select": {
+                            "options": [
+                              {
+                                "value": "From",
+                                "name": "From"
+                              },
+                              {
+                                "value": "Up to",
+                                "name": "Up to"
+                              },
+                              {
+                                "value": "Avg",
+                                "name": "Average"
+                              }
+                            ],
+                            "enableInput": true
+                          },
+                          "defaultValue": "",
+                          "allowEmpty": true,
+                          "description": ""
+                        },
+                        {
+                          "id": "price",
+                          "name": "Price",
+                          "type": "text",
+                          "defaultValue": "",
+                          "allowEmpty": true,
+                          "description": ""
+                        },
+                        {
+                          "id": "pricePostfix",
+                          "name": "Price Postfix",
+                          "type": "select",
+                          "select": {
+                            "options": [
+                              {
+                                "value": "hour",
+                                "name": "Per hour"
+                              },
+                              {
+                                "value": "day",
+                                "name": "Per day"
+                              },
+                              {
+                                "value": "week",
+                                "name": "Per week"
+                              },
+                              {
+                                "value": "month",
+                                "name": "Per month"
+                              },
+                              {
+                                "value": "year",
+                                "name": "Per year"
+                              },
+                              {
+                                "value": "night",
+                                "name": "Per night"
+                              }
+                            ],
+                            "enableInput": true
+                          },
+                          "defaultValue": "",
+                          "allowEmpty": true,
+                          "description": ""
+                        }
+                      ]
+                    },
+                    "defaultValue": []
+                  },
+                  {
+                    "id": "priceCaption",
+                    "name": "Caption",
+                    "type": "textarea",
+                    "textarea": {
+                      "enableRichEdit": true,
+                      "enableRichEditHtml": true
+                    },
+                    "defaultValue": "",
+                    "allowEmpty": true,
+                    "description": "Set the price caption - payment period, special offer, discount price, etc."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "buttonGroup",
+              "name": "Button",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "button",
+                    "name": "Button label",
+                    "type": "text",
+                    "defaultValue": "Select",
+                    "allowEmpty": true,
+                    "description": "Set the button label text."
+                  },
+                  {
+                    "id": "buttonLink",
+                    "name": "Button link",
+                    "type": "text",
+                    "defaultValue": "",
+                    "description": "Set the link to redirect your user to after clicking on the button."
+                  },
+                  {
+                    "id": "buttonOptions",
+                    "name": "Button Options",
+                    "global": true,
+                    "visible": false,
+                    "type": "complex",
+                    "complex": {
+                      "nameProperty": "toggleOptionName",
+                      "duplicateAction": false,
+                      "reorderAction": false,
+                      "removeAction": false,
+                      "addAction": false,
+                      "properties": [
+                        {
+                          "id": "toggleOptionId",
+                          "type": "hidden",
+                          "defaultValue": ""
+                        },
+                        {
+                          "id": "toggleOptionName",
+                          "type": "hidden",
+                          "defaultValue": ""
+                        },
+                        {
+                          "id": "button",
+                          "name": "Button label",
+                          "type": "text",
+                          "defaultValue": "",
+                          "allowEmpty": true,
+                          "description": "Set the button label text."
+                        },
+                        {
+                          "id": "buttonLink",
+                          "name": "Button link",
+                          "type": "text",
+                          "defaultValue": "",
+                          "description": "Set the link to redirect your user to after clicking on the button."
+                        }
+                      ]
+                    },
+                    "defaultValue": []
+                  },
+                  {
+                    "id": "buttonCaption",
+                    "name": "Caption",
+                    "type": "text",
+                    "defaultValue": "",
+                    "allowEmpty": true,
+                    "description": "Set the button caption. This text under the button can be used as an extra call to action."
+                  },
+                  {
+                    "id": "buttonTargetBlank",
+                    "name": "Open link in new window",
+                    "type": "toggle",
+                    "defaultValue": true,
+                    "description": "Set the button link target (new or current window)"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "pictureGroup",
+              "name": "Picture",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "picture",
+                    "name": "Picture Url (3:2)",
+                    "type": "file",
+                    "defaultValue": "",
+                    "description": "Paste the URL of the picture you want to display on your column. The picture's aspect ratio should be 3:2."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "ribbonGroup",
+              "name": "Ribbon",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "ribbonText",
+                    "name": "Ribbon text",
+                    "type": "text",
+                    "defaultValue": "",
+                    "description": "Set the ribbon text. The ribbon is a visual element that will attract more attention to the column where it's placed."
+                  },
+                  {
+                    "id": "ribbonBackgroundColor",
+                    "name": "Background color",
+                    "type": "color",
+                    "defaultValue": "",
+                    "description": "Set the ribbon background color."
+                  },
+                  {
+                    "id": "ribbonTextColor",
+                    "name": "Text color",
+                    "type": "color",
+                    "defaultValue": "",
+                    "description": "Set the ribbon text color."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "contentDivider",
+              "type": "divider"
+            },
+            {
+              "id": "settingsGroup",
+              "name": "Column settings",
+              "type": "subgroup",
+              "subgroup": {
+                "properties": [
+                  {
+                    "id": "mainColor",
+                    "name": "Main skin color",
+                    "tab": "layout",
+                    "type": "color",
+                    "defaultValue": "",
+                    "description": "Set main skin color to color this column's elements according to the selected skin."
+                  }
+                ]
+              }
+            }
+          ],
+          "nameProperty": "title"
+        },
+        "defaultValue": [
+          {
+            "isFeatured": false,
+            "title": "Lite Plan",
+            "titleCaption": "Individuals and small teams",
+            "features": [
+              {
+                "text": "Clean and easy to use app",
+                "icon": "check"
+              },
+              {
+                "text": "Simple widget generator",
+                "icon": "check",
+                "hint": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              }
+            ],
+            "priceCurrency": "USD",
+            "price": "9",
+            "pricePostfix": "month",
+            "button": "Select",
+            "buttonLink": "https://elfsight.com",
+            "buttonCaption": "14-day money back guarantee"
+          },
+          {
+            "isFeatured": true,
+            "title": "Pro Plan",
+            "titleCaption": "Growing businesses",
+            "features": [
+              {
+                "text": "Clean and easy to use app",
+                "icon": "check"
+              },
+              {
+                "text": "Simple widget generator",
+                "icon": "check",
+                "hint": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              },
+              {
+                "text": "Neat dashboard with settings",
+                "icon": "check"
+              }
+            ],
+            "priceCurrency": "USD",
+            "price": "19",
+            "pricePostfix": "month",
+            "button": "Select",
+            "buttonLink": "https://elfsight.com",
+            "buttonCaption": "14-day money back guarantee",
+            "buttonFeatured": true,
+            "ribbonText": "Popular"
+          },
+          {
+            "isFeatured": false,
+            "title": "Enterprise Plan",
+            "titleCaption": "Advanced companies",
+            "features": [
+              {
+                "text": "Clean and easy to use app",
+                "icon": "check"
+              },
+              {
+                "text": "Simple widget generator",
+                "icon": "check",
+                "hint": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              },
+              {
+                "text": "Neat dashboard with settings",
+                "icon": "check"
+              },
+              {
+                "text": "Helpful live support",
+                "icon": "check"
+              },
+              {
+                "text": "Transparent price structure",
+                "icon": "check"
+              }
+            ],
+            "priceCurrency": "USD",
+            "price": "29",
+            "pricePostfix": "month",
+            "button": "Select",
+            "buttonLink": "https://elfsight.com",
+            "buttonCaption": "14-day money back guarantee"
+          }
+        ],
+        "description": "Add the content to be displayed in each element of a column."
+      },
+      {
+        "id": "elements",
+        "name": "Elements",
+        "tab": "elements",
+        "type": "complex",
+        "complex": {
+          "duplicateAction": false,
+          "removeAction": false,
+          "addAction": false,
+          "properties": [
+            {
+              "id": "titleComplexGroup",
+              "complexGroup": "title",
+              "name": "Title",
+              "properties": [
+                {
+                  "id": "titleEnable",
+                  "name": "Show title",
+                  "type": "toggle",
+                  "defaultValue": true,
+                  "description": "Turn on/off the title.",
+                  "element": "title"
+                },
+                {
+                  "id": "titleTextColor",
+                  "name": "Title color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the title's text color.",
+                  "element": "title"
+                },
+                {
+                  "id": "titleCaptionColor",
+                  "name": "Caption color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the caption's text color.",
+                  "element": "title"
+                },
+                {
+                  "id": "titleFontSize",
+                  "name": "Font size (px)",
+                  "type": "slider",
+                  "slider": {
+                    "maxLimit": 40,
+                    "minLimit": 0,
+                    "floor": 0,
+                    "ceil": 40,
+                    "step": 1
+                  },
+                  "defaultValue": 24,
+                  "description": "Set the title font size in pixels.",
+                  "element": "title"
+                },
+                {
+                  "id": "titleFontWeight",
+                  "name": "Font weight",
+                  "type": "select-inline",
+                  "selectInline": {
+                    "options": [
+                      {
+                        "value": 400,
+                        "name": "Regular"
+                      },
+                      {
+                        "value": 600,
+                        "name": "Bold"
+                      }
+                    ]
+                  },
+                  "defaultValue": 400,
+                  "description": "Select the title font weight.",
+                  "element": "title"
+                }
+              ]
+            },
+            {
+              "id": "featuresComplexGroup",
+              "complexGroup": "features",
+              "name": "Features",
+              "properties": [
+                {
+                  "id": "featuresEnable",
+                  "name": "Features",
+                  "type": "toggle",
+                  "defaultValue": true,
+                  "description": "Turn on/off the features."
+                },
+                {
+                  "id": "featuresStyle",
+                  "name": "Style",
+                  "type": "select",
+                  "select": {
+                    "options": [
+                      {
+                        "value": "clean",
+                        "name": "Clean"
+                      },
+                      {
+                        "value": "divided",
+                        "name": "Divided"
+                      },
+                      {
+                        "value": "striped",
+                        "name": "Striped"
+                      }
+                    ]
+                  },
+                  "defaultValue": "clean",
+                  "description": "Select the features list style from the list. Clean displays the features only without any additional elements. Divided separates the features with lines. Striped displays the features list in a zebra pattern."
+                },
+                {
+                  "id": "featuresAlign",
+                  "name": "Align",
+                  "type": "select-inline",
+                  "selectInline": {
+                    "options": [
+                      {
+                        "value": "left",
+                        "name": "Left"
+                      },
+                      {
+                        "value": "center",
+                        "name": "Center"
+                      }
+                    ]
+                  },
+                  "defaultValue": "left",
+                  "description": "Select the features text align."
+                },
+                {
+                  "id": "featuresIconColor",
+                  "name": "Icon color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the features icon color."
+                },
+                {
+                  "id": "featuresTextColor",
+                  "name": "Text color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the features text color."
+                },
+                {
+                  "id": "featuresFontSize",
+                  "name": "Font size (px)",
+                  "type": "slider",
+                  "slider": {
+                    "maxLimit": 40,
+                    "minLimit": 0,
+                    "floor": 0,
+                    "ceil": 40,
+                    "step": 1
+                  },
+                  "defaultValue": 13,
+                  "description": "Set the features font size in pixels."
+                }
+              ]
+            },
+            {
+              "id": "priceComplexGroup",
+              "complexGroup": "price",
+              "name": "Price",
+              "properties": [
+                {
+                  "id": "priceEnable",
+                  "name": "Price",
+                  "type": "toggle",
+                  "defaultValue": true,
+                  "description": "Turn on/off the price."
+                },
+                {
+                  "id": "priceTextColor",
+                  "name": "Price color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the price text color."
+                },
+                {
+                  "id": "priceCaptionColor",
+                  "name": "Caption color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the price caption color."
+                },
+                {
+                  "id": "priceFontSize",
+                  "name": "Price font size (px)",
+                  "type": "slider",
+                  "slider": {
+                    "maxLimit": 40,
+                    "minLimit": 0,
+                    "floor": 0,
+                    "ceil": 40,
+                    "step": 1
+                  },
+                  "defaultValue": 24,
+                  "description": "Set the price font size in pixels."
+                },
+                {
+                  "id": "priceFontWeight",
+                  "name": "Font weight",
+                  "type": "select-inline",
+                  "selectInline": {
+                    "options": [
+                      {
+                        "value": 400,
+                        "name": "Regular"
+                      },
+                      {
+                        "value": 600,
+                        "name": "Bold"
+                      }
+                    ]
+                  },
+                  "defaultValue": 400,
+                  "description": "Choose the price font weight."
+                }
+              ]
+            },
+            {
+              "id": "buttonComplexGroup",
+              "complexGroup": "button",
+              "name": "Button",
+              "properties": [
+                {
+                  "id": "buttonEnable",
+                  "name": "Button",
+                  "type": "toggle",
+                  "defaultValue": true,
+                  "description": "Turn on/off the button."
+                },
+                {
+                  "id": "buttonType",
+                  "name": "Button type",
+                  "type": "select-inline",
+                  "selectInline": {
+                    "options": [
+                      {
+                        "value": "outline",
+                        "name": "Outline"
+                      },
+                      {
+                        "value": "filled",
+                        "name": "Filled"
+                      }
+                    ]
+                  },
+                  "defaultValue": "outline",
+                  "description": "Choose the button type."
+                },
+                {
+                  "id": "buttonSize",
+                  "name": "Button size",
+                  "type": "select-inline",
+                  "selectInline": {
+                    "options": [
+                      {
+                        "value": "small",
+                        "name": "Small"
+                      },
+                      {
+                        "value": "medium",
+                        "name": "Medium"
+                      },
+                      {
+                        "value": "large",
+                        "name": "Large"
+                      }
+                    ]
+                  },
+                  "defaultValue": "medium",
+                  "description": "Choose the button size."
+                },
+                {
+                  "id": "buttonColor",
+                  "name": "Button color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the button color."
+                },
+                {
+                  "id": "buttonTextColor",
+                  "name": "Button label color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the button label color."
+                },
+                {
+                  "id": "buttonCaptionColor",
+                  "name": "Caption color",
+                  "type": "color",
+                  "defaultValue": "",
+                  "description": "Set the button caption color."
+                }
+              ]
+            },
+            {
+              "id": "pictureComplexGroup",
+              "complexGroup": "picture",
+              "name": "Picture",
+              "properties": [
+                {
+                  "id": "pictureEnable",
+                  "name": "Show picture",
+                  "type": "toggle",
+                  "defaultValue": true,
+                  "description": "Turn on/off the picture.",
+                  "element": "picture"
+                }
+              ]
+            }
+          ]
+        },
+        "defaultValue": [
+          {
+            "complexGroup": "title",
+            "name": "Title",
+            "titleEnable": true,
+            "titleCaptionColor": "",
+            "titleTextColor": "",
+            "titleFontSize": 24,
+            "titleFontWeight": 400
+          },
+          {
+            "complexGroup": "features",
+            "name": "Features",
+            "featuresEnable": true,
+            "featuresStyle": "clean",
+            "featuresIconColor": "",
+            "featuresTextColor": ""
+          },
+          {
+            "complexGroup": "price",
+            "name": "Price",
+            "priceEnable": true,
+            "priceCaptionColor": "",
+            "priceTextColor": "",
+            "priceFontSize": 32,
+            "priceFontWeight": 600
+          },
+          {
+            "complexGroup": "button",
+            "name": "Button",
+            "buttonEnable": true,
+            "buttonType": "outline",
+            "buttonColor": "",
+            "buttonTextColor": "",
+            "buttonSize": "medium",
+            "buttonCaptionColor": ""
+          },
+          {
+            "complexGroup": "picture",
+            "name": "Picture",
+            "pictureEnable": true
+          }
+        ],
+        "description": "Arrange the elements to be displayed for each columns, and their order."
+      }
+    ]
+  }
+}

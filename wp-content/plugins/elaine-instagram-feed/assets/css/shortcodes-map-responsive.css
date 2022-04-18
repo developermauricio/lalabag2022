@@ -1,0 +1,73 @@
+/* ==========================================================================
+   Global partials
+   ========================================================================== */
+/* ==========================================================================
+   Shortcodes responsive styles
+   ========================================================================== */
+@media only screen and (max-width: 1280px) {
+  .edgtf-instagram-list-holder.edgtf-il-four-columns .edgtf-il-item {
+    width: 33.33333%;
+  }
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 1025px) {
+  .edgtf-instagram-list-holder.edgtf-il-four-columns .edgtf-il-item:nth-child(3n+1) {
+    clear: both;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  .edgtf-instagram-list-holder.edgtf-il-five-columns .edgtf-il-item {
+    width: 33.33333%;
+  }
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 1025px) {
+  .edgtf-instagram-list-holder.edgtf-il-five-columns .edgtf-il-item:nth-child(3n+1) {
+    clear: both;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .edgtf-instagram-list-holder.edgtf-il-three-columns .edgtf-il-item {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 681px) {
+  .edgtf-instagram-list-holder.edgtf-il-three-columns .edgtf-il-item:nth-child(2n+1) {
+    clear: both;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .edgtf-instagram-list-holder.edgtf-il-four-columns .edgtf-il-item {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 681px) {
+  .edgtf-instagram-list-holder.edgtf-il-four-columns .edgtf-il-item:nth-child(2n+1) {
+    clear: both;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .edgtf-instagram-list-holder.edgtf-il-five-columns .edgtf-il-item {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 681px) {
+  .edgtf-instagram-list-holder.edgtf-il-five-columns .edgtf-il-item:nth-child(2n+1) {
+    clear: both;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .edgtf-instagram-list-holder .edgtf-il-item {
+    width: 100% !important;
+  }
+}
+
+/*# sourceMappingURL=../../../../plugins/elaine-instagram-feed/assets/css/shortcodes-map-responsive.css.map */

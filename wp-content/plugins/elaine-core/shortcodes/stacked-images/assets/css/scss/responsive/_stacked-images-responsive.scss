@@ -1,0 +1,48 @@
+/* ==========================================================================
+   Stacked Images responsive style - begin
+   ========================================================================== */
+
+@include phone-landscape {
+	
+	.edgtf-stacked-images-holder {
+		
+		&.edgtf-si-position-left {
+			
+			.edgtf-si-images {
+				margin: 0 30px 30px 0;
+				
+				.edgtf-si-stack-image {
+					left: 30px;
+				}
+			}
+		}
+		
+		&.edgtf-si-position-right {
+			
+			.edgtf-si-images {
+				margin: 0 0 30px 30px;
+				
+				.edgtf-si-stack-image {
+					right: 30px;
+				}
+			}
+		}
+		
+		.edgtf-si-images {
+			
+			&.edgtf-appeared {
+				
+				.edgtf-si-stack-image {
+					top: 30px;
+				}
+			}
+			
+			.edgtf-si-stack-image {
+				top: 80px;
+			}
+		}
+	}
+}
+/* ==========================================================================
+   Stacked Images responsive style - end
+   ========================================================================== */

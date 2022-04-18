@@ -1,0 +1,65 @@
+/* ==========================================================================
+   Section Title shortcode styles - begin
+   ========================================================================== */
+
+.edgtf-awards-holder {
+	@include edgtfRelativeHolderLayout();
+	box-sizing: border-box;
+	
+	.edgtf-awards-inner {
+		
+		.edgtf-awards-title {
+			display: block;
+			margin: 0;
+			font-weight: 200;
+			font-size: 13px;
+		}
+		
+		.edgtf-awards-title-text{
+			display: inline-block;
+			letter-spacing: 0.15em;
+			font-size: 15px;
+			color: $first-main-color;
+		}
+	}
+	
+	.edgtf-awards-content-holder{
+		margin-top: 6px;
+		
+		.edgtf-awards-item-content{
+			font-size: 15px;
+			font-weight: 400;
+			line-height: 1.67em;
+		}
+	}
+
+	&.edgtf-with-animation {
+		visibility: hidden;
+
+		.touch & {
+			visibility: visible;
+		}
+
+		.no-touch & {
+			visibility: visible;
+			
+			&.edgtf-show-item {
+				.edgtf-awards-title-text {
+					@include edgtfTransition(opacity .4s);
+					opacity: 1;
+				}
+
+				.edgtf-awards-items-holder {
+					@include edgtfTransition(opacity 1s .4s);
+					opacity: 1;
+				}
+			}
+		}
+	}
+}
+
+/* ==========================================================================
+   Section Title shortcode styles - end
+   ========================================================================== */
+
+

@@ -1,0 +1,47 @@
+/* ==========================================================================
+   Interactive link showcase shortcode responsive style - begin
+   ========================================================================== */
+
+@include laptop-landscape-large {
+	
+	.edgtf-ils-holder {
+		
+		.edgtf-ils-item-link {
+			font-size: 100px;
+		}
+	}
+}
+
+@media only screen and (max-width: 1366px) {
+	
+	.edgtf-ils-holder {
+		
+		.edgtf-ils-item-link {
+			font-size: 70px;
+		}
+	}
+}
+
+@include ipad-landscape {
+	
+	.edgtf-ils-holder {
+		
+		.edgtf-ils-item-link {
+			font-size: 54px;
+		}
+	}
+}
+
+@include phone-landscape {
+	
+	.edgtf-ils-holder {
+		
+		.edgtf-ils-item-link {
+			font-size: 40px;
+			text-align: center;
+		}
+	}
+}
+/* ==========================================================================
+   Interactive link showcase shortcode responsive style - end
+   ========================================================================== */

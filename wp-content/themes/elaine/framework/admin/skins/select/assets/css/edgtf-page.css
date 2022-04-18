@@ -1,0 +1,4 @@
+/* line 4, scss/edgtf-page.scss */
+.edgtf-page a:focus, .edgtf-page a:hover {
+  text-decoration: none;
+}

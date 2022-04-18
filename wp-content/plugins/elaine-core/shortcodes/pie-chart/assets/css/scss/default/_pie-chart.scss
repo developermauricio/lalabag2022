@@ -1,0 +1,56 @@
+/* ==========================================================================
+   Pie Chart shortcode style - begin
+   ========================================================================== */
+
+.edgtf-pie-chart-holder {
+    @include edgtfRelativeHolderLayout();
+	opacity: 0;
+	@include edgtfTransition(opacity .2s ease-in);
+	
+    .edgtf-pc-percentage {
+        position: relative;
+        display: block;
+        height: 176px;
+        width: 176px;
+        line-height: 176px;
+	    font-family: $default-decoration-font;
+	    text-align: center;
+	    margin: 0 auto;
+    
+        canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        
+        .edgtf-pc-percent {
+            position: relative;
+            display: inline-block;
+            vertical-align: middle;
+            color: $default-heading-color;
+	        font-size: 43px;
+	        line-height: inherit;
+        }
+    }
+
+    .edgtf-pc-text-holder {
+        @include edgtfRelativeHolderLayout();
+        text-align: center;
+        margin: 32px 0 2px;
+	    
+	    .edgtf-pc-title {
+		    margin: 0;
+		    
+	    }
+	
+	    .edgtf-pc-text {
+		    margin: 14px 0 0;
+		    font-size: 15px;
+		    line-height: 25px;
+		    font-weight: 400;
+	    }
+    }
+}
+/* ==========================================================================
+   Pie Chart shortcode style - end
+   ========================================================================== */

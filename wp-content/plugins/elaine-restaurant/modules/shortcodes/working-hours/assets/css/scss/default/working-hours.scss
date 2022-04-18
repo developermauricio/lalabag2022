@@ -1,0 +1,112 @@
+.edgtf-working-hours-holder {
+	position: relative;
+
+	.edgtf-wh-title {
+		text-align: center;
+		margin-bottom: 15px;
+
+		.edgtf-wh-title-accent-word {
+			color: $first-main-color-black;
+		}
+	}
+
+	.edgtf-wh-item {
+		position: relative;
+		margin-bottom: 12px;
+	}
+
+	.edgtf-wh-day {
+		padding-right: 3px;
+		display: table-cell;
+		width: 1%;
+		white-space: nowrap;
+
+		.edgtf-wh-icon {
+			margin-right: 2px;
+		}
+	}
+
+	.edgtf-wh-hours {
+		padding-left: 4px;
+		display: table-cell;
+		width: 1%;
+		white-space: nowrap;
+	}
+
+	.edgtf-wh-dots {
+		height: 3px;
+		background-image: radial-gradient(circle closest-side, #b3b3b3 99%,rgba(0,0,0,0) 100%);
+		background-position: 50% 70%;
+		background-size: 6px 2px;
+		background-repeat: repeat-x;
+		display: table-cell;
+		width: 98%;
+		z-index: 1;
+		position: relative;
+	}
+
+	&.edgtf-wh-with-frame {
+		color: #fff;
+
+		padding: 28px;
+
+		&.edgtf-wh-with-bg-image {
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+
+		.edgtf-wh-holder-inner {
+			padding: 18px 26px 10px;
+			position: relative;
+		}
+
+		.edgtf-wh-title {
+			color: #fff;
+		}
+
+		.edgtf-wh-frame,
+		.edgtf-wh-frame-2 {
+			&:before,
+			&:after {
+				position: absolute;
+				content: '';
+			}
+		}
+
+		.edgtf-wh-frame {
+			&:before {
+				top: 0;
+				width: 100%;
+				height: 3px;
+				left: 0;
+				border-top: 1px solid #515151;
+			}
+
+			&:after {
+				bottom: 0;
+				width: 100%;
+				height: 3px;
+				left: 0;
+				border-bottom: 1px solid #515151;
+			}
+		}
+
+		.edgtf-wh-frame-2 {
+			&:before {
+				top: 0;
+				left: 0;
+				height: 100%;
+				width: 3px;
+				border-left: 1px solid #515151;
+			}
+
+			&:after {
+				top: 0;
+				right: 0;
+				height: 100%;
+				width: 3px;
+				border-right: 1px solid #515151;
+			}
+		}
+	}
+}

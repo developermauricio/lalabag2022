@@ -1,0 +1,144 @@
+
+Nov 02, 2021 19.40.27: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 20.11.42: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 20.12.45: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 20.14.52: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 20.53.48: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 21.02.22: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 21.17.31: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 21.18.30: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 21.25.26: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 21.33.10: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 21.40.43: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #10, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfen
+
+Nov 02, 2021 22.02.15: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #8, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfenc
+
+Nov 03, 2021 00.48.53: Uncaught InvalidArgumentException: wfWAFAttackDataStorageFileEngine::unpackMicrotime $binary expected to be string with length of 8, received string of length 0 in /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:960
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(262): wfWAFAttackDataStorageFileEngine::unpackMicrotime('')
+#1 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(1229): wfWAFStorageFile->_getAttackDataRowsNewerThan(Resource id #8, 41458, 345)
+#2 /home/forge/lalabag.com/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(247): wfWAFAttackDataStorageFileEngine->scanRowsReverse(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(8187): wfWAFStorageFile->getNewestAttackDataArray('1635783701.5278...')
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(285): wordfenc
+
+Nov 03, 2021 01.20.47: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Nov 12, 2021 05.03.49: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Nov 16, 2021 17.00.43: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Nov 23, 2021 21.50.30: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for

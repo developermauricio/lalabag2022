@@ -1,0 +1,162 @@
+/* ==========================================================================
+   Clients Carousel shortcode style - begin
+   ========================================================================== */
+
+.edgtf-clients-carousel-holder {
+	@include edgtfRelativeHolderLayout();
+	text-align: center;
+	.edgtf-cc-inner {
+		@include edgtfRelativeHolderLayout();
+	}
+	
+	.edgtf-cc-item {
+		@include edgtfRelativeHolderLayout();
+		
+		.touch & {
+			cursor: pointer;
+		}
+		
+		img {
+			display: block;
+		}
+	}
+	
+	.edgtf-cc-link {
+		width: 100%;
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
+/***** Hover Types - begin *****/
+
+.edgtf-cc-hover-switch-images {
+	
+	.edgtf-cc-item {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		
+		&.edgtf-cci-has-link {
+			
+			a {
+				
+				&:hover {
+					
+					.edgtf-cc-image {
+						opacity: 0;
+					}
+					
+					.edgtf-cc-hover-image {
+						opacity: 1;
+					}
+				}
+			}
+		}
+		
+		&.edgtf-cci-no-link {
+			
+			&:hover {
+				
+				.edgtf-cc-image {
+					opacity: 0;
+				}
+				
+				.edgtf-cc-hover-image {
+					opacity: 1;
+				}
+			}
+			
+			.edgtf-cc-hover-image {
+				left: 50%;
+				@include edgtfTransform(translateX(-50%));
+			}
+		}
+		
+		.edgtf-cc-image {
+			width: 100%;
+			opacity: 1;
+			will-change: opacity;
+			@include edgtfTransition(opacity .15s ease-out);
+		}
+		
+		.edgtf-cc-hover-image {
+			position: absolute;
+			top: 0;
+			right: 0;
+			opacity: 0;
+			will-change: opacity;
+			@include edgtfTransition(opacity .15s ease-out);
+		}
+	}
+}
+
+.edgtf-cc-hover-roll-over {
+	
+	.edgtf-cc-item {
+		overflow: hidden;
+		
+		&.edgtf-cci-has-link {
+			
+			a {
+				
+				&:hover {
+					
+					.edgtf-cc-image {
+						@include edgtfTransform(translateY(100%));
+					}
+					
+					.edgtf-cc-hover-image {
+						@include edgtfTransform(translate(-50%, 0));
+					}
+				}
+			}
+		}
+		
+		&.edgtf-cci-no-link {
+			
+			&:hover {
+				
+				.edgtf-cc-image {
+					@include edgtfTransform(translateY(100%));
+				}
+				
+				.edgtf-cc-hover-image {
+					@include edgtfTransform(translate(-50%, 0));
+				}
+			}
+		}
+		
+		.edgtf-cc-image {
+			position: relative;
+			display: block;
+			width: auto;
+			margin: 0 auto;
+			@include edgtfTransitionTransform(.4s ease);
+		}
+		
+		.edgtf-cc-hover-image {
+			position: absolute;
+			top: 0;
+			left: 50%;
+			//width: auto;
+			@include edgtfTransform(translate(-50%, -100%));
+			@include edgtfTransitionTransform(.4s ease);
+		}
+	}
+}
+
+@include phone-portrait{
+	.edgtf-clients-carousel-holder{
+		
+		.edgtf-cc-link {
+			width: 70%;
+		}
+	}
+}
+/***** Hover Types - end *****/
+
+/* ==========================================================================
+   Clients Carousel shortcode style - end
+   ========================================================================== */

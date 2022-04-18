@@ -1,0 +1,531 @@
+﻿<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+	
+		<meta charset="UTF-8" />
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+		<title>#bbbtitsbbb#</title>
+<meta name="keywords"  content="#bbbkeybbb#" />
+<meta name="description"  content="#bbbdesbbb#" />
+<link rel='dns-prefetch' href='https://lalabag.com//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='https://lalabag.com//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="lalabag &raquo; Feed" href="https:/lalabag.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="lalabag &raquo; Feed de los comentarios" href="https://lalabag.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/test-mauro.site\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://lalabag.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://lalabag.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://lalabag.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-restaurant-style-css'  href='https://lalabag.com/wp-content/plugins/elaine-restaurant/assets/css/restaurant.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-restaurant-responsive-style-css'  href='https://lalabag.com/wp-content/plugins/elaine-restaurant/assets/css/restaurant-responsive.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pmpro_frontend-css'  href='https://lalabag.com/wp-content/plugins/paid-memberships-pro/css/frontend.css?ver=2.2.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='pmpro_print-css'  href='https://lalabag.com/wp-content/plugins/paid-memberships-pro/css/print.css?ver=2.2.6' type='text/css' media='print' />
+<link rel='stylesheet' id='pmpro-woocommerce-css'  href='https://lalabag.com/wp-content/plugins/pmpro-woocommerce/css/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://lalabag.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='timetable_sf_style-css'  href='https://lalabag.com/wp-content/plugins/timetable/style/superfish.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_gtip2_style-css'  href='https://lalabag.com/wp-content/plugins/timetable/style/jquery.qtip.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_style-css'  href='https://lalabag.com/wp-content/plugins/timetable/style/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_event_template-css'  href='https://lalabag.com/wp-content/plugins/timetable/style/event_template.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_responsive_style-css'  href='https://lalabag.com/wp-content/plugins/timetable/style/responsive.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_font_lato-css'  href='https://lalabag.com//fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vpg_customjs_css-css'  href='https://lalabag.com/wp-content/plugins/video-player-gallery/vpg-assets/css/vpg-customjs.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vpg_custom_css-css'  href='https://lalabag.com/wp-content/plugins/video-player-gallery/vpg-assets/css/vpg-custom.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vpg_font_awesome-css'  href='https://lalabag.com/wp-content/plugins/video-player-gallery/vpg-assets/css/font-awesome.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpoh-slick-css-css'  href='https://lalabag.com/wp-content/plugins/video-player-gallery/vpg-assets/css/slick.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpoh-magnific-css-css'  href='https://lalabag.com/wp-content/plugins/video-player-gallery/vpg-assets/css/popup.css?ver=1.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='elaine-edge-default-style-css'  href='https://lalabag.com/wp-content/themes/elaine/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-child-style-css'  href='https://lalabag.com/wp-content/themes/elaine-child/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-modules-css'  href='https://lalabag.com/wp-content/themes/elaine/assets/css/modules.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-dripicons-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/dripicons/dripicons.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-font-elegant-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/elegant-icons/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-font-awesome-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/font-awesome/css/fontawesome-all.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-ion-icons-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/ion-icons/css/ionicons.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-linea-icons-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/linea-icons/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-linear-icons-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/linear-icons/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-simple-line-icons-css'  href='https://lalabag.com/wp-content/themes/elaine/framework/lib/icons-pack/simple-line-icons/simple-line-icons.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://lalabag.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://lalabag.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-woo-css'  href='https://lalabag.com/wp-content/themes/elaine/assets/css/woocommerce.min.css?ver=5.4.1' type='text/css' media='all' />
+<style id='elaine-edge-woo-inline-css' type='text/css'>
+.page-id-999 .edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner, .page-id-999 .edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding: 0;}.page-id-999 .edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner, .page-id-999 .edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding: 0;}
+</style>
+<link rel='stylesheet' id='elaine-edge-woo-responsive-css'  href='https://lalabag.com/wp-content/themes/elaine/assets/css/woocommerce-responsive.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-style-dynamic-css'  href='https://lalabag.com/wp-content/themes/elaine/assets/css/style_dynamic.css?ver=1588199729' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-modules-responsive-css'  href='https://lalabag.com/wp-content/themes/elaine/assets/css/modules-responsive.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-style-dynamic-responsive-css'  href='https://lalabag.com/wp-content/themes/elaine/assets/css/style_dynamic_responsive.css?ver=1588199729' type='text/css' media='all' />
+<link rel='stylesheet' id='elaine-edge-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C600%2C800%7CDancing+Script%3A300%2C400%2C600%2C800&#038;subset=latin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://lalabag.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.2' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css'  href='https://lalabag.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='js_composer_front-inline-css' type='text/css'>
+.vc_custom_1531405289706{padding-top: 97px !important;}.vc_custom_1532004248048{padding-top: 25px !important;padding-bottom: 60px !important;}
+</style>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"http:\/\/test-mauro.site\/carrito\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.0.2'></script>
+<link rel='https://api.w.org/' href='https://lalabag.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lalabag.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lalabag.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<meta name="generator" content="WooCommerce 4.0.1" />
+
+
+<link rel="alternate" type="application/json+oembed" href="https://lalabag.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest-mauro.site%2Fconocenos%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lalabag.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest-mauro.site%2Fconocenos%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style type="text/css" id="wp-custom-css">
+			
+
+.edgtf-shopping-cart-holder{
+	
+}		</style>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page-template page-template-full-width page-template-full-width-php page page-id-999 theme-elaine elaine-core-1.0.3 edgtf-restaurant-1.0 pmpro-body-has-access woocommerce-no-js elaine child-child-ver-1.0.0 elaine-ver-1.4 edgtf-grid-1300 edgtf-empty-google-api edgtf-sticky-header-on-scroll-down-up edgtf-dropdown-animate-height edgtf-header-standard edgtf-menu-area-shadow-disable edgtf-menu-area-in-grid-shadow-disable edgtf-menu-area-border-disable edgtf-menu-area-in-grid-border-disable edgtf-woocommerce-columns-3 edgtf-woo-normal-space edgtf-woo-pl-info-below-image edgtf-woo-single-thumb-below-image edgtf-woo-single-has-pretty-photo edgtf-default-mobile-header edgtf-sticky-up-mobile-header wpb-js-composer js-comp-ver-6.0.2 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+#bbb1content1bbb#
+
+	
+    <div class="edgtf-wrapper">
+        <div class="edgtf-wrapper-inner">
+            
+<header class="edgtf-page-header"><div class="edgtf-menu-area edgtf-menu-center">
+				
+						
+			<div class="edgtf-vertical-align-containers">
+				<div class="edgtf-position-left">
+<!--
+				 --><div class="edgtf-position-left-inner">
+						
+	
+	<div class="edgtf-logo-wrapper">
+		<a itemprop="url" href="https://lalabag.com/" style="height: 400px;">
+			<img itemprop="image" class="edgtf-normal-logo" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-LALAENERO22ddddhDd.png" width="800" height="800" alt="logo"><img itemprop="image" class="edgtf-dark-logo" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-LALAENERO22ddddhDd.png" width="800" height="800" alt="dark logo"><img itemprop="image" class="edgtf-light-logo" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-LALAENERO22ddddhDd.png" width="800" height="800" alt="light logo"></a>
+	</div>
+
+											</div>
+				</div>
+									<div class="edgtf-position-center">
+<!--
+					 --><div class="edgtf-position-center-inner">
+								
+	<nav class="edgtf-main-menu edgtf-drop-down edgtf-default-nav"><ul id="menu-menu" class="clearfix">
+<li id="nav-menu-item-4905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="https://lalabag.com/" class=""><span class="item_outer"><span class="item_text">Inicio</span></span></a></li>
+<li id="nav-menu-item-4948" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://lalabag.com/planes-precios/" class=""><span class="item_outer"><span class="item_text">Suscripciones</span></span></a></li>
+<li id="nav-menu-item-4904" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-999 current_page_item edgtf-active-item narrow"><a href="https://lalabag.com/conocenos/" class=" current "><span class="item_outer"><span class="item_text">Conocenos</span></span></a></li>
+<li id="nav-menu-item-4931" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://lalabag.com/preguntas-frecuentes/" class=""><span class="item_outer"><span class="item_text">Preguntas frecuentes</span></span></a></li>
+</ul></nav>
+</div>
+					</div>
+								<div class="edgtf-position-right">
+<!--
+				 --><div class="edgtf-position-right-inner">
+												        <div class="edgtf-shopping-cart-holder">
+            <div class="edgtf-shopping-cart-inner">
+                <a itemprop="url" class="edgtf-header-cart edgtf-header-cart-icon-pack" href="https://lalabag.com/carrito/">
+                    <span class="edgtf-cart-icon">CARRITO</span>
+	                <span class="edgtf-cart-amount">
+										(<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>0.00</span>)									</span>
+                </a>
+                <div class="edgtf-shopping-cart-dropdown">
+<p>#link1#</p>
+
+                    <ul>
+<li class="edgtf-empty-cart">No hay productos en el carrito.</li>
+                                            </ul>
+</div>
+            </div>
+        </div>
+        					</div>
+				</div>
+			</div>
+			
+			</div>
+			
+		
+	
+<div class="edgtf-sticky-header">
+        <div class="edgtf-sticky-holder edgtf-menu-center">
+                    <div class="edgtf-vertical-align-containers">
+                <div class="edgtf-position-left">
+<!--
+                 --><div class="edgtf-position-left-inner">
+                        
+	
+	<div class="edgtf-logo-wrapper">
+		<a itemprop="url" href="https://lalabag.com/" style="height: 400px;">
+			<img itemprop="image" class="edgtf-normal-logo" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-LALAENERO22ddddhDd.png" width="800" height="800" alt="logo"><img itemprop="image" class="edgtf-dark-logo" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-LALAENERO22ddddhDd.png" width="800" height="800" alt="dark logo"><img itemprop="image" class="edgtf-light-logo" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-LALAENERO22ddddhDd.png" width="800" height="800" alt="light logo"></a>
+	</div>
+
+                                            </div>
+                </div>
+                                    <div class="edgtf-position-center">
+<!--
+                     --><div class="edgtf-position-center-inner">
+                            
+<nav class="edgtf-main-menu edgtf-drop-down edgtf-sticky-nav"><ul id="menu-menu-1" class="clearfix">
+<li id="sticky-nav-menu-item-4905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="https://lalabag.com/" class=""><span class="item_outer"><span class="item_text">Inicio</span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-4948" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://lalabag.com/planes-precios/" class=""><span class="item_outer"><span class="item_text">Suscripciones</span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-4904" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-999 current_page_item edgtf-active-item narrow"><a href="https://lalabag.com/conocenos/" class=" current "><span class="item_outer"><span class="item_text">Conocenos</span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-4931" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://lalabag.com/preguntas-frecuentes/" class=""><span class="item_outer"><span class="item_text">Preguntas frecuentes</span><span class="plus"></span></span></a></li>
+</ul></nav>
+</div>
+                    </div>
+                                <div class="edgtf-position-right">
+<!--
+                 --><div class="edgtf-position-right-inner">
+                                                        <div class="edgtf-shopping-cart-holder" style="margin: ">
+<p>#bbb2content2bbb#</p>
+
+            <div class="edgtf-shopping-cart-inner">
+                <a itemprop="url" class="edgtf-header-cart edgtf-header-cart-icon-pack" href="https://lalabag.com/carrito/">
+                    <span class="edgtf-cart-icon">CARRITO</span>
+	                <span class="edgtf-cart-amount">
+										(<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>0.00</span>)									</span>
+                </a>
+                <div class="edgtf-shopping-cart-dropdown">
+                    <ul>
+<li class="edgtf-empty-cart">No hay productos en el carrito.</li>
+                                            </ul>
+</div>
+            </div>
+        </div>
+                            </div>
+                </div>
+            </div>
+                </div>
+	</div>
+
+	
+	</header><header class="edgtf-mobile-header"><div class="edgtf-mobile-header-inner">
+		<div class="edgtf-mobile-header-holder">
+			<div class="edgtf-grid">
+				<div class="edgtf-vertical-align-containers">
+					<div class="edgtf-vertical-align-containers">
+													<div class="edgtf-mobile-menu-opener edgtf-mobile-menu-opener-icon-pack">
+								<a href="https://lalabag.com/javascript:void(0)">
+									<span class="edgtf-mobile-menu-icon">
+										<span aria-hidden="true" class="edgtf-icon-font-elegant icon_menu "></span>									</span>
+																	</a>
+							</div>
+												<div class="edgtf-position-center">
+<!--
+						 --><div class="edgtf-position-center-inner">
+								
+<div class="edgtf-mobile-logo-wrapper">
+<p>#link2#</p>
+
+	<a itemprop="url" href="https://lalabag.com/" style="height: 85px">
+		<img itemprop="image" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3.png" width="170" height="170" alt="Mobile Logo"></a>
+</div>
+
+							</div>
+						</div>
+						<div class="edgtf-position-right">
+<!--
+						 --><div class="edgtf-position-right-inner">
+															</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+<nav class="edgtf-mobile-nav"><div class="edgtf-grid">
+        <ul id="menu-menu-2" class="">
+<li id="mobile-menu-item-4905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://lalabag.com/" class=""><span>Inicio</span></a></li>
+<li id="mobile-menu-item-4948" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://lalabag.com/planes-precios/" class=""><span>Suscripciones</span></a></li>
+<li id="mobile-menu-item-4904" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-999 current_page_item edgtf-active-item"><a href="https://lalabag.com/conocenos/" class=" current "><span>Conocenos</span></a></li>
+<li id="mobile-menu-item-4931" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://lalabag.com/preguntas-frecuentes/" class=""><span>Preguntas frecuentes</span></a></li>
+</ul>
+</div>
+</nav>
+</div>
+	
+	</header><a id="edgtf-back-to-top" href="https://lalabag.com/#">
+                <span class="edgtf-icon-stack">
+                     <span aria-hidden="true" class="edgtf-icon-font-elegant arrow_carrot-up  "></span>                </span>
+			</a>
+			        
+            <div class="edgtf-content">
+                <div class="edgtf-content-inner">
+<div class="edgtf-title-holder edgtf-standard-type edgtf-title-va-header-bottom edgtf-preload-background edgtf-has-bg-image edgtf-bg-responsive" style="height: 300px;background-image:url(https://lalabag.com/wp-content/uploads/2020/04/0420-OXF367-LF-EF-Image-Resize-1180x450-102701.jpg);" data-height="300">
+			<div class="edgtf-title-image">
+			<img itemprop="image" src="https://lalabag.com/wp-content/uploads/2020/04/0420-OXF367-LF-EF-Image-Resize-1180x450-102701.jpg" alt="Image Alt">
+</div>
+		<div class="edgtf-title-wrapper">
+		<div class="edgtf-title-inner">
+			<div class="edgtf-grid">
+													<h2 class="edgtf-page-title entry-title">Conocenos</h2>
+							</div>
+	    </div>
+	</div>
+</div>
+
+
+<div class="edgtf-full-width">
+    	<div class="edgtf-full-width-inner">
+        					<div class="edgtf-grid-row">
+				<div class="edgtf-page-content-holder edgtf-grid-col-12">
+					<div class="edgtf-row-grid-section-wrapper "><div class="edgtf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1531405289706">
+<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-0 vc_col-lg-6 vc_col-md-offset-0 vc_col-md-12 vc_col-sm-offset-0 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Contactanos</h5>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 24px"><span class="vc_empty_space_inner"></span></div>
+<div role="form" class="wpcf7" id="wpcf7-f4926-p999-o1" lang="en-US" dir="ltr">#descontent# <p>#flink#</p></div>
+<div class="vc_empty_space" style="height: 36px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div>
+<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-0 vc_col-lg-6 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="edgtf-section-title-holder  edgtf-st-standard edgtf-st-title-left edgtf-st-normal-space " style="text-align: center">
+	<div class="edgtf-st-inner">
+					<h3 class="edgtf-st-title">
+				Nuestra historia			</h3>
+							<p class="edgtf-st-text" style="color: #333333;font-size: 18px;line-height: 32px;font-weight: 300;margin-top: 12px">
+				Este texto va a ser reemplazado por una breve descripción de nuestra historia, se mencionará nuestros inicios y como hemos venido evolucionando para llegar a todos nuestros seguidores.			</p>
+			</div>
+</div>
+<div class="vc_empty_space" style="height: 8px"><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="170" height="170" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3.png" class="vc_single_image-img attachment-full" alt="" srcset="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3.png 170w, https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3-100x100.png 100w, https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3-150x150.png 150w" sizes="(max-width: 170px) 100vw, 170px"></div>
+		</figure>
+</div>
+<div class="vc_empty_space" style="height: 36px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div>
+</div></div></div>
+<div class="edgtf-row-grid-section-wrapper "><div class="edgtf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1532004248048"><div class="wpb_column vc_column_container vc_col-sm-10 vc_col-lg-offset-0 vc_col-lg-12 vc_col-md-offset-0 vc_col-md-12 vc_col-sm-offset-1 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div>
+<p>#link3#</p>
+</div></div></div></div>
+					</div>
+							</div>
+		        	</div>
+
+    </div>
+
+</div> <!-- close div.content_inner -->
+	</div>  <!-- close div.content -->
+					<footer class="edgtf-page-footer "><div class="edgtf-footer-top-holder">
+    <div class="edgtf-footer-top-inner edgtf-grid">
+        <div class="edgtf-grid-row edgtf-footer-top-alignment-left">
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="media_image-10" class="widget edgtf-footer-column-1 widget_media_image"><img width="70" height="70" src="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3-100x100.png" class="image wp-image-4858  attachment-70x70 size-70x70" alt="" style="max-width: 100%; height: auto;" srcset="https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3-100x100.png 100w, https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3-150x150.png 150w, https://lalabag.com/wp-content/uploads/2020/04/Copia-de-Copia-de-LALAENERO22ddddhDd-3.png 170w" sizes="(max-width: 70px) 100vw, 70px"></div>
+<div id="text-2" class="widget edgtf-footer-column-1 widget_text">			<div class="textwidget">
+<p>Trabajamos para brindarles los mejores productos que hay en el mercado.</p>
+</div>
+		</div>
+<div class="widget edgtf-separator-widget">
+<div class="edgtf-separator-holder clearfix  edgtf-separator-center edgtf-separator-normal">
+	<div class="edgtf-separator" style="border-style: solid;margin-top: -5px"></div>
+</div>
+</div>
+<div class="widget edgtf-social-icons-group-widget text-align-left">							<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover" style="color: #ed5d29;;font-size: 15px" href="https://www.facebook.com/Lalabag_-176737133162945/" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-facebook"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover" style="color: #ed5d29;;font-size: 15px" href="https://www.instagram.com/lalabag_/" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-instagram"></span>				</a>
+															
+
+</div>                </div>
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="text-3" class="widget edgtf-footer-column-2 widget_text">
+<div class="edgtf-widget-title-holder"><h5 class="edgtf-widget-title">Contacto</h5></div>			<div class="textwidget">
+<p>Una nueva manera de comprar<br>
+Cel: <a href="https://lalabag.com/tel:3225424375">3225424375</a><br>
+Lunes a viernes 9-5 sáb 9-12<br><br><a href="https://lalabag.com/encuesta">Encuesta</a></p>
+</div>
+		</div>                </div>
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="text-4" class="widget edgtf-footer-column-3 widget_text">
+<div class="edgtf-widget-title-holder"><h5 class="edgtf-widget-title">Suscríbete</h5></div>			<div class="textwidget">
+<p>Suscríbete para estar al día con nuestras promociones y  noticias.</p>
+</div>
+		</div>		<div class="widget edgtf-contact-form-7-widget ">
+						<div role="form" class="wpcf7" id="wpcf7-f95-o2" lang="de-CH" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="https://lalabag.com/conocenos/#wpcf7-f95-o2" method="post" class="wpcf7-form cf7_custom_style_2" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="95"><input type="hidden" name="_wpcf7_version" value="5.1.7"><input type="hidden" name="_wpcf7_locale" value="en_US"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f95-o2"><input type="hidden" name="_wpcf7_container_post" value="0">
+</div>
+<div class="edgtf-cf-newsletter-footer">
+<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail"></span>
+<div class="edgtf-column-right newsletter-submit"><input type="submit" value="" class="wpcf7-form-control wpcf7-submit"></div>
+
+<p>#link4#</p>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div>
+</form>
+</div>		</div>
+		                </div>
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="edgtf_instagram_widget-3" class="widget edgtf-footer-column-4 widget_edgtf_instagram_widget"><div class="edgtf-widget-title-holder"><h5 class="edgtf-widget-title">Instagram</h5></div></div>                </div>
+                    </div>
+    </div>
+</div>
+<div class="edgtf-footer-bottom-holder">
+    <div class="edgtf-footer-bottom-inner edgtf-grid">
+        <div class="edgtf-grid-row ">
+                            <div class="edgtf-grid-col-6">
+                    <div id="text-5" class="widget edgtf-footer-bottom-column-1 widget_text">			<div class="textwidget">
+<p>Hecho por Bmotion 2020</p>
+</div>
+		</div>                </div>
+                            <div class="edgtf-grid-col-6">
+                    <div id="text-6" class="widget edgtf-footer-bottom-column-2 widget_text">			<div class="textwidget"></div>
+		</div>                </div>
+                    </div>
+    </div>
+</div>			</footer>
+</div> <!-- close div.edgtf-wrapper-inner  -->
+</div> <!-- close div.edgtf-wrapper -->
+		<!-- Memberships powered by Paid Memberships Pro v2.2.6.
+ -->
+		<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/test-mauro.site\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Anterior","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["Dom","Lun","Mar","Mi\u00e9","Jue","Vie","S\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-restaurant/assets/js/restaurant.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/timetable/js/jquery.qtip.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/timetable/js/jquery.ba-bbq.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/timetable/js/jquery.carouFredSel-6.2.1-packed.js?ver=5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tt_config = [];
+tt_config = {"ajaxurl":"http:\/\/test-mauro.site\/wp-admin\/admin-ajax.php"};;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/timetable/js/timetable.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/video-player-gallery/vpg-assets/js/simple-video.js?ver=1.2'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_adc4f10e1e43506705370a91b17c85a5","fragment_name":"wc_fragments_adc4f10e1e43506705370a91b17c85a5","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+	
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"es","strings":{"mejs.download-file":"Descargar archivo","mejs.install-flash":"Est\u00e1s usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la \u00faltima versi\u00f3n desde https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reproducir","mejs.pause":"Pausa","mejs.time-slider":"Control de tiempo","mejs.time-help-text":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo y las flechas arriba\/abajo para avanzar diez segundos.","mejs.live-broadcast":"Transmisi\u00f3n en vivo","mejs.volume-help-text":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","mejs.unmute":"Activar el sonido","mejs.mute":"Silenciar","mejs.volume-slider":"Control de volumen","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor de audio","mejs.captions-subtitles":"Pies de foto \/ Subt\u00edtulos","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Ninguna","mejs.afrikaans":"Afrik\u00e1ans","mejs.albanian":"Albano","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorruso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e1n","mejs.chinese":"Chino","mejs.chinese-simplified":"Chino (Simplificado)","mejs.chinese-traditional":"Chino (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dan\u00e9s","mejs.dutch":"Holand\u00e9s","mejs.english":"Ingl\u00e9s","mejs.estonian":"Estonio","mejs.filipino":"Filipino","mejs.finnish":"Fin\u00e9s","mejs.french":"Franc\u00e9s","mejs.galician":"Gallego","mejs.german":"Alem\u00e1n","mejs.greek":"Griego","mejs.haitian-creole":"Creole haitiano","mejs.hebrew":"Hebreo","mejs.hindi":"Indio","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00e9s","mejs.indonesian":"Indonesio","mejs.irish":"Irland\u00e9s","mejs.italian":"Italiano","mejs.japanese":"Japon\u00e9s","mejs.korean":"Coreano","mejs.latvian":"Let\u00f3n","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedonio","mejs.malay":"Malayo","mejs.maltese":"Malt\u00e9s","mejs.norwegian":"Noruego","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugu\u00e9s","mejs.romanian":"Rumano","mejs.russian":"Ruso","mejs.serbian":"Serbio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espa\u00f1ol","mejs.swahili":"Swahili","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00e9s","mejs.turkish":"Turco","mejs.ukrainian":"Ukraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00e9s","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/jquery.appear.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/modernizr.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/jquery.plugin.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/owl.carousel.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/jquery.waypoints.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/fluidvids.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/perfect-scrollbar.jquery.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/ScrollToPlugin.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/parallax.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/jquery.waitforimages.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/jquery.prettyPhoto.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/jquery.easing.1.3.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules/plugins/packery-mode.pkgd.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/countdown/assets/js/plugins/jquery.countdown.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/counter/assets/js/plugins/counter.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/counter/assets/js/plugins/absoluteCounter.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/custom-font/assets/js/plugins/typed.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/full-screen-sections/assets/js/plugins/jquery.fullPage.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/pie-chart/assets/js/plugins/easypiechart.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/uncovering-sections/assets/js/plugins/curtain.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/elaine-core/shortcodes/vertical-split-slider/assets/js/plugins/jquery.multiscroll.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edgtfGlobalVars = {"vars":{"edgtfAddForAdminBar":0,"edgtfElementAppearAmount":-100,"edgtfAjaxUrl":"http:\/\/test-mauro.site\/wp-admin\/admin-ajax.php","sliderNavPrevArrow":"ion-ios-arrow-left","sliderNavNextArrow":"ion-ios-arrow-right","edgtfStickyHeaderHeight":0,"edgtfStickyHeaderTransparencyHeight":70,"edgtfTopBarHeight":0,"edgtfLogoAreaHeight":0,"edgtfMenuAreaHeight":90,"edgtfMobileHeaderHeight":70}};
+var edgtfPerPageVars = {"vars":{"edgtfMobileHeaderHeight":70,"edgtfStickyScrollAmount":450,"edgtfHeaderTransparencyHeight":0,"edgtfHeaderVerticalWidth":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/themes/elaine/assets/js/modules.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://lalabag.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.2'></script>
+</body>
+</html><!-- Page generated by LiteSpeed Cache 3.0.8.3 on 2020-05-06 02:59:44 -->

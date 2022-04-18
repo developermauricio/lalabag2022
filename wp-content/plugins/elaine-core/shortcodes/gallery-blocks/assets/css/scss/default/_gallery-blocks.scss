@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Gallery Blocks shortcode style - begin
+   ========================================================================== */
+
+.edgtf-gallery-blocks-holder {
+    @include edgtfRelativeHolderLayout();
+	
+	.edgtf-gb-images {
+		
+		.edgtf-gb-image {
+			position: relative;
+			display: inline-block;
+			vertical-align: middle;
+			width: 50%;
+			float: left;
+			box-sizing: border-box;
+			
+			&.edgtf-gb-featured-image {
+				width: 100%;
+			}
+		}
+		
+		a {
+			position: relative;
+			display: block;
+			@include edgtfImageOverlayHoverStyle();
+		}
+		
+		img {
+			display: block;
+		}
+	}
+}
+/* ==========================================================================
+   Gallery Blocks shortcode style - end
+   ========================================================================== */

@@ -1,0 +1,26 @@
+/* ==========================================================================
+   clients Holder shortcode style - begin
+   ========================================================================== */
+
+.edgtf-clients-grid-holder {
+	@include edgtfRelativeHolderLayout();
+	text-align: center;
+	
+	&.edgtf-cg-alignment-left {
+		text-align: left;
+	}
+	
+	&.edgtf-cg-alignment-right {
+		text-align: right;
+	}
+	
+	.edgtf-cc-link {
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
+/* ==========================================================================
+   clients Holder shortcode style - end
+   ========================================================================== */

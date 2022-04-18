@@ -1,0 +1,147 @@
+/*.eapps-pricing-table-column-2 .eapps-pricing-table-column-button-type-filled{*/
+/*    background: #bb0018 !important;*/
+}
+.eapps-pricing-table-column-2 .eapps-pricing-table-column-features-item-icon{
+    fill: #059022 !important;
+}
+.eapps-pricing-table-column-1 .eapps-pricing-table-column-features-item-icon{
+    fill: #059022 !important;
+}
+.eapps-pricing-table-column-3 .eapps-pricing-table-column-features-item-icon{
+    fill: #059022 !important;
+}
+.eapps-pricing-table-column-title-container.eapps-pricing-table-column-item.eapps-pricing-table-column-item-with-background {
+    padding-bottom: 0px !important;
+}
+#eapps-pricing-table-1 .eapps-pricing-table-column-2 
+.eapps-pricing-table-column-features-item-icon {
+    fill: #059022 !important;
+}
+#eapps-pricing-table-2 .eapps-pricing-table-column-2 
+.eapps-pricing-table-column-features-item-icon {
+    fill: #059022 !important;
+}
+#eapps-pricing-table-3 .eapps-pricing-table-column-2 .eapps-pricing-table-column-features-item-icon {
+    fill:  #059022 !important;
+}
+#eapps-pricing-table-1 .eapps-pricing-table-column 
+.eapps-pricing-table-column-features-item-icon-crossCircle {
+    fill: #bb0018 !important;
+}
+#eapps-pricing-table-2 .eapps-pricing-table-column 
+.eapps-pricing-table-column-features-item-icon-crossCircle {
+    fill: #bb0018 !important;
+}
+#eapps-pricing-table-3 .eapps-pricing-table-column 
+.eapps-pricing-table-column-features-item-icon-crossCircle {
+    fill: #bb0018 !important;
+}
+
+#eapps-pricing-table-1 .eapps-pricing-table-column-1 
+.eapps-pricing-table-column-button-type-outline {
+    border-color: rgb(191, 35, 88);
+    color: white;
+    background: rgb(191, 35, 88);
+}
+
+#eapps-pricing-table-1 .eapps-pricing-table-column-1 
+.eapps-pricing-table-column-button-type-outline:hover {
+    border-color: rgb(191, 35, 88);
+    color: rgb(191, 35, 88);
+    background: white !important;
+    border: 1px solid;
+}
+
+#eapps-pricing-table-2 .eapps-pricing-table-column-1 
+.eapps-pricing-table-column-button-type-outline {
+    border-color: rgb(191, 35, 88);
+    color: white;
+    background: rgb(191, 35, 88);
+}
+
+#eapps-pricing-table-2 .eapps-pricing-table-column-1 
+.eapps-pricing-table-column-button-type-outline:hover {
+    border-color: rgb(191, 35, 88);
+    color: rgb(191, 35, 88);
+    background: white !important;
+    border: 1px solid;
+}
+
+#eapps-pricing-table-3 .eapps-pricing-table-column-1 
+.eapps-pricing-table-column-button-type-outline {
+    border-color: rgb(191, 35, 88);
+    color: white;
+    background: rgb(191, 35, 88);
+}
+
+#eapps-pricing-table-3 .eapps-pricing-table-column-1 
+.eapps-pricing-table-column-button-type-outline:hover {
+    border-color: rgb(191, 35, 88);
+    color: rgb(191, 35, 88);
+    background: white !important;
+    border: 1px solid;
+}
+
+#eapps-pricing-table-1 .eapps-pricing-table-column-3 
+.eapps-pricing-table-column-button-type-outline {
+    border-color: rgb(207, 90, 130);
+    color: white;
+    background: rgb(207, 90, 130);
+}
+
+#eapps-pricing-table-1 .eapps-pricing-table-column-3 
+.eapps-pricing-table-column-button-type-outline:hover {
+    border-color: rgb(207, 90, 130);
+    color: rgb(207, 90, 130);
+    background: white !important;
+    border: 1px solid;
+}
+
+#eapps-pricing-table-2 .eapps-pricing-table-column-3 
+.eapps-pricing-table-column-button-type-outline {
+    border-color: rgb(207, 90, 130);
+    color: white;
+    background: rgb(207, 90, 130);
+}
+
+#eapps-pricing-table-2 .eapps-pricing-table-column-3 
+.eapps-pricing-table-column-button-type-outline:hover {
+    border-color: rgb(207, 90, 130);
+    color: rgb(207, 90, 130);
+    background: white !important;
+    border: 1px solid;
+}
+#eapps-pricing-table-3 .eapps-pricing-table-column-3 
+.eapps-pricing-table-column-button-type-outline {
+    border-color: rgb(207, 90, 130);
+    color: white;
+    background: rgb(207, 90, 130);
+}
+
+#eapps-pricing-table-3 .eapps-pricing-table-column-3 
+.eapps-pricing-table-column-button-type-outline:hover {
+    border-color: rgb(207, 90, 130);
+    color: rgb(207, 90, 130);
+    background: white !important;
+    border: 1px solid;
+}
+#eapps-pricing-table-1 .eapps-pricing-table-column-2 
+.eapps-pricing-table-column-button-type-filled:hover {
+    background: white;
+    color: rgb(30, 58, 116);
+    border: 1px solid;
+}
+
+#eapps-pricing-table-2 .eapps-pricing-table-column-2 
+.eapps-pricing-table-column-button-type-filled:hover {
+    background: white;
+    color: rgb(30, 58, 116);
+    border: 1px solid;
+}
+
+#eapps-pricing-table-3 .eapps-pricing-table-column-2 
+.eapps-pricing-table-column-button-type-filled:hover {
+    background: white;
+    color: rgb(30, 58, 116);
+    border: 1px solid;
+}

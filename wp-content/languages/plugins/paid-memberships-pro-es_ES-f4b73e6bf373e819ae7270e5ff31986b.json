@@ -1,0 +1,1 @@
+{"translation-revision-date":"2020-05-01 05:14:35+0000","generator":"GlotPress\/2.4.0-alpha","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Displays the member's invoices.":["Muestra las facturas del socio."],"pmpro":["pmpro"]}},"comment":{"reference":"blocks\/account-invoices-section\/block.js"}}

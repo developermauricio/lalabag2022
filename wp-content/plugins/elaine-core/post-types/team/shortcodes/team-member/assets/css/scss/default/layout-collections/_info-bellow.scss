@@ -1,0 +1,113 @@
+/* ==========================================================================
+# Team info bellow - begin
+	========================================================================== */
+
+.edgtf-team {
+    &.info-bellow {
+
+        .edgtf-team-inner {
+            text-align: left;
+            width: 100%;
+        }
+
+        .edgtf-team-image {
+            position: relative;
+            overflow: hidden;
+            display: block;
+            margin: 0 auto;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            border-radius: 50%;
+
+            a {
+                position: relative;
+                display: block;
+                width: 100%;
+                height: 100%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+
+                &:hover {
+
+                    &:after {
+                        opacity: 0.3;
+                    }
+                }
+
+                &:after {
+                    content: '';
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                    top: 0;
+                    left: 0;
+                    background-color: #fff;
+                    opacity: 0;
+
+                    @include edgtfTransition(opacity 0.3s ease);
+                }
+            }
+
+            img {
+                display: block;
+            }
+        }
+
+        .edgtf-team-title-holder {
+            margin: 25px 0 0;
+            text-align: center;
+        }
+
+        .edgtf-team-name {
+            margin: 27px 0 0;
+            &:hover {
+                color: #d0d0d0;
+            }
+        }
+
+        .edgtf-team-position, .edgtf-team-description {
+            margin: 0;
+            font-size: 15px;
+            font-weight: 400;
+            color: $default-text-color;
+            text-align: center;
+            text-transform: none;
+        }
+        
+        .edgtf-team-position{
+            margin-top: -8px;
+        }
+	    
+	    .edgtf-team-description{
+		    p{
+			    margin:6px 0;
+		    }
+	    }
+        
+        .edgtf-team-social{
+            margin: 27px 0;
+        }
+        
+        .edgtf-team-social-wrapp{
+            text-align: center;
+        
+        }
+
+        .edgtf-team-social-holder-between {
+            margin: 15px 0 0;
+        }
+
+        .edgtf-icon-shortcode {
+            margin: 0 8px;
+            font-size: 20px;
+            &:first-child {
+                margin-left: 0;
+            }
+        }
+    }
+}
+
+/* ==========================================================================
+# Team info bellow - end
+	========================================================================== */

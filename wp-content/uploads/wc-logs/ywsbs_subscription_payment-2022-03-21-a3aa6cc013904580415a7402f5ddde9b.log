@@ -1,0 +1,370 @@
+03-20-2022 @ 19:01:03 - ======================
+03-20-2022 @ 19:01:03 - Start renew order cron at 2022-03-20 19:01:03
+03-20-2022 @ 19:01:03 - Search subscriptions with Payment due date < 2022-03-21 19:01:03
+03-20-2022 @ 19:01:03 - Found 0 subscriptions
+03-20-2022 @ 19:01:03 - ======================
+03-20-2022 @ 19:01:03 - ===============
+03-20-2022 @ 19:01:03 - Start Payment Renews cron at 2022-03-20 19:01:03
+03-20-2022 @ 19:01:03 - Search renew order with date < 2022-03-19 19:01:03
+03-20-2022 @ 19:01:03 - Found 2 new renew orders
+03-20-2022 @ 19:01:03 - Found 0 failed renew orders
+03-20-2022 @ 19:01:03 - Pay order #8663
+03-20-2022 @ 19:01:03 - The order 8663 should be pay with ( epayco )
+03-20-2022 @ 19:01:03 - Pay order #8662
+03-20-2022 @ 19:01:03 - The order 8662 should be pay with ( epayco )
+03-20-2022 @ 19:01:03 - =======================
+03-20-2022 @ 20:00:30 - ======================
+03-20-2022 @ 20:00:30 - Start renew order cron at 2022-03-20 20:00:30
+03-20-2022 @ 20:00:30 - Search subscriptions with Payment due date < 2022-03-21 20:00:30
+03-20-2022 @ 20:00:30 - Found 0 subscriptions
+03-20-2022 @ 20:00:30 - ======================
+03-20-2022 @ 20:00:30 - ===============
+03-20-2022 @ 20:00:30 - Start Payment Renews cron at 2022-03-20 20:00:30
+03-20-2022 @ 20:00:30 - Search renew order with date < 2022-03-19 20:00:30
+03-20-2022 @ 20:00:30 - Found 2 new renew orders
+03-20-2022 @ 20:00:30 - Found 0 failed renew orders
+03-20-2022 @ 20:00:30 - Pay order #8663
+03-20-2022 @ 20:00:30 - The order 8663 should be pay with ( epayco )
+03-20-2022 @ 20:00:30 - Pay order #8662
+03-20-2022 @ 20:00:30 - The order 8662 should be pay with ( epayco )
+03-20-2022 @ 20:00:30 - =======================
+03-20-2022 @ 21:00:38 - ======================
+03-20-2022 @ 21:00:38 - Start renew order cron at 2022-03-20 21:00:38
+03-20-2022 @ 21:00:38 - Search subscriptions with Payment due date < 2022-03-21 21:00:38
+03-20-2022 @ 21:00:38 - Found 0 subscriptions
+03-20-2022 @ 21:00:38 - ======================
+03-20-2022 @ 21:00:38 - ===============
+03-20-2022 @ 21:00:38 - Start Payment Renews cron at 2022-03-20 21:00:38
+03-20-2022 @ 21:00:38 - Search renew order with date < 2022-03-19 21:00:38
+03-20-2022 @ 21:00:38 - Found 2 new renew orders
+03-20-2022 @ 21:00:38 - Found 0 failed renew orders
+03-20-2022 @ 21:00:38 - Pay order #8663
+03-20-2022 @ 21:00:38 - The order 8663 should be pay with ( epayco )
+03-20-2022 @ 21:00:38 - Pay order #8662
+03-20-2022 @ 21:00:38 - The order 8662 should be pay with ( epayco )
+03-20-2022 @ 21:00:38 - =======================
+03-20-2022 @ 22:00:07 - ======================
+03-20-2022 @ 22:00:07 - Start renew order cron at 2022-03-20 22:00:07
+03-20-2022 @ 22:00:07 - Search subscriptions with Payment due date < 2022-03-21 22:00:07
+03-20-2022 @ 22:00:07 - Found 0 subscriptions
+03-20-2022 @ 22:00:07 - ======================
+03-20-2022 @ 22:00:07 - ===============
+03-20-2022 @ 22:00:07 - Start Payment Renews cron at 2022-03-20 22:00:07
+03-20-2022 @ 22:00:07 - Search renew order with date < 2022-03-19 22:00:07
+03-20-2022 @ 22:00:07 - Found 2 new renew orders
+03-20-2022 @ 22:00:07 - Found 0 failed renew orders
+03-20-2022 @ 22:00:07 - Pay order #8663
+03-20-2022 @ 22:00:07 - The order 8663 should be pay with ( epayco )
+03-20-2022 @ 22:00:07 - Pay order #8662
+03-20-2022 @ 22:00:07 - The order 8662 should be pay with ( epayco )
+03-20-2022 @ 22:00:07 - =======================
+03-20-2022 @ 23:00:30 - ======================
+03-20-2022 @ 23:00:31 - Start renew order cron at 2022-03-20 23:00:31
+03-20-2022 @ 23:00:31 - Search subscriptions with Payment due date < 2022-03-21 23:00:30
+03-20-2022 @ 23:00:31 - Found 0 subscriptions
+03-20-2022 @ 23:00:31 - ======================
+03-20-2022 @ 23:00:31 - ===============
+03-20-2022 @ 23:00:31 - Start Payment Renews cron at 2022-03-20 23:00:31
+03-20-2022 @ 23:00:31 - Search renew order with date < 2022-03-19 23:00:31
+03-20-2022 @ 23:00:31 - Found 2 new renew orders
+03-20-2022 @ 23:00:31 - Found 0 failed renew orders
+03-20-2022 @ 23:00:31 - Pay order #8663
+03-20-2022 @ 23:00:31 - The order 8663 should be pay with ( epayco )
+03-20-2022 @ 23:00:31 - Pay order #8662
+03-20-2022 @ 23:00:31 - The order 8662 should be pay with ( epayco )
+03-20-2022 @ 23:00:31 - =======================
+03-21-2022 @ 00:00:05 - ===============
+03-21-2022 @ 00:00:05 - Start Payment Renews cron at 2022-03-21 00:00:05
+03-21-2022 @ 00:00:05 - Search renew order with date < 2022-03-20 00:00:05
+03-21-2022 @ 00:00:05 - Found 2 new renew orders
+03-21-2022 @ 00:00:05 - Found 0 failed renew orders
+03-21-2022 @ 00:00:05 - Pay order #8663
+03-21-2022 @ 00:00:05 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 00:00:05 - Pay order #8662
+03-21-2022 @ 00:00:05 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 00:00:05 - =======================
+03-21-2022 @ 00:00:05 - ======================
+03-21-2022 @ 00:00:05 - Start renew order cron at 2022-03-21 00:00:05
+03-21-2022 @ 00:00:05 - Search subscriptions with Payment due date < 2022-03-22 00:00:05
+03-21-2022 @ 00:00:05 - Found 0 subscriptions
+03-21-2022 @ 00:00:05 - ======================
+03-21-2022 @ 00:00:05 - ===============
+03-21-2022 @ 00:00:05 - Start Payment Renews cron at 2022-03-21 00:00:05
+03-21-2022 @ 00:00:05 - Search renew order with date < 2022-03-20 00:00:05
+03-21-2022 @ 00:00:05 - Found 2 new renew orders
+03-21-2022 @ 00:00:05 - Found 0 failed renew orders
+03-21-2022 @ 00:00:05 - Pay order #8663
+03-21-2022 @ 00:00:05 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 00:00:05 - Pay order #8662
+03-21-2022 @ 00:00:05 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 00:00:05 - =======================
+03-21-2022 @ 01:00:23 - ======================
+03-21-2022 @ 01:00:23 - Start renew order cron at 2022-03-21 01:00:23
+03-21-2022 @ 01:00:23 - Search subscriptions with Payment due date < 2022-03-22 01:00:23
+03-21-2022 @ 01:00:23 - Found 0 subscriptions
+03-21-2022 @ 01:00:23 - ======================
+03-21-2022 @ 01:00:23 - ===============
+03-21-2022 @ 01:00:23 - Start Payment Renews cron at 2022-03-21 01:00:23
+03-21-2022 @ 01:00:23 - Search renew order with date < 2022-03-20 01:00:23
+03-21-2022 @ 01:00:23 - Found 2 new renew orders
+03-21-2022 @ 01:00:23 - Found 0 failed renew orders
+03-21-2022 @ 01:00:23 - Pay order #8663
+03-21-2022 @ 01:00:23 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 01:00:23 - Pay order #8662
+03-21-2022 @ 01:00:23 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 01:00:23 - =======================
+03-21-2022 @ 02:00:06 - ======================
+03-21-2022 @ 02:00:06 - Start renew order cron at 2022-03-21 02:00:06
+03-21-2022 @ 02:00:06 - Search subscriptions with Payment due date < 2022-03-22 02:00:06
+03-21-2022 @ 02:00:06 - Found 0 subscriptions
+03-21-2022 @ 02:00:06 - ======================
+03-21-2022 @ 02:00:06 - ===============
+03-21-2022 @ 02:00:06 - Start Payment Renews cron at 2022-03-21 02:00:06
+03-21-2022 @ 02:00:06 - Search renew order with date < 2022-03-20 02:00:06
+03-21-2022 @ 02:00:06 - Found 2 new renew orders
+03-21-2022 @ 02:00:06 - Found 0 failed renew orders
+03-21-2022 @ 02:00:06 - Pay order #8663
+03-21-2022 @ 02:00:06 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 02:00:06 - Pay order #8662
+03-21-2022 @ 02:00:06 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 02:00:06 - =======================
+03-21-2022 @ 03:00:12 - ======================
+03-21-2022 @ 03:00:12 - Start renew order cron at 2022-03-21 03:00:12
+03-21-2022 @ 03:00:12 - Search subscriptions with Payment due date < 2022-03-22 03:00:12
+03-21-2022 @ 03:00:12 - Found 0 subscriptions
+03-21-2022 @ 03:00:12 - ======================
+03-21-2022 @ 03:00:12 - ===============
+03-21-2022 @ 03:00:12 - Start Payment Renews cron at 2022-03-21 03:00:12
+03-21-2022 @ 03:00:12 - Search renew order with date < 2022-03-20 03:00:12
+03-21-2022 @ 03:00:12 - Found 2 new renew orders
+03-21-2022 @ 03:00:12 - Found 0 failed renew orders
+03-21-2022 @ 03:00:12 - Pay order #8663
+03-21-2022 @ 03:00:12 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 03:00:12 - Pay order #8662
+03-21-2022 @ 03:00:12 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 03:00:12 - =======================
+03-21-2022 @ 04:00:07 - ======================
+03-21-2022 @ 04:00:07 - Start renew order cron at 2022-03-21 04:00:07
+03-21-2022 @ 04:00:07 - Search subscriptions with Payment due date < 2022-03-22 04:00:07
+03-21-2022 @ 04:00:07 - Found 0 subscriptions
+03-21-2022 @ 04:00:07 - ======================
+03-21-2022 @ 04:00:07 - ===============
+03-21-2022 @ 04:00:07 - Start Payment Renews cron at 2022-03-21 04:00:07
+03-21-2022 @ 04:00:07 - Search renew order with date < 2022-03-20 04:00:07
+03-21-2022 @ 04:00:07 - Found 2 new renew orders
+03-21-2022 @ 04:00:07 - Found 0 failed renew orders
+03-21-2022 @ 04:00:07 - Pay order #8663
+03-21-2022 @ 04:00:07 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 04:00:07 - Pay order #8662
+03-21-2022 @ 04:00:07 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 04:00:07 - =======================
+03-21-2022 @ 05:00:12 - ======================
+03-21-2022 @ 05:00:12 - Start renew order cron at 2022-03-21 05:00:12
+03-21-2022 @ 05:00:12 - Search subscriptions with Payment due date < 2022-03-22 05:00:12
+03-21-2022 @ 05:00:12 - Found 0 subscriptions
+03-21-2022 @ 05:00:12 - ======================
+03-21-2022 @ 05:00:12 - ===============
+03-21-2022 @ 05:00:12 - Start Payment Renews cron at 2022-03-21 05:00:12
+03-21-2022 @ 05:00:12 - Search renew order with date < 2022-03-20 05:00:12
+03-21-2022 @ 05:00:12 - Found 2 new renew orders
+03-21-2022 @ 05:00:12 - Found 0 failed renew orders
+03-21-2022 @ 05:00:12 - Pay order #8663
+03-21-2022 @ 05:00:12 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 05:00:12 - Pay order #8662
+03-21-2022 @ 05:00:12 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 05:00:12 - =======================
+03-21-2022 @ 06:00:26 - ======================
+03-21-2022 @ 06:00:26 - Start renew order cron at 2022-03-21 06:00:26
+03-21-2022 @ 06:00:26 - Search subscriptions with Payment due date < 2022-03-22 06:00:26
+03-21-2022 @ 06:00:26 - Found 0 subscriptions
+03-21-2022 @ 06:00:26 - ======================
+03-21-2022 @ 06:00:26 - ===============
+03-21-2022 @ 06:00:26 - Start Payment Renews cron at 2022-03-21 06:00:26
+03-21-2022 @ 06:00:26 - Search renew order with date < 2022-03-20 06:00:26
+03-21-2022 @ 06:00:26 - Found 2 new renew orders
+03-21-2022 @ 06:00:26 - Found 0 failed renew orders
+03-21-2022 @ 06:00:26 - Pay order #8663
+03-21-2022 @ 06:00:26 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 06:00:26 - Pay order #8662
+03-21-2022 @ 06:00:26 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 06:00:26 - =======================
+03-21-2022 @ 07:00:24 - ======================
+03-21-2022 @ 07:00:24 - Start renew order cron at 2022-03-21 07:00:24
+03-21-2022 @ 07:00:24 - Search subscriptions with Payment due date < 2022-03-22 07:00:24
+03-21-2022 @ 07:00:24 - Found 0 subscriptions
+03-21-2022 @ 07:00:24 - ======================
+03-21-2022 @ 07:00:24 - ===============
+03-21-2022 @ 07:00:24 - Start Payment Renews cron at 2022-03-21 07:00:24
+03-21-2022 @ 07:00:24 - Search renew order with date < 2022-03-20 07:00:24
+03-21-2022 @ 07:00:24 - Found 2 new renew orders
+03-21-2022 @ 07:00:24 - Found 0 failed renew orders
+03-21-2022 @ 07:00:24 - Pay order #8663
+03-21-2022 @ 07:00:24 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 07:00:24 - Pay order #8662
+03-21-2022 @ 07:00:24 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 07:00:24 - =======================
+03-21-2022 @ 08:00:04 - ======================
+03-21-2022 @ 08:00:04 - Start renew order cron at 2022-03-21 08:00:04
+03-21-2022 @ 08:00:04 - Search subscriptions with Payment due date < 2022-03-22 08:00:04
+03-21-2022 @ 08:00:04 - Found 0 subscriptions
+03-21-2022 @ 08:00:04 - ======================
+03-21-2022 @ 08:00:04 - ===============
+03-21-2022 @ 08:00:04 - Start Payment Renews cron at 2022-03-21 08:00:04
+03-21-2022 @ 08:00:04 - Search renew order with date < 2022-03-20 08:00:04
+03-21-2022 @ 08:00:04 - Found 2 new renew orders
+03-21-2022 @ 08:00:04 - Found 0 failed renew orders
+03-21-2022 @ 08:00:04 - Pay order #8663
+03-21-2022 @ 08:00:04 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 08:00:04 - Pay order #8662
+03-21-2022 @ 08:00:04 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 08:00:04 - =======================
+03-21-2022 @ 09:01:02 - ======================
+03-21-2022 @ 09:01:02 - Start renew order cron at 2022-03-21 09:01:02
+03-21-2022 @ 09:01:02 - Search subscriptions with Payment due date < 2022-03-22 09:01:02
+03-21-2022 @ 09:01:02 - Found 0 subscriptions
+03-21-2022 @ 09:01:02 - ======================
+03-21-2022 @ 09:01:02 - ===============
+03-21-2022 @ 09:01:02 - Start Payment Renews cron at 2022-03-21 09:01:02
+03-21-2022 @ 09:01:02 - Search renew order with date < 2022-03-20 09:01:02
+03-21-2022 @ 09:01:02 - Found 2 new renew orders
+03-21-2022 @ 09:01:02 - Found 0 failed renew orders
+03-21-2022 @ 09:01:02 - Pay order #8663
+03-21-2022 @ 09:01:02 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 09:01:02 - Pay order #8662
+03-21-2022 @ 09:01:02 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 09:01:02 - =======================
+03-21-2022 @ 10:00:44 - ======================
+03-21-2022 @ 10:00:44 - Start renew order cron at 2022-03-21 10:00:44
+03-21-2022 @ 10:00:44 - Search subscriptions with Payment due date < 2022-03-22 10:00:44
+03-21-2022 @ 10:00:44 - Found 0 subscriptions
+03-21-2022 @ 10:00:44 - ======================
+03-21-2022 @ 10:00:44 - ===============
+03-21-2022 @ 10:00:44 - Start Payment Renews cron at 2022-03-21 10:00:44
+03-21-2022 @ 10:00:44 - Search renew order with date < 2022-03-20 10:00:44
+03-21-2022 @ 10:00:44 - Found 2 new renew orders
+03-21-2022 @ 10:00:44 - Found 0 failed renew orders
+03-21-2022 @ 10:00:44 - Pay order #8663
+03-21-2022 @ 10:00:44 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 10:00:44 - Pay order #8662
+03-21-2022 @ 10:00:44 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 10:00:44 - =======================
+03-21-2022 @ 11:01:37 - ======================
+03-21-2022 @ 11:01:37 - Start renew order cron at 2022-03-21 11:01:37
+03-21-2022 @ 11:01:37 - Search subscriptions with Payment due date < 2022-03-22 11:01:37
+03-21-2022 @ 11:01:37 - Found 0 subscriptions
+03-21-2022 @ 11:01:37 - ======================
+03-21-2022 @ 11:01:38 - ===============
+03-21-2022 @ 11:01:38 - Start Payment Renews cron at 2022-03-21 11:01:38
+03-21-2022 @ 11:01:38 - Search renew order with date < 2022-03-20 11:01:38
+03-21-2022 @ 11:01:38 - Found 2 new renew orders
+03-21-2022 @ 11:01:38 - Found 0 failed renew orders
+03-21-2022 @ 11:01:38 - Pay order #8663
+03-21-2022 @ 11:01:38 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 11:01:38 - Pay order #8662
+03-21-2022 @ 11:01:38 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 11:01:38 - =======================
+03-21-2022 @ 12:01:10 - ======================
+03-21-2022 @ 12:01:10 - Start renew order cron at 2022-03-21 12:01:10
+03-21-2022 @ 12:01:10 - Search subscriptions with Payment due date < 2022-03-22 12:01:10
+03-21-2022 @ 12:01:10 - Found 0 subscriptions
+03-21-2022 @ 12:01:10 - ======================
+03-21-2022 @ 12:01:10 - ===============
+03-21-2022 @ 12:01:10 - Start Payment Renews cron at 2022-03-21 12:01:10
+03-21-2022 @ 12:01:10 - Search renew order with date < 2022-03-20 12:01:10
+03-21-2022 @ 12:01:10 - Found 2 new renew orders
+03-21-2022 @ 12:01:10 - Found 0 failed renew orders
+03-21-2022 @ 12:01:10 - Pay order #8663
+03-21-2022 @ 12:01:10 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 12:01:10 - Pay order #8662
+03-21-2022 @ 12:01:10 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 12:01:10 - =======================
+03-21-2022 @ 13:02:43 - ======================
+03-21-2022 @ 13:02:43 - Start renew order cron at 2022-03-21 13:02:43
+03-21-2022 @ 13:02:43 - Search subscriptions with Payment due date < 2022-03-22 13:02:43
+03-21-2022 @ 13:02:43 - Found 0 subscriptions
+03-21-2022 @ 13:02:43 - ======================
+03-21-2022 @ 13:02:43 - ===============
+03-21-2022 @ 13:02:43 - Start Payment Renews cron at 2022-03-21 13:02:43
+03-21-2022 @ 13:02:43 - Search renew order with date < 2022-03-20 13:02:43
+03-21-2022 @ 13:02:43 - Found 2 new renew orders
+03-21-2022 @ 13:02:43 - Found 0 failed renew orders
+03-21-2022 @ 13:02:43 - Pay order #8663
+03-21-2022 @ 13:02:43 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 13:02:43 - Pay order #8662
+03-21-2022 @ 13:02:43 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 13:02:43 - =======================
+03-21-2022 @ 14:00:42 - ======================
+03-21-2022 @ 14:00:42 - Start renew order cron at 2022-03-21 14:00:42
+03-21-2022 @ 14:00:42 - Search subscriptions with Payment due date < 2022-03-22 14:00:42
+03-21-2022 @ 14:00:42 - Found 0 subscriptions
+03-21-2022 @ 14:00:42 - ======================
+03-21-2022 @ 14:00:42 - ===============
+03-21-2022 @ 14:00:42 - Start Payment Renews cron at 2022-03-21 14:00:42
+03-21-2022 @ 14:00:42 - Search renew order with date < 2022-03-20 14:00:42
+03-21-2022 @ 14:00:42 - Found 2 new renew orders
+03-21-2022 @ 14:00:42 - Found 0 failed renew orders
+03-21-2022 @ 14:00:42 - Pay order #8663
+03-21-2022 @ 14:00:42 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 14:00:42 - Pay order #8662
+03-21-2022 @ 14:00:42 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 14:00:42 - =======================
+03-21-2022 @ 15:01:29 - ======================
+03-21-2022 @ 15:01:29 - Start renew order cron at 2022-03-21 15:01:29
+03-21-2022 @ 15:01:29 - Search subscriptions with Payment due date < 2022-03-22 15:01:29
+03-21-2022 @ 15:01:29 - Found 0 subscriptions
+03-21-2022 @ 15:01:29 - ======================
+03-21-2022 @ 15:01:29 - ===============
+03-21-2022 @ 15:01:29 - Start Payment Renews cron at 2022-03-21 15:01:29
+03-21-2022 @ 15:01:29 - Search renew order with date < 2022-03-20 15:01:29
+03-21-2022 @ 15:01:29 - Found 2 new renew orders
+03-21-2022 @ 15:01:29 - Found 0 failed renew orders
+03-21-2022 @ 15:01:29 - Pay order #8663
+03-21-2022 @ 15:01:29 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 15:01:29 - Pay order #8662
+03-21-2022 @ 15:01:29 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 15:01:29 - =======================
+03-21-2022 @ 16:00:27 - ======================
+03-21-2022 @ 16:00:27 - Start renew order cron at 2022-03-21 16:00:27
+03-21-2022 @ 16:00:27 - Search subscriptions with Payment due date < 2022-03-22 16:00:27
+03-21-2022 @ 16:00:27 - Found 0 subscriptions
+03-21-2022 @ 16:00:27 - ======================
+03-21-2022 @ 16:00:27 - ===============
+03-21-2022 @ 16:00:27 - Start Payment Renews cron at 2022-03-21 16:00:27
+03-21-2022 @ 16:00:27 - Search renew order with date < 2022-03-20 16:00:27
+03-21-2022 @ 16:00:27 - Found 2 new renew orders
+03-21-2022 @ 16:00:27 - Found 0 failed renew orders
+03-21-2022 @ 16:00:27 - Pay order #8663
+03-21-2022 @ 16:00:27 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 16:00:27 - Pay order #8662
+03-21-2022 @ 16:00:27 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 16:00:27 - =======================
+03-21-2022 @ 17:01:12 - ======================
+03-21-2022 @ 17:01:12 - Start renew order cron at 2022-03-21 17:01:12
+03-21-2022 @ 17:01:12 - Search subscriptions with Payment due date < 2022-03-22 17:01:12
+03-21-2022 @ 17:01:12 - Found 0 subscriptions
+03-21-2022 @ 17:01:12 - ======================
+03-21-2022 @ 17:01:12 - ===============
+03-21-2022 @ 17:01:12 - Start Payment Renews cron at 2022-03-21 17:01:12
+03-21-2022 @ 17:01:12 - Search renew order with date < 2022-03-20 17:01:12
+03-21-2022 @ 17:01:12 - Found 2 new renew orders
+03-21-2022 @ 17:01:12 - Found 0 failed renew orders
+03-21-2022 @ 17:01:12 - Pay order #8663
+03-21-2022 @ 17:01:12 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 17:01:12 - Pay order #8662
+03-21-2022 @ 17:01:12 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 17:01:12 - =======================
+03-21-2022 @ 18:01:07 - ======================
+03-21-2022 @ 18:01:07 - Start renew order cron at 2022-03-21 18:01:07
+03-21-2022 @ 18:01:07 - Search subscriptions with Payment due date < 2022-03-22 18:01:07
+03-21-2022 @ 18:01:07 - Found 0 subscriptions
+03-21-2022 @ 18:01:07 - ======================
+03-21-2022 @ 18:01:07 - ===============
+03-21-2022 @ 18:01:07 - Start Payment Renews cron at 2022-03-21 18:01:07
+03-21-2022 @ 18:01:07 - Search renew order with date < 2022-03-20 18:01:07
+03-21-2022 @ 18:01:07 - Found 2 new renew orders
+03-21-2022 @ 18:01:07 - Found 0 failed renew orders
+03-21-2022 @ 18:01:07 - Pay order #8663
+03-21-2022 @ 18:01:07 - The order 8663 should be pay with ( epayco )
+03-21-2022 @ 18:01:07 - Pay order #8662
+03-21-2022 @ 18:01:07 - The order 8662 should be pay with ( epayco )
+03-21-2022 @ 18:01:07 - =======================

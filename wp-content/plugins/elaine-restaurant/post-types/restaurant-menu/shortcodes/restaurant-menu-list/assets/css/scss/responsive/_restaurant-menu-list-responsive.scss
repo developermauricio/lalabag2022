@@ -1,0 +1,51 @@
+/* ==========================================================================
+# Restaurant Menu List responsive style - begin
+========================================================================== */
+.edgtf-restaurant-menu-list {
+	
+	@include phone-landscape {
+		
+		ul{
+			margin-top: 0px;
+			
+			li{
+				margin-bottom: 13px;
+			}
+		}
+		.edgtf-rml-description-holder {
+			display: none;
+		}
+
+		.edgtf-rml-price-holder {
+			text-align: right;
+		}
+
+		.edgtf-rml-label-holder {
+			float: none;
+			text-align: left;
+			width: 80%;
+			top: 10px;
+		}
+
+		.edgtf-rml-bottom-holder {
+			margin-bottom: 25px;
+    		margin-top: 3px;
+		}
+	}
+
+	&.edgtf-rml-with-featured-image {
+		@include phone-landscape {
+			.edgtf-rml-item-image {
+				display: none;
+			}
+
+			.edgtf-rml-item-content {
+			    padding-left: 0px;
+			}
+		}
+	}
+}
+
+/* ==========================================================================
+# Restaurant Menu List responsive style - end
+========================================================================== */

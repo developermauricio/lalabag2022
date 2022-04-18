@@ -1,0 +1,144 @@
+/* ==========================================================================
+   Button shortcode style - begin
+   ========================================================================== */
+
+.edgtf-btn {
+    @include edgtfButtonDefaultStyle();
+    @include edgtfButtonSize();
+    cursor: pointer;
+    
+    
+    &.edgtf-btn-simple {
+        padding: 0 !important;
+        color: $first-main-color;
+        background-color: transparent;
+        border: 0;
+        vertical-align: middle;
+    
+        &.edgtf-btn-icon {
+            > i,
+            > span.edgtf-btn-icon {
+                margin: -1px 0 0 -3px;
+            }
+        }
+
+        .edgtf-btn-text {
+            display: inline-block;
+            vertical-align: baseline;
+        }
+
+        &:not(.edgtf-btn-custom-hover-color):hover {
+            //important because of inline color attribute. :not is used so we don't have to use important in JS
+            color: $default-button-color !important;
+        }
+
+        &:not(.edgtf-btn-custom-hover-bg):hover {
+            //important because of inline color attribute. :not is used so we don't have to use important in JS
+            background-color: transparent !important;
+        }
+
+        &:not(.edgtf-btn-custom-border-hover):hover {
+            //important because of inline color attribute. :not is used so we don't have to use important in JS
+            border-color: transparent !important;
+        }
+
+        .edgtf-btn-icon { 
+            @include edgtfTransitionTransform(.2s ease-out);
+        }
+
+        &:hover { 
+            .edgtf-btn-icon {
+                @include edgtfTransform(translate3d(3px,0,0));
+            }
+        }
+    }
+
+    &.edgtf-btn-solid {
+        @include edgtfButtonSolidColor();
+        .edgtf-btn-text {
+            margin-left: 2px;
+        }
+        
+        .edgtf-detached-effect{
+            display: block;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border: 1px solid $first-main-color;
+            top: 6px;
+            left: 6px;
+            box-sizing: border-box;
+            z-index: 0;
+            @include edgtfTransitionTransform(.25s ease-out);
+            @include edgtfTransform(translate3d(0px,0px,0));
+        }
+
+        &:hover {
+            .edgtf-detached-effect{
+                @include edgtfTransform(translate3d(3px,3px,0));
+            }
+        }
+    }
+
+    &.edgtf-btn-outline {
+	    @include edgtfButtonOutlineColor();
+    
+        .edgtf-btn-text {
+            margin-left: 2px;
+        }
+        
+        &:not(.edgtf-btn-custom-hover-color):hover {
+            //important because of inline color attribute. :not is used so we don't have to use important in JS
+            color: #fff !important;
+        }
+
+        &:not(.edgtf-btn-custom-hover-bg):hover {
+            //important because of inline color attribute. :not is used so we don't have to use important in JS
+            background-color: $first-main-color-black !important;
+        }
+
+        &:not(.edgtf-btn-custom-border-hover):hover {
+            //important because of inline color attribute. :not is used so we don't have to use important in JS
+            border-color: $first-main-color-black !important;
+        }
+    }
+    
+    &.edgtf-btn-small {
+        @include edgtfButtonSize(small);
+    }
+    
+    &.edgtf-btn-large {
+        @include edgtfButtonSize(large);
+    }
+    
+    &.edgtf-btn-huge {
+        @include edgtfButtonSize(huge);
+    }
+
+    &.edgtf-btn-icon {
+        padding: 12px 32px 12px 37px;
+        > i,
+        > span.edgtf-btn-icon {
+            position: relative;
+            display: inline-block;
+            vertical-align: top;
+            margin: -1px 0 0 -2px;
+            font-size: 18px;
+            line-height: inherit;
+
+            &:before {
+                display: block;
+                line-height: inherit;
+            }
+        }
+    }
+    
+    &.edgtf-btn-disabled-border{
+        .edgtf-detached-effect{
+            display: none;
+        }
+    }
+}
+/* ==========================================================================
+   Button shortcode style - end
+   ========================================================================== */

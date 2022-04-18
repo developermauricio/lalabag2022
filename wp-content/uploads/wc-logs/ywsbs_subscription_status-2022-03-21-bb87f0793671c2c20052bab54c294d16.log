@@ -1,0 +1,20 @@
+03-21-2022 @ 00:00:04 - ======================
+03-21-2022 @ 00:00:04 - Start check subscription payment cron at 2022-03-21 00:00:04
+03-21-2022 @ 00:00:04 - Search subscriptions with Payment due date < 2022-03-21 00:00:04
+03-21-2022 @ 00:00:04 - Found 0 subscriptions
+03-21-2022 @ 00:00:04 - ===============
+03-21-2022 @ 00:00:04 - ======================
+03-21-2022 @ 00:00:04 - Start expired cron at 2022-03-21 00:00:04
+03-21-2022 @ 00:00:04 - Search subscription with expired date < 2022-03-21 00:00:04
+03-21-2022 @ 00:00:04 - Found 0 subscriptions
+03-21-2022 @ 00:00:04 - ======================
+03-21-2022 @ 00:00:05 - ======================
+03-21-2022 @ 00:00:05 - Start resume orders cron at 2022-03-21 00:00:05
+03-21-2022 @ 00:00:05 - Search subscriptions to resume with expired pause date <  2022-03-21 05:00:05
+03-21-2022 @ 00:00:05 - Found 0 subscriptions
+03-21-2022 @ 00:00:05 - ======================
+03-21-2022 @ 00:00:05 - ===============
+03-21-2022 @ 00:00:05 - Start check suspended subscription at 2022-03-21 00:00:05
+03-21-2022 @ 00:00:05 - Search suspended subscriptions with Payment due date < 2022-03-01 10:00:05
+03-21-2022 @ 00:00:05 - Found 0 subscriptions
+03-21-2022 @ 00:00:05 - ================

@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Section Title shortcode responsive styles - begin
+   ========================================================================== */
+
+@include ipad-landscape {
+	.edgtf-accordion-holder {
+		.edgtf-accordion-title {
+			.edgtf-tab-title {
+				padding-right: 40px;
+			}
+			.edgtf-accordion-mark{
+				margin-top: 6px;
+			}
+		}
+		
+	}
+}
+/* ==========================================================================
+   Section Title shortcode responsive styles - end
+   ========================================================================== */
+
+

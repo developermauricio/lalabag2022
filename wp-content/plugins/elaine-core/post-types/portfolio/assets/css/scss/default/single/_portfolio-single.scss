@@ -1,0 +1,161 @@
+/* ==========================================================================
+   Portfolio Single page style - begin
+   ========================================================================== */
+
+.edgtf-portfolio-single-holder {
+	@include edgtfRelativeHolderLayout();
+	margin: 0 0 50px;
+	
+    .edgtf-ps-image-holder {
+	    @include edgtfRelativeHolderLayout();
+	    margin-bottom: -32px;
+	
+	.edgtf-owl-slider{
+		.owl-nav{
+			.edgtf-prev-icon{
+				left: 0px;
+			}
+			.edgtf-next-icon{
+				right: 0px;
+			}
+		}
+	}
+	    
+	    .edgtf-ps-image {
+		    
+		    &:not(.edgtf-item-space) {
+			    @include edgtfRelativeHolderLayout();
+			    box-sizing: border-box;
+		    }
+		    
+		    a, img {
+			    position: relative;
+			    display: block;
+		    }
+	    }
+    }
+	p{
+		margin-top: -3px!important;
+	}
+	.edgtf-ps-info-holder {
+		@include edgtfRelativeHolderLayout();
+		
+		.edgtf-portfolio-info-title{
+			margin-bottom: 7px;
+			font-size: 15px;
+			font-weight: 600;
+			letter-spacing: 0.2em;
+			color:$default-heading-color;
+			text-transform: uppercase;
+		}
+		
+		.edgtf-ps-info-item {
+			@include edgtfRelativeHolderLayout();
+			p{
+				margin: 0!important;
+			}
+			&.edgtf-ps-categories{
+				a{
+					font-size: 15px;
+					font-weight: 400;
+					color: $default-text-color;
+					display: inline-block;
+					
+					&:hover{
+						color: $first-main-color;
+					}
+				}
+			}
+			
+			&.edgtf-ps-tags{
+				margin-bottom: 40px;
+			}
+			
+			&.edgtf-ps-social-share{
+				margin-top: 46px;
+				.edgtf-social-title{
+					display:block;
+					font-size: 15px;
+					font-weight: 600;
+					letter-spacing: 0.2em;
+					text-transform: uppercase;
+					color: #080808;
+				}
+				ul{
+					li{
+						margin-top: 6px;
+						a{
+							color: $first-main-color;
+							@include edgtfTransition(color .25s ease-out);
+
+                            &:hover {
+                                color: $first-main-color-black;
+                            }
+						}
+					}
+				}
+			}
+			
+			.edgtf-ps-content-title{
+				font-weight: 600;
+				letter-spacing: 0.2em;
+				line-height: 40px;
+				margin: -8px 0 18px;
+			}
+			
+			p, a {
+				margin: 0;
+				display: inline-block;
+			}
+			
+			a{
+				
+				&:after{
+					content: ',';
+					display: inline;
+				}
+				
+				&:last-child{
+					&:after{
+						display: none;
+					}
+				}
+			}
+		}
+		
+		.edgtf-ps-info-title {
+			margin: 0;
+			font-size: 15px;
+			font-weight: 400;
+			color: $default-text-color;
+			display: inline-block;
+		}
+	}
+}
+
+/* ==========================================================================
+   Portfolio Single page style - end
+   ========================================================================== */
+
+/* ==========================================================================
+   Portfolio Single page specific style for types - begin
+   ========================================================================== */
+
+.edgtf-portfolio-single-holder {
+	
+	.edgtf-ps-image-holder {
+		
+		&.edgtf-grid-masonry-list {
+			
+			.edgtf-ps-image {
+				
+				a {
+					height: 100%;
+				}
+			}
+		}
+	}
+}
+/* ==========================================================================
+   Portfolio Single page specific style for types - end
+   ========================================================================== */

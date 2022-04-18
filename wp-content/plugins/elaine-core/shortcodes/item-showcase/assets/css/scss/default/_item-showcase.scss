@@ -1,0 +1,163 @@
+/* ==========================================================================
+   Item Showcase shortcode style - begin
+   ========================================================================== */
+
+.edgtf-item-showcase-holder {
+	@include edgtfRelativeHolderLayout();
+	text-align: center;
+	
+	.edgtf-is-image {
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		float: left;
+		width: 34%;
+		opacity: 1;
+		@include edgtfTransform(translateY(70px));
+		
+		&.edgtf-appeared {
+			-webkit-transition: opacity .55s cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform .55s cubic-bezier(0.23, 1, 0.32, 1);
+			-moz-transition: opacity .55s cubic-bezier(0.23, 1, 0.32, 1), -moz-transform .55s cubic-bezier(0.23, 1, 0.32, 1);
+			transition: opacity .55s cubic-bezier(0.23, 1, 0.32, 1), transform .55s cubic-bezier(0.23, 1, 0.32, 1);
+			opacity: 1;
+			@include edgtfTransform(translateY(0));
+		}
+	}
+	
+	.edgtf-is-item-holder {
+		display: inline-block;
+		vertical-align: middle;
+		width: 33%;
+		
+		&.edgtf-is-left-holder {
+			float: left;
+		}
+		
+		&.edgtf-is-right-holder {
+			float: right;
+		}
+		
+		.edgtf-is-item:first-child {
+			margin-top: 0;
+		}
+	}
+	
+	.edgtf-is-item {
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		margin: 89px 0 0;
+		opacity: 0;
+		
+		&.edgtf-is-left {
+			text-align: right;
+			@include edgtfTransform(translateX(-70px));
+			
+			.edgtf-is-content {
+				padding: 0 50px 0 0;
+			}
+			.edgtf-item-custom-icon-outer,
+			.edgtf-item-icon{
+				position: absolute;
+				top: 0;
+				right: 0;
+			}
+		}
+		
+		&.edgtf-is-right {
+			text-align: left;
+			margin-left: 10px;
+			@include edgtfTransform(translateX(70px));
+			
+			.edgtf-is-content {
+				padding: 0 0 0 50px;
+			}
+			.edgtf-item-custom-icon-outer,
+			.edgtf-item-icon{
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
+		}
+		
+		&.edgtf-appeared {
+			-webkit-transition: opacity .55s cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform .55s cubic-bezier(0.23, 1, 0.32, 1);
+			-moz-transition: opacity .55s cubic-bezier(0.23, 1, 0.32, 1), -moz-transform .55s cubic-bezier(0.23, 1, 0.32, 1);
+			transition: opacity .55s cubic-bezier(0.23, 1, 0.32, 1), transform .55s cubic-bezier(0.23, 1, 0.32, 1);
+			opacity: 1;
+			@include edgtfTransform(translateX(0));
+			display: block;
+		}
+		
+		.edgtf-is-content {
+			@include edgtfRelativeHolderLayout();
+			box-sizing: border-box;
+		}
+		
+		.edgtf-is-title {
+			margin: 0;
+		}
+		
+		.edgtf-is-text {
+			margin: 15px 3px 0 0;
+		}
+		
+		.edgtf-item-icon {
+			font-size: 30px;
+			color: $first-main-color;
+			@include edgtfTransition(color .2s ease-out);
+		}
+		.edgtf-item-custom-icon-outer {
+			.edgtf-item-custom-icon-inner {
+				position: relative;
+				
+				.edgtf-item-custom-icon {
+					.edgtf-isi-hover-icon {
+						position: absolute;
+						top: 0;
+						left: 0;
+						width: 100%;
+						height: 100%;
+					}
+					
+					img {
+						vertical-align: middle;
+					}
+				}
+			}
+		}
+		
+		&.edgtf-isi-has-hover-icon {
+			.edgtf-item-custom-icon-outer {
+				.edgtf-item-custom-icon-inner {
+					.edgtf-item-custom-icon {
+						img {
+							opacity: 1;
+						}
+						
+						.edgtf-isi-hover-icon {
+							img {
+								opacity: 0;
+							}
+						}
+						&:hover {
+							img {
+								opacity: 0;
+							}
+							
+							.edgtf-isi-hover-icon {
+								img {
+									opacity: 1;
+								}
+							}
+						}
+					}
+				}
+				
+			}
+		}
+	}
+}
+/* ==========================================================================
+   Item Showcase shortcode style - end
+   ========================================================================== */

@@ -1,0 +1,93 @@
+﻿Fecha,"Pedido #",Estado,Cliente,Producto(s),"Artículos vendidos",Cupón(es),"Ingresos netos"
+"2020-07-09 20:42:35",6319,epayco-completed,new,"1× LALABAG DUO",1,,168067
+"2020-07-09 15:57:29",6311,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-09 15:43:46",6310,epayco-completed,new,"1× LALABAG CO JULIO 2020, 1× LALABAG",2,amolalabagco,114706
+"2020-07-09 11:16:55",6306,epayco-completed,new,"1× LALABAG DUO",1,,168067
+"2020-07-08 22:56:31",6286,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-08 19:44:44",6284,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-08 14:47:01",6275,epayco-completed,new,"1× LALABAG PRO",1,,126050
+"2020-07-08 12:39:17",6255,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-08 10:33:10",6239,epayco-completed,new,"1× LALABAG",1,daniduke,50420
+"2020-07-08 08:55:34",6229,epayco-completed,new,"1× LALABAG DUO, 1× AGUA DE ARROZ",2,,175630
+"2020-07-07 21:53:56",6223,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,,71429
+"2020-07-07 19:09:41",6198,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 18:56:17",6197,epayco-completed,new,"1× LALABAG PRO",1,,126050
+"2020-07-07 17:48:48",6194,epayco-completed,new,"1× LALABAG PRO",1,,126050
+"2020-07-07 17:02:01",6192,epayco-completed,new,"1× LALABAG DUO, 1× LALABAG CO JULIO 2020",2,,239496
+"2020-07-07 15:33:17",6190,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 15:06:38",6187,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 13:32:39",6184,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 13:12:29",6182,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-07 12:16:37",6178,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-07 11:59:02",6177,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 10:55:43",6172,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 10:27:02",6171,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,,71429
+"2020-07-07 10:17:44",6170,pago-manul,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,65426
+"2020-07-07 09:39:44",6168,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,,71429
+"2020-07-07 08:42:01",6166,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 08:32:11",6165,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-07 08:26:00",6164,epayco-completed,new,"1× LALABAG PRO, 1× LALABAG CO JULIO 2020",2,,197479
+"2020-07-07 08:13:19",6162,epayco-completed,new,"1× LALABAG CO JULIO 2020, 1× LALABAG",2,,121849
+"2020-07-06 22:53:32",6148,epayco-completed,new,"1× LALABAG PRO",1,,126050
+"2020-07-06 21:30:43",6138,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-06 21:27:39",6136,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-06 21:20:40",6135,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-06 20:44:11",6133,epayco-completed,new,"1× LALABAG DUO",1,,168067
+"2020-07-06 19:15:56",6131,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-06 18:35:15",6130,epayco-completed,returning,"1× LALABAG",1,,50420
+"2020-07-05 18:45:48",6120,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-05 15:45:11",6119,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-05 14:18:49",6118,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-05 00:52:01",6116,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-04 15:47:59",6107,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,,71429
+"2020-07-04 13:22:01",6106,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,lalalovers,64286
+"2020-07-04 09:50:28",6105,epayco-completed,new,"1× LALABAG CO JULIO 2020, 1× LALABAG DUO",2,amolalabagco,232353
+"2020-07-04 00:29:05",6104,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-03 22:11:58",6103,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-03 22:02:06",6102,epayco-completed,new,"1× LALABAG CO JULIO 2020, 1× LALABAG",2,amolalabagco,114706
+"2020-07-03 21:55:18",6101,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-03 19:40:28",6099,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-03 19:34:16",6097,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-03 16:18:00",6080,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-03 16:16:22",6079,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-03 15:22:53",6067,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-03 11:03:19",6055,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-03 00:22:42",6053,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 22:17:45",6052,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-02 20:16:35",6050,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 16:11:31",6045,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 15:25:57",6044,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-02 15:01:31",6041,epayco-completed,new,"1× LALABAG DUO",1,,168067
+"2020-07-02 14:54:16",6037,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 14:30:54",6033,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 14:17:15",6028,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 10:02:14",6021,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 09:40:43",6020,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 09:04:49",6014,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-02 08:53:20",6010,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 08:45:30",6009,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 08:39:28",6006,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 07:13:14",6002,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 06:49:04",6001,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 06:33:30",5999,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 01:44:50",5995,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-02 00:44:05",5994,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 23:37:24",5993,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:45:27",5989,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:36:10",5988,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:23:33",5987,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:21:17",5986,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:10:04",5984,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:06:47",5983,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:03:10",5982,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 22:02:03",5981,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:57:22",5980,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:51:08",5976,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:50:10",5975,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:50:08",5974,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:49:02",5973,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:45:16",5972,epayco-completed,new,"1× LALABAG",1,,50420
+"2020-07-01 21:43:04",5971,epayco-completed,new,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 21:42:43",5970,epayco-completed,returning,"1× LALABAG CO JULIO 2020",1,amolalabagco,64286
+"2020-07-01 15:19:08",5957,epayco-completed,new,"1× LALABAG PRO",1,,126050
+"2020-07-01 09:52:29",5952,epayco-completed,new,"1× LALABAG",1,,50420

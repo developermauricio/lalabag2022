@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Pricing Item shortcode responsive style - begin
+   ========================================================================== */
+
+@include laptop-landscape-mac {
+
+}
+
+@include laptop-landscape {
+
+}
+
+@include ipad-landscape {
+
+}
+
+
+@include ipad-portrait{
+ .edgtf-price-item {
+  .edgtf-pi-inner {
+   .edgtf-pi-content-holder {
+    width: auto;
+   }
+  }
+ }
+}
+
+@include phone-portrait {
+
+ 
+
+ }
+
+/* ==========================================================================
+   Pricing Item shortcode responsive style - end
+   ========================================================================== */

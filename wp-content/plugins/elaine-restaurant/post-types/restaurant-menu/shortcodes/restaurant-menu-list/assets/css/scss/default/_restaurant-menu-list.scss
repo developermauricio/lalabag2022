@@ -1,0 +1,108 @@
+/* ==========================================================================
+# Restaurant Menu List style - begin
+========================================================================== */
+
+.edgtf-restaurant-menu-list {
+	ul {
+		list-style-type: none;
+
+		li {
+			margin-bottom: 52px;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	.edgtf-rml-title-holder {
+		display: table-cell;
+		width: 1%;
+		white-space: nowrap;
+		
+		.edgtf-rml-title{
+			margin: 0;
+		}
+	}
+
+	.edgtf-rml-line {
+		height: 3px;
+		border-bottom: 2px dotted #b1b1b1;
+		display: table-cell;
+		width: 98%;
+		z-index: 1;
+		position: relative;
+		bottom: 4px;
+	}
+
+	.edgtf-rml-price-holder {
+		display: table-cell;
+		width: 1%;
+		padding-left: 7px;
+		white-space: nowrap;
+		
+		.edgtf-rml-price{
+			margin: 0;
+			color: #f16331;
+		}
+	}
+
+	.edgtf-rml-bottom-holder {
+		position: relative;
+		top: 9px;
+	}
+	
+	.edgtf-rml-description-holder {
+		float: left;
+		text-align: left;
+		width: 100%;
+		line-height: 1.2em;
+		font-weight: 300;
+		font-size: 15px;
+		color: $default-text-color
+	}
+
+	.edgtf-rml-label-holder {
+		display: none;
+	}
+
+	&.edgtf-rml-with-featured-image {
+		
+		.edgtf-rml-item-image {
+			float: left;
+			width: 83px;
+			position: relative;
+
+			a {
+				display: block;
+			}
+
+			img {
+				vertical-align: middle;
+			}
+		}
+	}
+
+	&.edgtf-rml-light {
+		.edgtf-rml-title,
+		.edgtf-rml-price,
+		.edgtf-rml-label {
+			color: #fff;
+		}
+
+		.edgtf-rml-line {
+			border-bottom: 2px dotted rgba(255,255,255,0.25);
+			font-weight: 700;
+			letter-spacing: 0.2em;
+			line-height: 25px;
+		}
+		
+		.edgtf-rml-description-holder{
+			color: #fff;
+		}
+	}
+}
+
+/* ==========================================================================
+# Restaurant Menu List style - end
+========================================================================== */

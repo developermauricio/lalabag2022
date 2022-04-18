@@ -1,0 +1,52 @@
+/* ==========================================================================
+   Icon widget style - begin
+   ========================================================================== */
+.edgtf-icon-widget-holder {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+}
+
+.edgtf-icon-widget-holder > * {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+}
+
+.edgtf-icon-widget-holder .edgtf-icon-text {
+  padding: 0 0 0 10px;
+}
+
+.edgtf-icon-widget-holder .edgtf-icon-text.edgtf-no-icon {
+  padding: 0;
+}
+
+.edgtf-dark-header .edgtf-page-header > div:not(.edgtf-sticky-header):not(.fixed) .edgtf-icon-widget-holder {
+  color: #030303 !important;
+}
+
+.edgtf-dark-header .edgtf-page-header > div:not(.edgtf-sticky-header):not(.fixed) .edgtf-icon-widget-holder:hover {
+  color: #333333 !important;
+}
+
+.edgtf-light-header .edgtf-page-header > div:not(.edgtf-sticky-header):not(.fixed) .edgtf-icon-widget-holder {
+  color: #fff !important;
+}
+
+.edgtf-light-header .edgtf-page-header > div:not(.edgtf-sticky-header):not(.fixed) .edgtf-icon-widget-holder:hover {
+  color: #333333 !important;
+}
+
+/* ==========================================================================
+   Icon widget style - end
+   ========================================================================== */
+
+/*# sourceMappingURL=icon-widget-map.css.map */

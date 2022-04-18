@@ -1,0 +1,10 @@
+2022-03-05T18:36:53+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process()
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array()
+#6 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packa en /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php en la línea 175
+

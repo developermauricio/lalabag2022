@@ -1,0 +1,118 @@
+/* ==========================================================================
+   Item Showcase shortcode responsive style - begin
+   ========================================================================== */
+
+@include laptop-landscape {
+	
+	.edgtf-item-showcase-holder {
+		
+		.edgtf-is-image {
+			position: absolute;
+			left:0;
+			width: 50%;
+			height: 100%;
+			margin-top: 0 !important; //override inline margin if set by user
+			
+			img {
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				@include edgtfTransform(translate(-50%,-50%));
+			}
+		}
+		
+		.edgtf-is-item-holder {
+			
+			&.edgtf-is-left-holder,
+			&.edgtf-is-right-holder {
+				float: right;
+				width: 50%;
+				padding: 0 0 0 50%;
+			}
+			
+			&.edgtf-is-right-holder {
+				margin: 36px 0 0;
+			}
+		}
+		
+		.edgtf-is-item {
+			margin: 36px 0 0;
+			
+			&.edgtf-is-left {
+				text-align: left;
+				
+				.edgtf-is-content {
+					padding: 0 0 0 85px;
+				}
+				.edgtf-item-icon{
+					left: 30px;
+				}
+				
+				.edgtf-item-custom-icon-outer,
+				.edgtf-item-icon{
+					right: auto;
+					left: -10px;
+				}
+			}
+			
+			&:not(.edgtf-appeared) {
+				@include edgtfTransform(translateX(-40px));
+			}
+		}
+	}
+}
+
+@include ipad-landscape{
+	.edgtf-item-showcase-holder {
+		.edgtf-is-item {
+			
+			&.edgtf-is-left {
+				margin: 36px 0 0;
+				
+				.edgtf-item-icon{
+					left: 0;
+				}
+				
+				.edgtf-is-content {
+					padding: 0 0 0 50px;
+				}
+			}
+			
+			&.edgtf-is-right {
+				margin-left: 0px;
+			}
+		}
+	}
+}
+
+@include ipad-portrait {
+	
+	.edgtf-item-showcase-holder {
+		
+		.edgtf-is-image {
+			display: none;
+		}
+		
+		.edgtf-is-item-holder {
+			
+			&.edgtf-is-left-holder,
+			&.edgtf-is-right-holder {
+				float: none;
+				width: 100%;
+				padding: 0;
+			}
+		}
+		
+		.edgtf-is-item {
+			opacity: 1;
+			-webkit-transform: translateX(0) translateY(0) !important;
+			-moz-transform: translateX(0) translateY(0) !important;
+			transform: translateX(0) translateY(0) !important;
+			
+		}
+	}
+	
+}
+/* ==========================================================================
+   Item Showcase shortcode responsive style - end
+   ========================================================================== */

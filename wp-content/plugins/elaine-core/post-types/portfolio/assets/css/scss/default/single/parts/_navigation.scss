@@ -1,0 +1,150 @@
+/* ==========================================================================
+   Portfolio Single navigation style - begin
+   ========================================================================== */
+
+.edgtf-ps-navigation {
+	position: relative;
+	display: table;
+	width: 100%;
+	vertical-align: middle;
+	padding: 3px 0 0;
+	margin: 30px 0 0;
+	clear: both;
+    box-sizing: border-box;
+	border-top: 1px solid $default-border-color;
+
+    .edgtf-ps-full-width-custom-layout & {
+        padding: 0 40px;
+    }
+	
+	.edgtf-ps-back-btn {
+		position: absolute;
+		top: 56%;
+		left: 50%;
+		display: inline-block;
+		vertical-align: middle;
+		@include edgtfTransform(translateX(-50%) translateY(-50%));
+		
+		a {
+			position: relative;
+			display: inline-block;
+			margin: 0;
+			padding: 0;
+			vertical-align: middle;
+			cursor: pointer;
+			font-size: 18px;
+			line-height: 1;
+			
+			span {
+				display: block;
+				line-height: inherit;
+				color: $first-main-color;
+			}
+		}
+	}
+	
+	.edgtf-ps-prev,
+	.edgtf-ps-next {
+		position: relative;
+		display: table-cell;
+		vertical-align: middle;
+		width: 49%;
+		padding: 0;
+		box-sizing: border-box;
+		
+		span{
+			&:not(.edgtf-icon-element){
+			font-size: 13px;
+			font-weight: 600;
+			letter-spacing: 0.2em;
+			color: #080808;
+			text-transform: uppercase;
+			position: relative;
+			top: -2px;
+			}
+		}
+		
+		a {
+			position: relative;
+			display: inline-block;
+			vertical-align: baseline;
+			font-size: 46px;
+			line-height: 55px;
+			
+			
+			.edgtf-prev-icon, .edgtf-next-icon{
+				font-size: 18px;
+				color: $first-main-color;
+			}
+			
+			.edgtf-ps-nav-mark {
+				position: relative;
+				display: inline-block;
+				vertical-align: top;
+				
+				&:before {
+					display: block;
+					line-height: inherit;
+				}
+			}
+		}
+		
+		.edgtf-icon-font-elegant{
+			font-size: 18px;
+		}
+	}
+	
+	.edgtf-ps-prev {
+		
+		a {
+			
+			.edgtf-prev-icon {
+				padding-right: 24px;
+				
+				i{
+					position: relative;
+					top: 1px;
+				}
+			}
+			
+			.edgtf-ps-prev-item{
+				margin-left: 10px;
+			}
+			
+			&:hover{
+				span {
+					color: $first-main-color;
+				}
+			}
+		}
+	}
+	
+	.edgtf-ps-next {
+		text-align: right;
+		
+		a {
+			
+			.edgtf-next-icon {
+				padding-left: 24px;
+				
+				i{
+					position: relative;
+					top: 1px;
+				}
+			}
+			
+			.edgtf-ps-next-item{
+				margin-right: 5px;
+			}
+			
+			&:hover{
+				span {
+					color: $first-main-color;
+				}
+			}
+		}
+	}
+}
+/* ==========================================================================
+   Portfolio Single navigation style - end
+   ========================================================================== */

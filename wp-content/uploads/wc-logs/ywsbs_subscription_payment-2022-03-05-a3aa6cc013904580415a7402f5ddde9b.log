@@ -1,0 +1,468 @@
+03-04-2022 @ 19:00:05 - ======================
+03-04-2022 @ 19:00:05 - Start renew order cron at 2022-03-04 19:00:05
+03-04-2022 @ 19:00:05 - Search subscriptions with Payment due date < 2022-03-05 19:00:05
+03-04-2022 @ 19:00:05 - Found 0 subscriptions
+03-04-2022 @ 19:00:05 - ======================
+03-04-2022 @ 19:00:05 - ===============
+03-04-2022 @ 19:00:05 - Start Payment Renews cron at 2022-03-04 19:00:05
+03-04-2022 @ 19:00:05 - Search renew order with date < 2022-03-03 19:00:05
+03-04-2022 @ 19:00:05 - Found 3 new renew orders
+03-04-2022 @ 19:00:05 - Found 0 failed renew orders
+03-04-2022 @ 19:00:05 - Pay order #8660
+03-04-2022 @ 19:00:05 - The order 8660 should be pay with ( epayco )
+03-04-2022 @ 19:00:05 - Pay order #8659
+03-04-2022 @ 19:00:05 - The order 8659 should be pay with ( epayco )
+03-04-2022 @ 19:00:05 - Pay order #8655
+03-04-2022 @ 19:00:05 - The order 8655 should be pay with ( epayco )
+03-04-2022 @ 19:00:05 - =======================
+03-04-2022 @ 20:00:05 - ======================
+03-04-2022 @ 20:00:05 - Start renew order cron at 2022-03-04 20:00:05
+03-04-2022 @ 20:00:05 - Search subscriptions with Payment due date < 2022-03-05 20:00:05
+03-04-2022 @ 20:00:05 - Found 0 subscriptions
+03-04-2022 @ 20:00:05 - ======================
+03-04-2022 @ 20:00:05 - ===============
+03-04-2022 @ 20:00:05 - Start Payment Renews cron at 2022-03-04 20:00:05
+03-04-2022 @ 20:00:05 - Search renew order with date < 2022-03-03 20:00:05
+03-04-2022 @ 20:00:05 - Found 3 new renew orders
+03-04-2022 @ 20:00:05 - Found 0 failed renew orders
+03-04-2022 @ 20:00:05 - Pay order #8660
+03-04-2022 @ 20:00:05 - The order 8660 should be pay with ( epayco )
+03-04-2022 @ 20:00:05 - Pay order #8659
+03-04-2022 @ 20:00:05 - The order 8659 should be pay with ( epayco )
+03-04-2022 @ 20:00:05 - Pay order #8655
+03-04-2022 @ 20:00:05 - The order 8655 should be pay with ( epayco )
+03-04-2022 @ 20:00:05 - =======================
+03-04-2022 @ 21:00:33 - ======================
+03-04-2022 @ 21:00:33 - Start renew order cron at 2022-03-04 21:00:33
+03-04-2022 @ 21:00:33 - Search subscriptions with Payment due date < 2022-03-05 21:00:33
+03-04-2022 @ 21:00:33 - Found 0 subscriptions
+03-04-2022 @ 21:00:33 - ======================
+03-04-2022 @ 21:00:33 - ===============
+03-04-2022 @ 21:00:33 - Start Payment Renews cron at 2022-03-04 21:00:33
+03-04-2022 @ 21:00:33 - Search renew order with date < 2022-03-03 21:00:33
+03-04-2022 @ 21:00:33 - Found 3 new renew orders
+03-04-2022 @ 21:00:33 - Found 0 failed renew orders
+03-04-2022 @ 21:00:33 - Pay order #8660
+03-04-2022 @ 21:00:33 - The order 8660 should be pay with ( epayco )
+03-04-2022 @ 21:00:33 - Pay order #8659
+03-04-2022 @ 21:00:33 - The order 8659 should be pay with ( epayco )
+03-04-2022 @ 21:00:33 - Pay order #8655
+03-04-2022 @ 21:00:33 - The order 8655 should be pay with ( epayco )
+03-04-2022 @ 21:00:33 - =======================
+03-04-2022 @ 22:00:05 - ======================
+03-04-2022 @ 22:00:05 - Start renew order cron at 2022-03-04 22:00:05
+03-04-2022 @ 22:00:05 - Search subscriptions with Payment due date < 2022-03-05 22:00:05
+03-04-2022 @ 22:00:05 - Found 0 subscriptions
+03-04-2022 @ 22:00:05 - ======================
+03-04-2022 @ 22:00:05 - ===============
+03-04-2022 @ 22:00:05 - Start Payment Renews cron at 2022-03-04 22:00:05
+03-04-2022 @ 22:00:05 - Search renew order with date < 2022-03-03 22:00:05
+03-04-2022 @ 22:00:05 - Found 4 new renew orders
+03-04-2022 @ 22:00:05 - Found 0 failed renew orders
+03-04-2022 @ 22:00:05 - Pay order #8662
+03-04-2022 @ 22:00:05 - The order 8662 should be pay with ( epayco )
+03-04-2022 @ 22:00:05 - Pay order #8660
+03-04-2022 @ 22:00:05 - The order 8660 should be pay with ( epayco )
+03-04-2022 @ 22:00:05 - Pay order #8659
+03-04-2022 @ 22:00:05 - The order 8659 should be pay with ( epayco )
+03-04-2022 @ 22:00:05 - Pay order #8655
+03-04-2022 @ 22:00:05 - The order 8655 should be pay with ( epayco )
+03-04-2022 @ 22:00:05 - =======================
+03-04-2022 @ 23:00:04 - ======================
+03-04-2022 @ 23:00:04 - Start renew order cron at 2022-03-04 23:00:04
+03-04-2022 @ 23:00:04 - Search subscriptions with Payment due date < 2022-03-05 23:00:04
+03-04-2022 @ 23:00:04 - Found 0 subscriptions
+03-04-2022 @ 23:00:04 - ======================
+03-04-2022 @ 23:00:04 - ===============
+03-04-2022 @ 23:00:04 - Start Payment Renews cron at 2022-03-04 23:00:04
+03-04-2022 @ 23:00:04 - Search renew order with date < 2022-03-03 23:00:04
+03-04-2022 @ 23:00:04 - Found 4 new renew orders
+03-04-2022 @ 23:00:04 - Found 0 failed renew orders
+03-04-2022 @ 23:00:04 - Pay order #8662
+03-04-2022 @ 23:00:04 - The order 8662 should be pay with ( epayco )
+03-04-2022 @ 23:00:04 - Pay order #8660
+03-04-2022 @ 23:00:04 - The order 8660 should be pay with ( epayco )
+03-04-2022 @ 23:00:04 - Pay order #8659
+03-04-2022 @ 23:00:04 - The order 8659 should be pay with ( epayco )
+03-04-2022 @ 23:00:04 - Pay order #8655
+03-04-2022 @ 23:00:04 - The order 8655 should be pay with ( epayco )
+03-04-2022 @ 23:00:04 - =======================
+03-05-2022 @ 00:00:04 - --------Check for billing
+03-05-2022 @ 00:00:04 - -------- billing for 8650 and user 0 (0 ) 
+03-05-2022 @ 00:00:04 - --------Check for billing
+03-05-2022 @ 00:00:04 - -------- billing for 8650 and user 0 (0 ) 
+03-05-2022 @ 00:00:08 - ===============
+03-05-2022 @ 00:00:08 - Start Payment Renews cron at 2022-03-05 00:00:08
+03-05-2022 @ 00:00:08 - Search renew order with date < 2022-03-04 00:00:08
+03-05-2022 @ 00:00:08 - Found 4 new renew orders
+03-05-2022 @ 00:00:08 - Found 0 failed renew orders
+03-05-2022 @ 00:00:08 - Pay order #8662
+03-05-2022 @ 00:00:08 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - Pay order #8660
+03-05-2022 @ 00:00:08 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - Pay order #8659
+03-05-2022 @ 00:00:08 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - Pay order #8655
+03-05-2022 @ 00:00:08 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - =======================
+03-05-2022 @ 00:00:08 - ======================
+03-05-2022 @ 00:00:08 - Start renew order cron at 2022-03-05 00:00:08
+03-05-2022 @ 00:00:08 - Search subscriptions with Payment due date < 2022-03-06 00:00:08
+03-05-2022 @ 00:00:08 - Found 0 subscriptions
+03-05-2022 @ 00:00:08 - ======================
+03-05-2022 @ 00:00:08 - ===============
+03-05-2022 @ 00:00:08 - Start Payment Renews cron at 2022-03-05 00:00:08
+03-05-2022 @ 00:00:08 - Search renew order with date < 2022-03-04 00:00:08
+03-05-2022 @ 00:00:08 - Found 4 new renew orders
+03-05-2022 @ 00:00:08 - Found 0 failed renew orders
+03-05-2022 @ 00:00:08 - Pay order #8662
+03-05-2022 @ 00:00:08 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - Pay order #8660
+03-05-2022 @ 00:00:08 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - Pay order #8659
+03-05-2022 @ 00:00:08 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - Pay order #8655
+03-05-2022 @ 00:00:08 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 00:00:08 - =======================
+03-05-2022 @ 01:00:07 - ======================
+03-05-2022 @ 01:00:07 - Start renew order cron at 2022-03-05 01:00:07
+03-05-2022 @ 01:00:07 - Search subscriptions with Payment due date < 2022-03-06 01:00:07
+03-05-2022 @ 01:00:07 - Found 0 subscriptions
+03-05-2022 @ 01:00:07 - ======================
+03-05-2022 @ 01:00:07 - ===============
+03-05-2022 @ 01:00:07 - Start Payment Renews cron at 2022-03-05 01:00:07
+03-05-2022 @ 01:00:07 - Search renew order with date < 2022-03-04 01:00:07
+03-05-2022 @ 01:00:07 - Found 4 new renew orders
+03-05-2022 @ 01:00:07 - Found 0 failed renew orders
+03-05-2022 @ 01:00:07 - Pay order #8662
+03-05-2022 @ 01:00:07 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 01:00:07 - Pay order #8660
+03-05-2022 @ 01:00:07 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 01:00:07 - Pay order #8659
+03-05-2022 @ 01:00:07 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 01:00:07 - Pay order #8655
+03-05-2022 @ 01:00:07 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 01:00:07 - =======================
+03-05-2022 @ 02:00:01 - ======================
+03-05-2022 @ 02:00:01 - Start renew order cron at 2022-03-05 02:00:01
+03-05-2022 @ 02:00:01 - Search subscriptions with Payment due date < 2022-03-06 02:00:01
+03-05-2022 @ 02:00:01 - Found 0 subscriptions
+03-05-2022 @ 02:00:01 - ======================
+03-05-2022 @ 02:00:01 - ===============
+03-05-2022 @ 02:00:01 - Start Payment Renews cron at 2022-03-05 02:00:01
+03-05-2022 @ 02:00:01 - Search renew order with date < 2022-03-04 02:00:01
+03-05-2022 @ 02:00:01 - Found 4 new renew orders
+03-05-2022 @ 02:00:01 - Found 0 failed renew orders
+03-05-2022 @ 02:00:01 - Pay order #8662
+03-05-2022 @ 02:00:01 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 02:00:01 - Pay order #8660
+03-05-2022 @ 02:00:01 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 02:00:01 - Pay order #8659
+03-05-2022 @ 02:00:01 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 02:00:01 - Pay order #8655
+03-05-2022 @ 02:00:01 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 02:00:01 - =======================
+03-05-2022 @ 03:00:03 - ======================
+03-05-2022 @ 03:00:03 - Start renew order cron at 2022-03-05 03:00:03
+03-05-2022 @ 03:00:03 - Search subscriptions with Payment due date < 2022-03-06 03:00:03
+03-05-2022 @ 03:00:03 - Found 0 subscriptions
+03-05-2022 @ 03:00:03 - ======================
+03-05-2022 @ 03:00:03 - ===============
+03-05-2022 @ 03:00:03 - Start Payment Renews cron at 2022-03-05 03:00:03
+03-05-2022 @ 03:00:03 - Search renew order with date < 2022-03-04 03:00:03
+03-05-2022 @ 03:00:03 - Found 4 new renew orders
+03-05-2022 @ 03:00:03 - Found 0 failed renew orders
+03-05-2022 @ 03:00:03 - Pay order #8662
+03-05-2022 @ 03:00:03 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 03:00:03 - Pay order #8660
+03-05-2022 @ 03:00:03 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 03:00:03 - Pay order #8659
+03-05-2022 @ 03:00:03 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 03:00:03 - Pay order #8655
+03-05-2022 @ 03:00:03 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 03:00:03 - =======================
+03-05-2022 @ 04:00:05 - ======================
+03-05-2022 @ 04:00:05 - Start renew order cron at 2022-03-05 04:00:05
+03-05-2022 @ 04:00:05 - Search subscriptions with Payment due date < 2022-03-06 04:00:05
+03-05-2022 @ 04:00:05 - Found 0 subscriptions
+03-05-2022 @ 04:00:05 - ======================
+03-05-2022 @ 04:00:05 - ===============
+03-05-2022 @ 04:00:05 - Start Payment Renews cron at 2022-03-05 04:00:05
+03-05-2022 @ 04:00:05 - Search renew order with date < 2022-03-04 04:00:05
+03-05-2022 @ 04:00:05 - Found 4 new renew orders
+03-05-2022 @ 04:00:05 - Found 0 failed renew orders
+03-05-2022 @ 04:00:05 - Pay order #8662
+03-05-2022 @ 04:00:05 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 04:00:05 - Pay order #8660
+03-05-2022 @ 04:00:05 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 04:00:05 - Pay order #8659
+03-05-2022 @ 04:00:05 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 04:00:05 - Pay order #8655
+03-05-2022 @ 04:00:05 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 04:00:05 - =======================
+03-05-2022 @ 05:04:44 - ======================
+03-05-2022 @ 05:04:44 - Start renew order cron at 2022-03-05 05:04:44
+03-05-2022 @ 05:04:44 - Search subscriptions with Payment due date < 2022-03-06 05:04:44
+03-05-2022 @ 05:04:44 - Found 0 subscriptions
+03-05-2022 @ 05:04:44 - ======================
+03-05-2022 @ 05:04:44 - ===============
+03-05-2022 @ 05:04:44 - Start Payment Renews cron at 2022-03-05 05:04:44
+03-05-2022 @ 05:04:44 - Search renew order with date < 2022-03-04 05:04:44
+03-05-2022 @ 05:04:44 - Found 4 new renew orders
+03-05-2022 @ 05:04:44 - Found 0 failed renew orders
+03-05-2022 @ 05:04:44 - Pay order #8662
+03-05-2022 @ 05:04:44 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 05:04:44 - Pay order #8660
+03-05-2022 @ 05:04:44 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 05:04:44 - Pay order #8659
+03-05-2022 @ 05:04:44 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 05:04:44 - Pay order #8655
+03-05-2022 @ 05:04:44 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 05:04:44 - =======================
+03-05-2022 @ 06:00:30 - ======================
+03-05-2022 @ 06:00:30 - Start renew order cron at 2022-03-05 06:00:30
+03-05-2022 @ 06:00:30 - Search subscriptions with Payment due date < 2022-03-06 06:00:30
+03-05-2022 @ 06:00:30 - Found 0 subscriptions
+03-05-2022 @ 06:00:30 - ======================
+03-05-2022 @ 06:00:30 - ===============
+03-05-2022 @ 06:00:30 - Start Payment Renews cron at 2022-03-05 06:00:30
+03-05-2022 @ 06:00:30 - Search renew order with date < 2022-03-04 06:00:30
+03-05-2022 @ 06:00:30 - Found 4 new renew orders
+03-05-2022 @ 06:00:30 - Found 0 failed renew orders
+03-05-2022 @ 06:00:30 - Pay order #8662
+03-05-2022 @ 06:00:30 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 06:00:30 - Pay order #8660
+03-05-2022 @ 06:00:30 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 06:00:30 - Pay order #8659
+03-05-2022 @ 06:00:30 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 06:00:30 - Pay order #8655
+03-05-2022 @ 06:00:30 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 06:00:30 - =======================
+03-05-2022 @ 07:02:29 - ======================
+03-05-2022 @ 07:02:29 - Start renew order cron at 2022-03-05 07:02:29
+03-05-2022 @ 07:02:29 - Search subscriptions with Payment due date < 2022-03-06 07:02:29
+03-05-2022 @ 07:02:29 - Found 0 subscriptions
+03-05-2022 @ 07:02:29 - ======================
+03-05-2022 @ 07:02:29 - ===============
+03-05-2022 @ 07:02:29 - Start Payment Renews cron at 2022-03-05 07:02:29
+03-05-2022 @ 07:02:29 - Search renew order with date < 2022-03-04 07:02:29
+03-05-2022 @ 07:02:29 - Found 4 new renew orders
+03-05-2022 @ 07:02:29 - Found 0 failed renew orders
+03-05-2022 @ 07:02:29 - Pay order #8662
+03-05-2022 @ 07:02:29 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 07:02:29 - Pay order #8660
+03-05-2022 @ 07:02:29 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 07:02:29 - Pay order #8659
+03-05-2022 @ 07:02:29 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 07:02:29 - Pay order #8655
+03-05-2022 @ 07:02:29 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 07:02:29 - =======================
+03-05-2022 @ 08:00:07 - ======================
+03-05-2022 @ 08:00:07 - Start renew order cron at 2022-03-05 08:00:07
+03-05-2022 @ 08:00:07 - Search subscriptions with Payment due date < 2022-03-06 08:00:07
+03-05-2022 @ 08:00:07 - Found 0 subscriptions
+03-05-2022 @ 08:00:07 - ======================
+03-05-2022 @ 08:00:07 - ===============
+03-05-2022 @ 08:00:07 - Start Payment Renews cron at 2022-03-05 08:00:07
+03-05-2022 @ 08:00:07 - Search renew order with date < 2022-03-04 08:00:07
+03-05-2022 @ 08:00:07 - Found 4 new renew orders
+03-05-2022 @ 08:00:07 - Found 0 failed renew orders
+03-05-2022 @ 08:00:07 - Pay order #8662
+03-05-2022 @ 08:00:07 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 08:00:07 - Pay order #8660
+03-05-2022 @ 08:00:07 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 08:00:07 - Pay order #8659
+03-05-2022 @ 08:00:07 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 08:00:07 - Pay order #8655
+03-05-2022 @ 08:00:07 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 08:00:07 - =======================
+03-05-2022 @ 09:01:15 - ======================
+03-05-2022 @ 09:01:15 - Start renew order cron at 2022-03-05 09:01:15
+03-05-2022 @ 09:01:15 - Search subscriptions with Payment due date < 2022-03-06 09:01:15
+03-05-2022 @ 09:01:15 - Found 0 subscriptions
+03-05-2022 @ 09:01:15 - ======================
+03-05-2022 @ 09:01:15 - ===============
+03-05-2022 @ 09:01:15 - Start Payment Renews cron at 2022-03-05 09:01:15
+03-05-2022 @ 09:01:15 - Search renew order with date < 2022-03-04 09:01:15
+03-05-2022 @ 09:01:15 - Found 4 new renew orders
+03-05-2022 @ 09:01:15 - Found 0 failed renew orders
+03-05-2022 @ 09:01:15 - Pay order #8662
+03-05-2022 @ 09:01:16 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 09:01:16 - Pay order #8660
+03-05-2022 @ 09:01:16 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 09:01:16 - Pay order #8659
+03-05-2022 @ 09:01:16 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 09:01:16 - Pay order #8655
+03-05-2022 @ 09:01:16 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 09:01:16 - =======================
+03-05-2022 @ 10:00:09 - ======================
+03-05-2022 @ 10:00:09 - Start renew order cron at 2022-03-05 10:00:09
+03-05-2022 @ 10:00:09 - Search subscriptions with Payment due date < 2022-03-06 10:00:09
+03-05-2022 @ 10:00:09 - Found 0 subscriptions
+03-05-2022 @ 10:00:09 - ======================
+03-05-2022 @ 10:00:09 - ===============
+03-05-2022 @ 10:00:09 - Start Payment Renews cron at 2022-03-05 10:00:09
+03-05-2022 @ 10:00:09 - Search renew order with date < 2022-03-04 10:00:09
+03-05-2022 @ 10:00:09 - Found 4 new renew orders
+03-05-2022 @ 10:00:09 - Found 0 failed renew orders
+03-05-2022 @ 10:00:09 - Pay order #8662
+03-05-2022 @ 10:00:09 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 10:00:09 - Pay order #8660
+03-05-2022 @ 10:00:09 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 10:00:09 - Pay order #8659
+03-05-2022 @ 10:00:09 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 10:00:09 - Pay order #8655
+03-05-2022 @ 10:00:09 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 10:00:09 - =======================
+03-05-2022 @ 11:01:03 - ======================
+03-05-2022 @ 11:01:03 - Start renew order cron at 2022-03-05 11:01:03
+03-05-2022 @ 11:01:03 - Search subscriptions with Payment due date < 2022-03-06 11:01:03
+03-05-2022 @ 11:01:03 - Found 0 subscriptions
+03-05-2022 @ 11:01:03 - ======================
+03-05-2022 @ 11:01:03 - ===============
+03-05-2022 @ 11:01:03 - Start Payment Renews cron at 2022-03-05 11:01:03
+03-05-2022 @ 11:01:03 - Search renew order with date < 2022-03-04 11:01:03
+03-05-2022 @ 11:01:03 - Found 4 new renew orders
+03-05-2022 @ 11:01:03 - Found 0 failed renew orders
+03-05-2022 @ 11:01:03 - Pay order #8662
+03-05-2022 @ 11:01:03 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 11:01:03 - Pay order #8660
+03-05-2022 @ 11:01:03 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 11:01:03 - Pay order #8659
+03-05-2022 @ 11:01:03 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 11:01:03 - Pay order #8655
+03-05-2022 @ 11:01:03 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 11:01:03 - =======================
+03-05-2022 @ 12:00:07 - ======================
+03-05-2022 @ 12:00:07 - Start renew order cron at 2022-03-05 12:00:07
+03-05-2022 @ 12:00:07 - Search subscriptions with Payment due date < 2022-03-06 12:00:07
+03-05-2022 @ 12:00:07 - Found 0 subscriptions
+03-05-2022 @ 12:00:07 - ======================
+03-05-2022 @ 12:00:07 - ===============
+03-05-2022 @ 12:00:07 - Start Payment Renews cron at 2022-03-05 12:00:07
+03-05-2022 @ 12:00:07 - Search renew order with date < 2022-03-04 12:00:07
+03-05-2022 @ 12:00:07 - Found 4 new renew orders
+03-05-2022 @ 12:00:07 - Found 0 failed renew orders
+03-05-2022 @ 12:00:07 - Pay order #8662
+03-05-2022 @ 12:00:07 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 12:00:07 - Pay order #8660
+03-05-2022 @ 12:00:07 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 12:00:07 - Pay order #8659
+03-05-2022 @ 12:00:07 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 12:00:07 - Pay order #8655
+03-05-2022 @ 12:00:07 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 12:00:07 - =======================
+03-05-2022 @ 13:04:24 - ======================
+03-05-2022 @ 13:04:24 - Start renew order cron at 2022-03-05 13:04:24
+03-05-2022 @ 13:04:24 - Search subscriptions with Payment due date < 2022-03-06 13:04:24
+03-05-2022 @ 13:04:24 - Found 0 subscriptions
+03-05-2022 @ 13:04:24 - ======================
+03-05-2022 @ 13:04:24 - ===============
+03-05-2022 @ 13:04:24 - Start Payment Renews cron at 2022-03-05 13:04:24
+03-05-2022 @ 13:04:24 - Search renew order with date < 2022-03-04 13:04:24
+03-05-2022 @ 13:04:24 - Found 4 new renew orders
+03-05-2022 @ 13:04:24 - Found 0 failed renew orders
+03-05-2022 @ 13:04:24 - Pay order #8662
+03-05-2022 @ 13:04:24 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 13:04:24 - Pay order #8660
+03-05-2022 @ 13:04:24 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 13:04:24 - Pay order #8659
+03-05-2022 @ 13:04:24 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 13:04:24 - Pay order #8655
+03-05-2022 @ 13:04:24 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 13:04:24 - =======================
+03-05-2022 @ 14:00:42 - ======================
+03-05-2022 @ 14:00:42 - Start renew order cron at 2022-03-05 14:00:42
+03-05-2022 @ 14:00:42 - Search subscriptions with Payment due date < 2022-03-06 14:00:42
+03-05-2022 @ 14:00:42 - Found 0 subscriptions
+03-05-2022 @ 14:00:42 - ======================
+03-05-2022 @ 14:00:42 - ===============
+03-05-2022 @ 14:00:42 - Start Payment Renews cron at 2022-03-05 14:00:42
+03-05-2022 @ 14:00:42 - Search renew order with date < 2022-03-04 14:00:42
+03-05-2022 @ 14:00:42 - Found 4 new renew orders
+03-05-2022 @ 14:00:42 - Found 0 failed renew orders
+03-05-2022 @ 14:00:42 - Pay order #8662
+03-05-2022 @ 14:00:42 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 14:00:42 - Pay order #8660
+03-05-2022 @ 14:00:42 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 14:00:42 - Pay order #8659
+03-05-2022 @ 14:00:42 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 14:00:42 - Pay order #8655
+03-05-2022 @ 14:00:42 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 14:00:42 - =======================
+03-05-2022 @ 15:02:28 - ======================
+03-05-2022 @ 15:02:28 - Start renew order cron at 2022-03-05 15:02:28
+03-05-2022 @ 15:02:28 - Search subscriptions with Payment due date < 2022-03-06 15:02:28
+03-05-2022 @ 15:02:28 - Found 0 subscriptions
+03-05-2022 @ 15:02:28 - ======================
+03-05-2022 @ 15:02:28 - ===============
+03-05-2022 @ 15:02:28 - Start Payment Renews cron at 2022-03-05 15:02:28
+03-05-2022 @ 15:02:28 - Search renew order with date < 2022-03-04 15:02:28
+03-05-2022 @ 15:02:28 - Found 4 new renew orders
+03-05-2022 @ 15:02:28 - Found 0 failed renew orders
+03-05-2022 @ 15:02:28 - Pay order #8662
+03-05-2022 @ 15:02:28 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 15:02:28 - Pay order #8660
+03-05-2022 @ 15:02:28 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 15:02:28 - Pay order #8659
+03-05-2022 @ 15:02:28 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 15:02:28 - Pay order #8655
+03-05-2022 @ 15:02:28 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 15:02:28 - =======================
+03-05-2022 @ 16:01:08 - ======================
+03-05-2022 @ 16:01:08 - Start renew order cron at 2022-03-05 16:01:08
+03-05-2022 @ 16:01:08 - Search subscriptions with Payment due date < 2022-03-06 16:01:08
+03-05-2022 @ 16:01:08 - Found 0 subscriptions
+03-05-2022 @ 16:01:08 - ======================
+03-05-2022 @ 16:01:08 - ===============
+03-05-2022 @ 16:01:08 - Start Payment Renews cron at 2022-03-05 16:01:08
+03-05-2022 @ 16:01:08 - Search renew order with date < 2022-03-04 16:01:08
+03-05-2022 @ 16:01:08 - Found 4 new renew orders
+03-05-2022 @ 16:01:08 - Found 0 failed renew orders
+03-05-2022 @ 16:01:08 - Pay order #8662
+03-05-2022 @ 16:01:08 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 16:01:08 - Pay order #8660
+03-05-2022 @ 16:01:08 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 16:01:08 - Pay order #8659
+03-05-2022 @ 16:01:08 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 16:01:08 - Pay order #8655
+03-05-2022 @ 16:01:08 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 16:01:08 - =======================
+03-05-2022 @ 17:00:07 - ======================
+03-05-2022 @ 17:00:07 - Start renew order cron at 2022-03-05 17:00:07
+03-05-2022 @ 17:00:07 - Search subscriptions with Payment due date < 2022-03-06 17:00:07
+03-05-2022 @ 17:00:08 - Found 0 subscriptions
+03-05-2022 @ 17:00:08 - ======================
+03-05-2022 @ 17:00:08 - ===============
+03-05-2022 @ 17:00:08 - Start Payment Renews cron at 2022-03-05 17:00:08
+03-05-2022 @ 17:00:08 - Search renew order with date < 2022-03-04 17:00:08
+03-05-2022 @ 17:00:08 - Found 4 new renew orders
+03-05-2022 @ 17:00:08 - Found 0 failed renew orders
+03-05-2022 @ 17:00:08 - Pay order #8662
+03-05-2022 @ 17:00:08 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 17:00:08 - Pay order #8660
+03-05-2022 @ 17:00:08 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 17:00:08 - Pay order #8659
+03-05-2022 @ 17:00:08 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 17:00:08 - Pay order #8655
+03-05-2022 @ 17:00:08 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 17:00:08 - =======================
+03-05-2022 @ 18:02:33 - ======================
+03-05-2022 @ 18:02:33 - Start renew order cron at 2022-03-05 18:02:33
+03-05-2022 @ 18:02:33 - Search subscriptions with Payment due date < 2022-03-06 18:02:33
+03-05-2022 @ 18:02:33 - Found 0 subscriptions
+03-05-2022 @ 18:02:33 - ======================
+03-05-2022 @ 18:02:33 - ===============
+03-05-2022 @ 18:02:33 - Start Payment Renews cron at 2022-03-05 18:02:33
+03-05-2022 @ 18:02:33 - Search renew order with date < 2022-03-04 18:02:33
+03-05-2022 @ 18:02:33 - Found 4 new renew orders
+03-05-2022 @ 18:02:33 - Found 0 failed renew orders
+03-05-2022 @ 18:02:33 - Pay order #8662
+03-05-2022 @ 18:02:33 - The order 8662 should be pay with ( epayco )
+03-05-2022 @ 18:02:33 - Pay order #8660
+03-05-2022 @ 18:02:33 - The order 8660 should be pay with ( epayco )
+03-05-2022 @ 18:02:33 - Pay order #8659
+03-05-2022 @ 18:02:33 - The order 8659 should be pay with ( epayco )
+03-05-2022 @ 18:02:33 - Pay order #8655
+03-05-2022 @ 18:02:33 - The order 8655 should be pay with ( epayco )
+03-05-2022 @ 18:02:33 - =======================

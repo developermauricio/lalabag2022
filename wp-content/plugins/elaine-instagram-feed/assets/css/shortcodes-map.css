@@ -1,0 +1,75 @@
+/* ==========================================================================
+   Global partials
+   ========================================================================== */
+/* ==========================================================================
+   Shortcodes styles
+   ========================================================================== */
+.edgtf-instagram-list-holder {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+  clear: both;
+}
+
+.edgtf-instagram-list-holder:not(.edgtf-il-one-column) .edgtf-il-item {
+  float: left;
+}
+
+.edgtf-instagram-list-holder .edgtf-instagram-carousel .edgtf-il-item {
+  width: auto !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  float: none !important;
+}
+
+.edgtf-instagram-list-holder .edgtf-il-item {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.edgtf-instagram-list-holder.edgtf-il-two-columns .edgtf-il-item {
+  width: 50%;
+}
+
+@media only screen and (min-width: 1025px) {
+  .edgtf-instagram-list-holder.edgtf-il-two-columns .edgtf-il-item:nth-child(2n+1) {
+    clear: both;
+  }
+}
+
+.edgtf-instagram-list-holder.edgtf-il-three-columns .edgtf-il-item {
+  width: 33.33333%;
+}
+
+@media only screen and (min-width: 1201px) {
+  .edgtf-instagram-list-holder.edgtf-il-three-columns .edgtf-il-item:nth-child(3n+1) {
+    clear: both;
+  }
+}
+
+.edgtf-instagram-list-holder.edgtf-il-four-columns .edgtf-il-item {
+  width: 25%;
+}
+
+@media only screen and (min-width: 1281px) {
+  .edgtf-instagram-list-holder.edgtf-il-four-columns .edgtf-il-item:nth-child(4n+1) {
+    clear: both;
+  }
+}
+
+.edgtf-instagram-list-holder.edgtf-il-five-columns .edgtf-il-item {
+  width: 20%;
+}
+
+@media only screen and (min-width: 1281px) {
+  .edgtf-instagram-list-holder.edgtf-il-five-columns .edgtf-il-item:nth-child(5n+1) {
+    clear: both;
+  }
+}
+
+/*# sourceMappingURL=../../../../plugins/elaine-instagram-feed/assets/css/shortcodes-map.css.map */

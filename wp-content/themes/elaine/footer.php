@@ -1,0 +1,1 @@
+<?php do_action( 'elaine_edge_get_footer_template' );

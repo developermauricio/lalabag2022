@@ -1,0 +1,58 @@
+@include laptop-landscape-large {
+	.edgtf-rf-holder {
+
+		.edgtf-rf-col-holder {
+
+			&.edgtf-rf-btn-holder {
+				width: 21.5%;
+			}
+
+		}
+		.edgtf-rf-label {
+			width: 8.5%;
+		}
+	}
+}
+@include laptop-landscape {
+	.edgtf-rf-holder {
+
+		.edgtf-rf-col-holder {
+			float: left;
+			width: 18.5%;
+
+			&.edgtf-rf-btn-holder {
+				width: 23.5%;
+			}
+
+		}
+	}
+}
+@include ipad-landscape {
+	.edgtf-rf-holder {
+		width: 100%;
+		position: relative;
+		vertical-align: middle;
+		float: none;
+
+		.edgtf-rf-col-holder {
+			float: none;
+			width: 100%;
+			margin-bottom: 10px;
+
+			&.edgtf-rf-btn-holder {
+				text-align: center;
+				width: 100%;
+				float: none;
+				margin-top: 20px;
+			}
+
+		}
+
+		.edgtf-rf-label {
+			float: none;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+	}
+}
+

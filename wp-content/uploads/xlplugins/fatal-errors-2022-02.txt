@@ -1,0 +1,40 @@
+
+Feb 01, 2022 10.01.31: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process()
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array()
+#6 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packa
+
+Feb 08, 2022 09.22.57: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process()
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array()
+#6 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packa
+
+Feb 13, 2022 04.57.57: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process()
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array()
+#6 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packa
+
+Feb 22, 2022 08.23.33: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process()
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array()
+#6 /home/forge/lalabag.com/wp-content/plugins/woocommerce/packa

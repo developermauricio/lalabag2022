@@ -1,0 +1,57 @@
+/* ==========================================================================
+   Stacked Images style - begin
+   ========================================================================== */
+
+.edgtf-stacked-images-holder {
+	@include edgtfRelativeHolderLayout();
+	
+	&.edgtf-si-position-left {
+		
+		.edgtf-si-images {
+			margin: 0 35px 50px 0;
+			
+			.edgtf-si-stack-image {
+				left: 35px;
+			}
+		}
+	}
+	
+	&.edgtf-si-position-right {
+		
+		.edgtf-si-images {
+			margin: 0 0 50px 35px;
+			
+			.edgtf-si-stack-image {
+				right: 35px;
+			}
+		}
+	}
+	
+	.edgtf-si-images {
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		top: 50px;
+		opacity: 0;
+		@include edgtfTransition(opacity .55s cubic-bezier(0.23, 1, 0.32, 1), top .55s cubic-bezier(0.23, 1, 0.32, 1));
+		
+		&.edgtf-appeared {
+			opacity: 1;
+			top: 0;
+			
+			.edgtf-si-stack-image {
+				top: 50px;
+			}
+		}
+		
+		.edgtf-si-stack-image {
+			position: absolute;
+			top: 100px;
+			display: block;
+			@include edgtfTransition(top .7s cubic-bezier(0.23, 1, 0.32, 1));
+		}
+	}
+}
+/* ==========================================================================
+   Stacked Images style - end
+   ========================================================================== */

@@ -1,0 +1,76 @@
+
+Aug 01, 2021 10.18.38: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Aug 04, 2021 18.09.47: Uncaught Error: Call to a member function get_status() on null in /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php:675
+Stack trace:
+#0 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->ePayco_successful_request(NULL)
+#1 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php(619): do_action('ePayco_init', Array)
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->check_ePayco_response('')
+#5 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /home/forge/lalabag.com/wp-content/plugins/woocommerce/includes/class-wc-api.php(148): do_action('woocommerce_api...')
+#8 /
+
+Aug 08, 2021 01.04.22: Uncaught Error: Call to a member function get_status() on null in /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php:675
+Stack trace:
+#0 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->ePayco_successful_request(NULL)
+#1 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php(619): do_action('ePayco_init', Array)
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->check_ePayco_response('')
+#5 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /home/forge/lalabag.com/wp-content/plugins/woocommerce/includes/class-wc-api.php(148): do_action('woocommerce_api...')
+#8 /
+
+Aug 08, 2021 01.04.23: Uncaught Error: Call to a member function get_status() on null in /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php:675
+Stack trace:
+#0 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->ePayco_successful_request(NULL)
+#1 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php(619): do_action('ePayco_init', Array)
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->check_ePayco_response('')
+#5 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /home/forge/lalabag.com/wp-content/plugins/woocommerce/includes/class-wc-api.php(148): do_action('woocommerce_api...')
+#8 /
+
+Aug 09, 2021 17.08.12: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Aug 17, 2021 09.24.36: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Aug 28, 2021 16.20.19: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for

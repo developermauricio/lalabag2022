@@ -1,0 +1,138 @@
+/* ==========================================================================
+   Global partials
+   ========================================================================== */
+/* ==========================================================================
+   Custom Post Types responsive styles
+   ========================================================================== */
+/* ==========================================================================
+   Portfolio Single page responsive style - begin
+   ========================================================================== */
+.edgtf-portfolio-single-holder .edgtf-ps-image-holder.edgtf-ps-gallery-images {
+  /***** Columns Layout - end *****/
+}
+
+@media only screen and (max-width: 680px) {
+  .edgtf-portfolio-single-holder .edgtf-ps-image-holder.edgtf-ps-gallery-images .edgtf-ps-image {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .edgtf-portfolio-single-holder .edgtf-ps-info-holder {
+    margin: 30px 0 0 !important;
+  }
+  .edgtf-portfolio-single-holder.edgtf-ps-small-gallery-layout {
+    margin-bottom: 0;
+  }
+  .edgtf-portfolio-single-holder.edgtf-ps-small-images-layout .edgtf-ps-image-holder {
+    margin-bottom: 15px;
+  }
+  .edgtf-portfolio-single-holder.edgtf-ps-small-slider-layout .edgtf-ps-image-holder {
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .edgtf-portfolio-single-holder .edgtf-ps-navigation .edgtf-ps-prev-item, .edgtf-portfolio-single-holder .edgtf-ps-navigation .edgtf-ps-next-item {
+    display: none;
+  }
+  .edgtf-portfolio-single-holder .edgtf-ps-navigation .edgtf-ps-back-btn {
+    top: 67%;
+  }
+}
+
+/* ==========================================================================
+   Portfolio Single page responsive style - end
+   ========================================================================== */
+/* ==========================================================================
+# Team responsive style - begin
+========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .edgtf-team.info-bellow .edgtf-team-image {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .edgtf-team.info-hover {
+    margin-bottom: 30px;
+  }
+}
+
+/* ==========================================================================
+# Team responsive style - end
+========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .edgtf-testimonials-holder .edgtf-testimonials {
+    padding: 0 40px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .edgtf-testimonial-content .edgtf-testimonial-text {
+    margin-top: 0px;
+    padding: 0;
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .edgtf-testimonial-content .edgtf-tesstimonial-icon {
+    font-size: 300px;
+    top: 75px;
+    left: 40%;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav {
+    display: none;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-prev, .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-next {
+    top: 100px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-prev {
+    left: -10px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-next {
+    right: -10px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .edgtf-testimonials-holder .edgtf-testimonials {
+    padding: 0 40px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .edgtf-testimonial-content .edgtf-tesstimonial-icon {
+    left: 37%;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-prev, .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-next {
+    top: 100px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-prev {
+    left: -10px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-next {
+    right: -10px;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .edgtf-testimonials-holder .edgtf-testimonials {
+    padding: 0 50px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .edgtf-testimonial-content .edgtf-testimonial-text {
+    margin: 0px;
+    font-size: 15px;
+    line-height: 27px;
+    padding: 0 15px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .edgtf-testimonial-content .edgtf-tesstimonial-icon {
+    font-size: 120px;
+    top: 30px;
+    left: 33%;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-prev, .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-next {
+    top: 150px;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-prev {
+    left: 0;
+  }
+  .edgtf-testimonials-holder .edgtf-testimonials .owl-nav .owl-next {
+    right: 0;
+  }
+}
+
+/*# sourceMappingURL=../../../../plugins/elaine-core/assets/css/custom-post-types-map-responsive.css.map */

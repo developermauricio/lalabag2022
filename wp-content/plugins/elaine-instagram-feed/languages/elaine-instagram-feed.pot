@@ -1,0 +1,193 @@
+# Copyright (C) 2019 Elaine Instagram Feed
+# This file is distributed under the same license as the Elaine Instagram Feed package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elaine Instagram Feed 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/elaine-instagram-feed\n"
+"POT-Creation-Date: 2019-05-21 08:25:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/elaine-instagram-api.php:230
+msgid "Can't connect with Instagram"
+msgstr ""
+
+#: lib/elaine-instagram-api.php:250
+msgid "Success"
+msgstr ""
+
+#: lib/elaine-instagram-api.php:266
+msgid "User hasn't connected with Instagram"
+msgstr ""
+
+#: lib/elaine-instagram-api.php:286
+msgid "Can't connect with Instagram API"
+msgstr ""
+
+#: lib/elaine-instagram-api.php:302
+msgid "Can't get Instagram access token"
+msgstr ""
+
+#: lib/elaine-instagram-api.php:310
+msgid "Stored access token"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:29
+msgid "Edge Instagram List"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:31
+msgid "by ELAINE"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:38
+#: widgets/elaine-instagram-widget.php:41
+msgid "Number of Columns"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:45
+#: widgets/elaine-instagram-widget.php:32
+msgid "Type"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:47
+#: widgets/elaine-instagram-widget.php:34
+msgid "Gallery"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:48
+#: widgets/elaine-instagram-widget.php:35
+msgid "Carousel"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:54
+#: widgets/elaine-instagram-widget.php:68
+msgid "Space Between Items"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:60
+#: widgets/elaine-instagram-widget.php:53
+msgid "Number of Photos"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:65
+#: widgets/elaine-instagram-widget.php:80
+msgid "Images Cache Time"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:71
+#: widgets/elaine-instagram-widget.php:74
+msgid "Show Instagram Icon"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:78
+#: widgets/elaine-instagram-widget.php:58
+msgid "Image Size"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:80
+#: widgets/elaine-instagram-widget.php:60
+msgid "Small"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:81
+#: widgets/elaine-instagram-widget.php:61
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:82
+#: widgets/elaine-instagram-widget.php:62
+msgid "Large"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:88
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:91
+#: shortcodes/instagram-list/instagram-list.php:99
+#: shortcodes/instagram-list/instagram-list.php:106
+#: shortcodes/instagram-list/instagram-list.php:113
+#: shortcodes/instagram-list/instagram-list.php:121
+#: shortcodes/instagram-list/instagram-list.php:129
+msgid "Slider Settings"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:96
+msgid "Enable Slider Autoplay"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:104
+msgid "Slide Duration"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:105
+msgid "Default value is 5000 (ms)"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:111
+msgid "Slide Animation Duration"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:112
+msgid "Speed of slide animation in milliseconds. Default value is 600."
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:118
+msgid "Enable Slider Navigation Arrows"
+msgstr ""
+
+#: shortcodes/instagram-list/instagram-list.php:126
+msgid "Enable Slider Pagination"
+msgstr ""
+
+#: shortcodes/instagram-list/templates/holder.php:18
+msgid "It seems that you haven't connected with your Instagram account"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:13
+msgid "Elaine Instagram Widget"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:15
+msgid "Display your Instagram feed"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:27
+msgid "Title"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:43
+msgid "Two"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:44
+msgid "Three"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:45
+msgid "Four"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:46
+msgid "Six"
+msgstr ""
+
+#: widgets/elaine-instagram-widget.php:47
+msgid "Nine"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Elaine Instagram Feed"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds Instagram feed functionality to our theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Edge Themes"
+msgstr ""

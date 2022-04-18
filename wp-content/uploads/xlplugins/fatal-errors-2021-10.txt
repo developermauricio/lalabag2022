@@ -1,0 +1,40 @@
+
+Oct 04, 2021 16.53.28: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Oct 16, 2021 10.55.26: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Oct 22, 2021 00.19.35: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for
+
+Oct 29, 2021 22.09.56: Uncaught Error: Call to a member function get() on null in /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php:175
+Stack trace:
+#0 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 /home/forge/lalabag.com/wp-content/plugins/wpforms/src/Integrations/UsageTracking/SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/forge/lalabag.com/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/forge/lalabag.com/wp-content/plugins/wpforms/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 /home/for

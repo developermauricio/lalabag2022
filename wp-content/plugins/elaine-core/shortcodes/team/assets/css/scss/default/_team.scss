@@ -1,0 +1,121 @@
+/* ==========================================================================
+   Team shortcode style - begin
+   ========================================================================== */
+
+.edgtf-team-holder {
+    @include edgtfRelativeHolderLayout();
+	
+	.edgtf-team-inner{
+		text-align: center;
+	}
+	
+	&.edgtf-team-info-on-image {
+		
+		.touch & {
+			cursor: pointer;
+		}
+
+		&:hover {
+			
+			.edgtf-team-social-wrapper {
+				opacity: 1;
+			}
+
+			.edgtf-team-social-inner {
+				@include edgtfTransitionTransform(.45s cubic-bezier(0.64, 0.01, 0.15, 1.16), opacity .5s);
+				@include edgtfTransform(translate3d(0,0,0));
+			}
+		}
+		
+		.edgtf-team-social-holder {
+			margin: 7px 0 0;
+		}
+	}
+
+    .edgtf-team-image {
+        @include edgtfRelativeHolderLayout();
+
+        img {
+	        width: 193px;
+	        height: 193px;
+	        border-radius: 50%;
+        }
+    }
+	
+	.edgtf-team-info {
+		@include edgtfRelativeHolderLayout();
+		margin: 23px 0 0;
+	}
+
+    .edgtf-team-name {
+        margin: 0;
+    }
+
+    .edgtf-team-position {
+        margin: -4px 0 0;
+	    font-size: 15px;
+	    font-weight: 400;
+	    text-transform: none;
+	    letter-spacing: 0;
+	    color: $default-text-color;
+    }
+	
+	.edgtf-team-text {
+		margin: 10px 0 0;
+		font-size: 15px;
+		font-weight: 400;
+		letter-spacing: 0;
+		color: $default-text-color;
+		line-height: 25px;
+	}
+	
+	.edgtf-team-social-wrapper {
+		@include edgtfAbsoluteHolderLayout();
+		background-color: rgba(#fff, .85);
+		z-index: 1;
+		opacity: 0;
+		@include edgtfTransform(translateZ(0));
+		@include edgtfTransition(opacity .3s);
+	}
+	
+	.edgtf-team-social-outer {
+		@include edgtfTableLayout();
+	}
+	
+	.edgtf-team-social-inner {
+		position: relative;
+		display: table-cell;
+		height: 100%;
+		width: 100%;
+		padding: 0 40px 58px;
+		vertical-align: bottom;
+		@include edgtfTransitionTransform(.2s ease);
+		@include edgtfTransform(translate3d(0,40px,0));
+	}
+	
+	.edgtf-team-social-holder {
+		@include edgtfRelativeHolderLayout();
+		margin: 27px 0 0;
+		
+		.edgtf-team-icon {
+			font-size: 17px;
+			margin: 0 7px 0 7px;
+			span{
+				a {
+					color: $first-main-color;
+					&:hover {
+						color: $default-heading-color;
+					}
+				}
+			}
+			
+			.edgtf-icon-element {
+				font-size: inherit;
+				@include edgtfTransition(none);
+			}
+		}
+	}
+}
+/* ==========================================================================
+   Team shortcode style - end
+   ========================================================================== */

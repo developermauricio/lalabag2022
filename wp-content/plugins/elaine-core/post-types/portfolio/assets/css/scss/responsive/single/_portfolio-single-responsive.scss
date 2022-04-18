@@ -1,0 +1,62 @@
+/* ==========================================================================
+   Portfolio Single page responsive style - begin
+   ========================================================================== */
+
+.edgtf-portfolio-single-holder {
+	
+    .edgtf-ps-image-holder {
+	    
+	    &.edgtf-ps-gallery-images {
+		
+		    @include phone-landscape {
+			
+			    .edgtf-ps-image {
+				    width: 100% !important; // !important is set to override all other stronger selectors
+			    }
+		    }
+		
+		    /***** Columns Layout - end *****/
+	    }
+    }
+	
+	@include ipad-landscape {
+		
+		.edgtf-ps-info-holder {
+			margin: 30px 0 0 !important; // can be set inline in option
+		}
+		
+		&.edgtf-ps-small-gallery-layout{
+			
+				margin-bottom: 0;
+			
+		}
+		
+		&.edgtf-ps-small-images-layout {
+				
+				.edgtf-ps-image-holder {
+					margin-bottom: 15px;
+				}
+			}
+		
+		&.edgtf-ps-small-slider-layout {
+			.edgtf-ps-image-holder{
+			margin-bottom: 15px;
+			}
+		}
+	}
+	
+	@include phone-portrait{
+		.edgtf-ps-navigation{
+			.edgtf-ps-prev-item, .edgtf-ps-next-item{
+				display: none;
+			}
+			.edgtf-ps-back-btn{
+				top: 67%;
+			}
+		}
+	}
+}
+
+/* ==========================================================================
+   Portfolio Single page responsive style - end
+   ========================================================================== */

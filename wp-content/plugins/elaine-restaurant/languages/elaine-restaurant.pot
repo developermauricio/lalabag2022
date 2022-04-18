@@ -1,0 +1,374 @@
+# Copyright (C) 2019 Elaine Restaurant
+# This file is distributed under the same license as the Elaine Restaurant package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elaine Restaurant 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/elaine-restaurant\n"
+"POT-Creation-Date: 2019-05-21 08:25:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/options/map.php:11
+msgid "Restaurant"
+msgstr ""
+
+#: admin/options/map.php:22
+#: modules/shortcodes/working-hours/working-hours.php:21
+msgid "Working Hours"
+msgstr ""
+
+#: admin/options/map.php:29
+#: modules/shortcodes/working-hours/working-hours.php:96
+msgid "Monday"
+msgstr ""
+
+#: admin/options/map.php:31
+msgid "Working hours for Monday"
+msgstr ""
+
+#: admin/options/map.php:46 admin/options/map.php:80 admin/options/map.php:114
+#: admin/options/map.php:148 admin/options/map.php:182
+#: admin/options/map.php:216 admin/options/map.php:250
+msgid "From"
+msgstr ""
+
+#: admin/options/map.php:55 admin/options/map.php:89 admin/options/map.php:123
+#: admin/options/map.php:157 admin/options/map.php:191
+#: admin/options/map.php:225 admin/options/map.php:259
+msgid "To"
+msgstr ""
+
+#: admin/options/map.php:63
+#: modules/shortcodes/working-hours/working-hours.php:106
+msgid "Tuesday"
+msgstr ""
+
+#: admin/options/map.php:65
+msgid "Working hours for Tuesday"
+msgstr ""
+
+#: admin/options/map.php:97
+#: modules/shortcodes/working-hours/working-hours.php:116
+msgid "Wednesday"
+msgstr ""
+
+#: admin/options/map.php:99
+msgid "Working hours for Wednesday"
+msgstr ""
+
+#: admin/options/map.php:131
+#: modules/shortcodes/working-hours/working-hours.php:126
+msgid "Thursday"
+msgstr ""
+
+#: admin/options/map.php:133
+msgid "Working hours for Thursday"
+msgstr ""
+
+#: admin/options/map.php:165
+#: modules/shortcodes/working-hours/working-hours.php:136
+msgid "Friday"
+msgstr ""
+
+#: admin/options/map.php:167
+msgid "Working hours for Friday"
+msgstr ""
+
+#: admin/options/map.php:199
+#: modules/shortcodes/working-hours/working-hours.php:146
+msgid "Saturday"
+msgstr ""
+
+#: admin/options/map.php:201
+msgid "Working hours for Saturday"
+msgstr ""
+
+#: admin/options/map.php:233
+#: modules/shortcodes/working-hours/working-hours.php:156
+msgid "Sunday"
+msgstr ""
+
+#: admin/options/map.php:235
+msgid "Working hours for Sunday"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/reservation-form.php:21
+msgid "Reservation Form"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/reservation-form.php:23
+#: modules/shortcodes/working-hours/working-hours.php:23
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:42
+msgid "by ELAINE RESTAURANT"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/reservation-form.php:29
+msgid "OpenTable ID"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:8
+msgid "1 Person"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:9
+msgid "2 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:10
+msgid "3 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:11
+msgid "4 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:12
+msgid "5 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:13
+msgid "6 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:14
+msgid "7 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:15
+msgid "8 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:16
+msgid "9 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:17
+msgid "10 People"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:25
+msgid "For"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:36
+msgid "At"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:86
+msgid "Book a Table"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:105
+msgid "Powered by OpenTable"
+msgstr ""
+
+#: modules/shortcodes/reservation-form/templates/reservation-form.php:107
+msgid "You haven't added OpenTable ID"
+msgstr ""
+
+#: modules/shortcodes/working-hours/templates/working-hours-template.php:41
+msgid "Working hours are not set"
+msgstr ""
+
+#: modules/shortcodes/working-hours/working-hours.php:29
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:73
+msgid "Title"
+msgstr ""
+
+#: modules/shortcodes/working-hours/working-hours.php:37
+msgid "Title Accent Word"
+msgstr ""
+
+#: modules/shortcodes/working-hours/working-hours.php:45
+msgid "Enable Frame"
+msgstr ""
+
+#: modules/shortcodes/working-hours/working-hours.php:47
+msgid "Enabling this option will display dark frame around working hours"
+msgstr ""
+
+#: modules/shortcodes/working-hours/working-hours.php:58
+msgid "Background Image"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:9
+msgid "Restaurant Menu Item Settings"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:19
+msgid "Restaurant Menu Item Price"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:20
+msgid "Enter price for this restaurant menu item"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:33
+msgid "Restaurant Menu Item Description"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:34
+msgid "Enter description for this restaurant menu item"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:44
+msgid "Restaurant Menu Item Label"
+msgstr ""
+
+#: post-types/restaurant-menu/admin/meta-boxes/restaurant-menu-meta-boxes.php:45
+msgid "Enter label for this restaurant menu item"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:49
+#: post-types/restaurant-menu/restaurant-menu-register.php:50
+msgid "Restaurant Menu"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:51
+msgid "Restaurant Menu Items"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:52
+#: post-types/restaurant-menu/restaurant-menu-register.php:55
+msgid "Add New Restaurant Menu Item"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:53
+msgid "Restaurant Menu Item"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:54
+msgid "New Restaurant Menu Item"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:56
+msgid "Edit Restaurant Menu Item"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:75
+#: post-types/restaurant-menu/restaurant-menu-register.php:76
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:93
+msgid "Restaurant Menu Category"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:77
+msgid "Search Restaurant Menu Categories"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:78
+msgid "All Restaurant Menu Categories"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:79
+msgid "Parent Restaurant Menu Category"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:80
+msgid "Parent Restaurant Menu Category:"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:81
+msgid "Edit Restaurant Menu Category"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:82
+msgid "Update Restaurant Menu Category"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:83
+msgid "Add New Restaurant Menu Category"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:84
+msgid "New Restaurant Menu Category Name"
+msgstr ""
+
+#: post-types/restaurant-menu/restaurant-menu-register.php:85
+msgid "Restaurant Menu Categories"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:40
+msgid "Restaurant Menu List"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:48
+msgid "Show Featured Image?"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:52
+msgid "Yes"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:53
+msgid "No"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:56
+msgid "Use this option to show featured image of menu items"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:60
+msgid "Skin"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:63
+msgid "Dark"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:64
+msgid "Light"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:69
+msgid "Order By"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:72
+msgid "Menu Order"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:74
+msgid "Date"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:77
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:88
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:95
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:105
+msgid "Query and Layout Options"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:82
+msgid "Order"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:94
+msgid "Enter one cafe menu category slug (leave empty for showing all cafe menu categories)"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:100
+msgid "Number of Restaurant Menu Items"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:104
+msgid "(enter -1 to show all)"
+msgstr ""
+
+#: post-types/restaurant-menu/shortcodes/restaurant-menu-list/restaurant-menu-list.php:155
+msgid "Sorry, no menu items matched your criteria."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Elaine Restaurant"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds features to our theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Edge Themes"
+msgstr ""

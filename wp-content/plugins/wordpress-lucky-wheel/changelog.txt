@@ -1,0 +1,70 @@
+**v1.0.4.3 - 2020.05.21**
+- Fixed: Shortcode
+
+**v1.0.4.2 - 2020.05.20**
+- Added: Compatibility with Elementor
+- Updated: Compatibility with WP 5.4
+
+**v1.0.4.1 - 2019.11.16**
+- Updated: Compatible WP 5.3
+
+**v1.0.4 - 2019.08.03**
+- Added: Shortcode [wordpress_lucky_wheel]
+- Added: Change wheel speed
+- Added: Multilingual support
+
+**v1.0.3.3 - 2019.05.01**
+- Fixed: Export csv not creating download file
+- Added: Auto get key
+- Added: Send email to admin when someone wins a prize
+
+**v1.0.3.2 - 2019.01.17**
+- Updated: Replace function get_current_screen for not working in some cases
+
+**v1.0.3.1 - 2019.01.03**
+- Added: Option to adjust the size of the wheel by percentage
+- Added: Option to change text color of each slice
+- Fixed: Button save not showing
+
+**v1.0.3 - 2018.12.26**
+- Fixed: Translate warning message
+- Fixed: Class Support
+- Fixed: Check SSL
+- Fixed: Option Show only on Homepage, Blog page and Shop page
+- Fixed: Blurry text on mobile
+- Added: Custom field mobile
+- Added: Option to select ajax endpoint
+- Added: Custom css field
+- Added: Option to show full wheel on desktop
+- Added: Change font size of text on the wheel by %
+- Added: Option to set color randomly from predefined sets for each visitor
+- Added: Preview emails
+- Added: Preview wheel
+- Added: Background effect, Congratulation effect
+- Updated: All wheel slices labels is editable
+- Updated: Optimize getting data
+
+**v1.0.2.1**
+- Added: Able to use \n once in wheel slices text
+- Fixed: Class support
+- Fixed: Check SSL
+
+**v1.0.2**
+- Fixed: Active purchased code
+- Fixed: Wheel description design
+- Added: More trigger to show wheel
+- Added: Slices text color option
+- Added: ActiveCampaign email api
+- Added: Sendgrid email api
+- Added: Option to set time to show popup again when customers close and do not spin
+
+**v1.0.1.1 - 2018.05.25**
+- Fixed: Rename plugin
+
+**v1.0.1 - 2018.05.05**
+- Added: Select Google fonts
+- Added: Class wp-lucky-wheel-popup-icon to embed in elsewhere
+- Fixed: Responsive on mobile
+
+**v1.0.0 - 2018.04.30**
+- First release.

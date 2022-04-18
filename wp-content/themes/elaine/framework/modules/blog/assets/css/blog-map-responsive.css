@@ -1,0 +1,137 @@
+/* ==========================================================================
+   Blog responsive styles - begin
+   ========================================================================== */
+/* ==========================================================================
+   Blog List - Standard style - begin
+   ========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .edgtf-blog-pagination {
+    margin-bottom: 48px;
+  }
+  .edgtf-blog-holder article.format-link .edgtf-quote-author {
+    text-align: center;
+  }
+  .edgtf-blog-holder article.format-link .edgtf-post-text {
+    padding: 69px 20px 56px;
+  }
+  .edgtf-blog-holder article.format-quote .edgtf-quote-author {
+    text-align: center;
+  }
+  .edgtf-blog-holder article.format-quote .edgtf-post-text {
+    padding: 63px 20px 54px;
+  }
+  .edgtf-blog-holder article .edgtf-post-info-bottom .edgtf-post-info-bottom-left,
+  .edgtf-blog-holder article .edgtf-post-info-bottom .edgtf-post-info-bottom-right {
+    width: 100%;
+    text-align: left;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .edgtf-blog-pagination {
+    margin-bottom: 48px;
+  }
+  .edgtf-blog-holder article.format-quote .edgtf-post-text {
+    padding: 56px 13px 45px;
+  }
+  .edgtf-blog-holder article.format-link .edgtf-post-text {
+    padding: 70px 20px 56px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .edgtf-blog-pagination {
+    margin-bottom: 48px;
+  }
+  .edgtf-blog-holder article.format-link .edgtf-post-text {
+    padding: 47px 21px 37px;
+  }
+  .edgtf-blog-holder article.format-quote .edgtf-post-text {
+    padding: 46px 21px 34px;
+  }
+  .edgtf-blog-holder article .edgtf-post-info-bottom .edgtf-post-info-comments-holder {
+    margin-right: 17px;
+    margin-left: 17px;
+  }
+}
+
+/* ==========================================================================
+   Blog List - Standard style - end
+   ========================================================================== */
+@media only screen and (max-width: 768px) {
+  .edgtf-related-posts-holder .edgtf-related-post {
+    width: 50% !important;
+    margin: 0 0 90px;
+    float: left;
+  }
+  .edgtf-related-posts-holder .edgtf-related-post:last-child {
+    margin: -8px 0 30px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .edgtf-related-posts-holder .edgtf-related-post {
+    width: 100% !important;
+    margin: 0 0 82px;
+  }
+  .edgtf-related-posts-holder .edgtf-related-post:last-child {
+    margin: 0 0 30px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .edgtf-blog-holder.edgtf-blog-single article.format-quote .edgtf-post-text {
+    padding: 53px 20px 54px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .edgtf-blog-holder.edgtf-blog-single article .edgtf-post-info-bottom .edgtf-post-info-bottom-left,
+  .edgtf-blog-holder.edgtf-blog-single article .edgtf-post-info-bottom .edgtf-post-info-bottom-right {
+    width: 100%;
+    float: none;
+  }
+  .edgtf-blog-holder.edgtf-blog-single article .edgtf-post-info-bottom .edgtf-post-info-bottom-right {
+    text-align: inherit;
+    margin: 10px 0 0;
+  }
+  .edgtf-blog-holder.edgtf-blog-single article.format-quote .edgtf-post-text {
+    padding: 46px 13px 46px;
+  }
+  .edgtf-blog-holder.edgtf-blog-single article.format-quote .edgtf-post-info-bottom-left {
+    width: 100%;
+  }
+  .edgtf-blog-holder.edgtf-blog-single article.format-link .edgtf-post-text {
+    padding: 60px 20px 50px;
+  }
+  .edgtf-blog-holder.edgtf-blog-single article.format-link .edgtf-post-info-bottom-left {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .edgtf-blog-holder.edgtf-blog-single article.format-quote .edgtf-post-text {
+    padding: 36px 13px 34px;
+  }
+  .edgtf-blog-holder.edgtf-blog-single article.format-link .edgtf-post-text {
+    padding: 37px 20px 31px;
+  }
+}
+
+/* ==========================================================================
+   Blog Slider shortcode responsive style - begin
+   ========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .edgtf-blog-slider-holder.edgtf-bs-carousel-centered .active.center .edgtf-item-text-wrapper {
+    opacity: 1;
+  }
+}
+
+/* ==========================================================================
+   Blog Slider shortcode responsive style - end
+   ========================================================================== */
+/* ==========================================================================
+   Blog responsive styles - end
+   ========================================================================== */
+
+/*# sourceMappingURL=blog-map-responsive.css.map */

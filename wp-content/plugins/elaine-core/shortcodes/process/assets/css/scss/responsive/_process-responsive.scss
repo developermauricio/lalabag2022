@@ -1,0 +1,161 @@
+/* ==========================================================================
+   Process shortcode responsive style - begin
+   ========================================================================== */
+
+.edgtf-process-holder {
+	
+	@include laptop-landscape-mac {
+		
+		&.edgtf-responsive-1366 {
+			
+			.edgtf-mark-horizontal-holder {
+				display: none;
+			}
+			
+			.edgtf-mark-vertical-holder {
+				display: block;
+			}
+			
+			.edgtf-process-inner {
+				@include edgtfRelativeHolderLayout();
+				padding: 0 0 0 76px;
+				margin: 0;
+				box-sizing: border-box;
+			}
+			
+			.edgtf-process-item {
+				width: 100%;
+				float: none;
+				padding: 0;
+				text-align: inherit;
+			}
+		}
+	}
+	
+	@include ipad-landscape {
+		
+		&.edgtf-responsive-1024 {
+			
+			.edgtf-mark-horizontal-holder {
+				display: none;
+			}
+			
+			.edgtf-mark-vertical-holder {
+				display: block;
+			}
+			
+			.edgtf-process-inner {
+				@include edgtfRelativeHolderLayout();
+				padding: 0 0 0 76px;
+				margin: 0;
+				box-sizing: border-box;
+			}
+			
+			.edgtf-process-item {
+				width: 100%;
+				float: none;
+				padding: 0;
+				text-align: inherit;
+			}
+		}
+	}
+	
+	@include ipad-portrait {
+		
+		&.edgtf-responsive-768 {
+			
+			.edgtf-mark-horizontal-holder {
+				display: none;
+			}
+			
+			.edgtf-mark-vertical-holder {
+				display: block;
+			}
+			
+			.edgtf-process-inner {
+				@include edgtfRelativeHolderLayout();
+				padding: 0;
+				margin: 0;
+				text-align: center;
+				box-sizing: border-box;
+			}
+			
+			.edgtf-process-item {
+				width: 100%;
+				float: none;
+				padding: 0;
+				text-align: inherit;
+				margin-bottom: 62px;
+				
+				&:last-child{
+					margin-bottom: 0px;
+				}
+			}
+			
+			.edgtf-process-line-image{
+				display: none;
+			}
+		}
+	}
+	
+	@include phone-landscape {
+		
+		&.edgtf-responsive-680 {
+			
+			.edgtf-mark-horizontal-holder {
+				display: none;
+			}
+			
+			.edgtf-mark-vertical-holder {
+				display: block;
+			}
+			
+			.edgtf-process-inner {
+				@include edgtfRelativeHolderLayout();
+				padding: 0 0 0 76px;
+				margin: 0;
+				box-sizing: border-box;
+			}
+			
+			.edgtf-process-item {
+				width: 100%;
+				float: none;
+				padding: 0;
+				text-align: inherit;
+				margin-bottom: 61px;
+			}
+		}
+	}
+	
+	@include phone-portrait {
+		
+		&.edgtf-responsive-480 {
+			
+			.edgtf-mark-horizontal-holder {
+				display: none;
+			}
+			
+			.edgtf-mark-vertical-holder {
+				display: block;
+			}
+			
+			.edgtf-process-inner {
+				@include edgtfRelativeHolderLayout();
+				padding: 0 0 0 76px;
+				margin: 0;
+				box-sizing: border-box;
+			}
+			
+			.edgtf-process-item {
+				width: 100%;
+				float: none;
+				padding: 0;
+				text-align: inherit;
+				margin-bottom: 61px;
+			}
+		}
+	}
+}
+/* ==========================================================================
+   Process shortcode responsive style - end
+   ========================================================================== */
